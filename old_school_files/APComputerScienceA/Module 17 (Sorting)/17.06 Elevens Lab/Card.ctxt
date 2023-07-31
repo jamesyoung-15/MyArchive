@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Card
+comment0.text=\n\ Card.java\n\ Card\ represents\ a\ playing\ card.\n\n\ \ <\ Your\ Name\ >\n\ \ <\ Today's\ Date\ >\n
+comment1.params=cardRank\ cardSuit\ cardPointValue
+comment1.target=Card(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\n\ Creates\ a\ new\ Card\ instance.\n\n\ @param\ cardRank\ \ a\ String\ value\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ containing\ the\ rank\ of\ the\ card\n\ @param\ cardSuit\ \ a\ String\ value\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ containing\ the\ suit\ of\ the\ card\n\ @param\ cardPointValue\ an\ int\ value\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ containing\ the\ point\ value\ of\ the\ card\n
+comment2.params=
+comment2.target=java.lang.String\ suit()
+comment2.text=\n\ Accesses\ this\ Card's\ suit.\n\ @return\ this\ Card's\ suit.\n
+comment3.params=
+comment3.target=java.lang.String\ rank()
+comment3.text=\n\ Accesses\ this\ Card's\ rank.\n\ @return\ this\ Card's\ rank.\n
+comment4.params=
+comment4.target=int\ pointValue()
+comment4.text=\n\ Accesses\ this\ Card's\ point\ value.\n\ @return\ this\ Card's\ point\ value.\n
+comment5.params=otherCard
+comment5.target=boolean\ matches(Card)
+comment5.text=\ Compare\ this\ card\ with\ the\ argument.\n\ @param\ otherCard\ the\ other\ card\ to\ compare\ to\ this\n\ @return\ true\ if\ the\ rank,\ suit,\ and\ point\ value\ of\ this\ card\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ are\ equal\ to\ those\ of\ the\ argument;\n\ \ \ \ \ \ \ \ \ false\ otherwise.\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\n\ Converts\ the\ rank,\ suit,\ and\ point\ value\ into\ a\ string\ in\ the\ format\n\ \ \ \ \ "[Rank]\ of\ [Suit]\ (point\ value\ \=\ [PointValue])".\n\ This\ provides\ a\ useful\ way\ of\ printing\ the\ contents\n\ of\ a\ Deck\ in\ an\ easily\ readable\ format\ or\ performing\n\ other\ similar\ functions.\n\n\ @return\ a\ String\ containing\ the\ rank,\ suit,\n\ \ \ \ \ \ \ \ \ and\ point\ value\ of\ the\ card.\n
+numComments=7

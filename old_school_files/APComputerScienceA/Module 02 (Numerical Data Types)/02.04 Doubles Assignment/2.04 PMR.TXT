@@ -1,0 +1,16 @@
+PROJECT TITLE:
+PURPOSE OF PROJECT: Revise the Calculation V5 to replace all decimal values with double variables
+VERSION or DATE: June 19, 2019
+AUTHORS: James Young
+
+------------------------------------------------------------------------
+PMR:
+After some practice, I found it easy to remember how to use concatenation and I feel a lot more comfortable
+writing arithmetic expressions now. However, I kept making one syntax error which was that I forgot to put two brackets
+after writing my equation.
+
+------------------------------------------------------------------------
+In the future: 
+I should continue to practice using double variable and integer variable
+so that I can be more familiar with it. Also, I think I should give my variables a more meaningful
+name as it will be helpful in the future when I have more variables to use.

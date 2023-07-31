@@ -1,0 +1,13 @@
+
+
+PROJECT TITLE: 9.04 Challenge Program (Catupult)
+PURPOSE OF PROJECT: write a program to calculate the trajectory of a projectile based on launch angles and launch velocities.
+VERSION or DATE: October 27, 2019
+Author: James Young
+
+------------------------------------------------------------------------
+PMR:
+I understand more about 2D arrays and I learnt about the toRadians() and the sin() methods.
+------------------------------------------------------------------------
+In the Future:
+Keep practicing

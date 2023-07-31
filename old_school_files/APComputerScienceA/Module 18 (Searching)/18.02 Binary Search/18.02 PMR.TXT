@@ -1,0 +1,12 @@
+PROJECT TITLE: 18.02 Binary Search Music Assignment
+PURPOSE OF PROJECT: Ccreate several binary search methods and perform the searches using a collection of music.
+Date: March 22, 2020
+AUTHORS: James Young
+
+
+PMR:
++ Works and is organised
+- Add more comments
+
+In the future: 
+Keep practicing

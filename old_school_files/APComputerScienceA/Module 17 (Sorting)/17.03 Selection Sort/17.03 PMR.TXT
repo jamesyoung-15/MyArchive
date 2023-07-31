@@ -1,0 +1,12 @@
+PROJECT TITLE: 17.05 Challenge Assignment
+PURPOSE OF PROJECT: Imagine you work in a store and have been asked to keep an inventory of the products for sale. Different people have requested that you sort the list and print it in various ways. You can do that and will do so using each of the different sorting algorithms.
+Date: March 22, 2020
+AUTHORS: James Young
+
+
+PMR:
++ Works and is organised
+- Add more comments
+
+In the future: 
+Keep practicing

@@ -1,0 +1,17 @@
+PROJECT TITLE: 4.05 BMI
+PURPOSE OF PROJECT: Write a program to calculate Body Mass Index (BMI) given a person's height and weight. 
+Use previous assignments and demo programs as models.
+DATE: July 17, 2019
+AUTHOR: James Young
+
+
+------------------------------------------------------------------------
+PMR:
+After completing this assignment, I think I understand how to use boolean data types and can now use
+if-else-if statements. One issue I ran into was that I forgot to use parseDouble to convert my string 
+to a double when I asked the user for their height. It took me a while to figure this one out but after looking
+through some of the old examples from previous lessons I figured it out.
+------------------------------------------------------------------------
+In the Future:
+I will continue practicing if-else-if statements so that I am comfortable as I forgot to put { 
+when I was typing the if-else-if statements.

@@ -1,0 +1,12 @@
+PROJECT TITLE: 14.03 Caesar Shift Cipher
+PURPOSE OF PROJECT: Write a program to encode or decode a message using a Caesar Shift.
+VERSION or DATE: Jan 9, 2020
+AUTHORS: James Young
+
+------------------------------------------------------------------------
+PMR:
+This assignment took me quite a while as I didn't write a plan beforehand so I got confused
+with my methods and codes as I was half-way through. 
+------------------------------------------------------------------------
+In the future:
+Keep practicing and make sure I write my plan next time.

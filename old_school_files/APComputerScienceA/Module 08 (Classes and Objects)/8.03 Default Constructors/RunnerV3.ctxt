@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=RunnerV3
+comment1.params=
+comment1.target=RunnerV3()
+comment2.params=mRan
+comment2.target=double\ calckm(double)
+comment3.params=goalKm\ kmRan
+comment3.target=double\ goalLeft(double,\ double)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

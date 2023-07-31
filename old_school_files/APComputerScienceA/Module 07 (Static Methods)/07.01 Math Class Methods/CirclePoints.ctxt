@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CirclePoints
+comment0.text=\n\ Title\:\ 7.01\ Math\ Class\ Methods\ CirclePoints\n\ Author\:\ James\ Young\n\ Purpose\:\ Calculate\ the\ (x,\ y)\ coordinates\ of\ points\ on\ a\ circle\ of\ radius\ 1.0.\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

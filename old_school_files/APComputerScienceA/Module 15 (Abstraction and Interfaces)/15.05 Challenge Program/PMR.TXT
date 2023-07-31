@@ -1,0 +1,12 @@
+PROJECT TITLE: 15.05 Challenge Program 
+PURPOSE OF PROJECT: For this assignment, create an inventory project utilizing abstract classes, interfaces, and concrete classes.
+DATE: Jan 26, 2020
+AUTHOR: James Young
+
+------------------------------------------------------------------------
+PMR:
+I enjoyed working on this project and thought I did a good job on this assignment.
+One improvement I could make is to add more to the abstract method in the Vehicle class more useful as it does nothing in this assignment.
+------------------------------------------------------------------------
+In the Future:
+Keep practising.

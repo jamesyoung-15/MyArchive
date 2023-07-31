@@ -1,0 +1,12 @@
+PROJECT TITLE: 1.05 Hello World
+PURPOSE OF PROJECT: Use print statement to display "Hello World!" message.
+VERSION or DATE: June 17,2019 
+AUTHORS: James Young
+
+------------------------------------------------------------------------
+PMR:
+I easily navigated through BlueJ and feel comfortable using it. However, I made a
+few syntax errors and forgot the semicolons and parantheses a few times.
+
+------------------------------------------------------------------------
+In the future: I should keep practicing to get a good habit and reduce my mistakes.

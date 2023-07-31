@@ -1,0 +1,7 @@
+ID	Name	Grade
+1	Bill	90.5
+2	Jack	95.5
+3	Ron	85.5
+4	Mark	93.5
+5	Donald	87.5
+6	Harry	90.5

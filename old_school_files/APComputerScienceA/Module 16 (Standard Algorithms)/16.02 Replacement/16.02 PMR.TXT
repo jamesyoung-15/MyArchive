@@ -1,0 +1,16 @@
+PROJECT TITLE: 16.02 Mock Election
+
+PURPOSE OF PROJECT: Create a mock election project to demonstrate traversal algorithms, 
+using the results of a mock election with an arrays and ArrayList.
+
+DATE: Feb 10, 2020
+
+AUTHORS: James Young
+
+------------------------------------------------------------------------
+PMR:
+I am happy with the approach and outcome of my program. One thing I would change is
+adding more documentations and comments.
+------------------------------------------------------------------------
+In the future:
+Keep practicing

@@ -1,0 +1,15 @@
+ 
+PROJECT TITLE: 1.05 Student ID
+PURPOSE OF PROJECT: Use print statement to print information usually found in ID.
+VERSION or DATE: June 17, 2019
+AUTHOR: James Young
+
+------------------------------------------------------------------------
+PMR:
+I feel comfortable using BlueJ and have no problem navigating and using the software. However, while making this
+program I made a lot of syntax errors mainly because I often forgot to put a semicolon in the end of my print statement.
+------------------------------------------------------------------------
+In the future: 
+I should continue practicing so that I will reduce my syntax errors and will feel more comfortable writing Java. 
+I especially need to practice using print and println as I still get confused with their difference. 
+One thing I don't really understand is the purpose of using "public static void main(String[ ] args)". 

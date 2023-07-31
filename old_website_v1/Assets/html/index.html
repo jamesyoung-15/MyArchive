@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>James Young, Personal Website</title>
+    <link rel="stylesheet" href="../css/style.css" />
+    <link rel="shortcut icon" href="../Images/logo3.png" />
+    <script
+      src="https://kit.fontawesome.com/c8e4d183c2.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <!-- Navigation -->
+    <section>
+      <nav>
+        <div class="logo">
+          <h4>JYY</h4>
+        </div>
+        <!-- Menu bar -->
+        <ul class="nav-link">
+          <li class="menu-item"><a href="#">Home</a></li>
+          <li class="menu-item">
+            <a href="project.html">Projects</a> 
+            <!-- <a class="has-sub-menu" href="#"> ▼</a> -->
+            <!-- Project Dropdown -->
+            <ul class="sub-menu">
+              <li><a href="passwarden.html">Chrome Extension</a></li>
+              <li><a href="GameDev.html">Game Dev</a></li>
+              <li><a href="webdev.html">Front End Web Dev</a></li>
+              <li><a href="blender.html">Blender</a></li>
+              <li><a href="project.html">View All</a></li>
+            </ul>
+          </li>
+          <li class="menu-item">
+            <a href="aboutme.html">About Me</a>
+            <!-- <a href="#" class="has-sub-menu"> ▼</a> -->
+            <!-- About Me dropdown -->
+            <ul class="sub-menu">
+              <li><a href="aboutme.html">Bio/Info</a></li>
+              <li>
+                <a href="#">Resume</a>
+              </li>
+            </ul>
+          </li>
+          <li class="menu-item"><a href="contact.html">Contact</a></li>
+        </ul>
+        <!-- Burger (for mobile) -->
+        <div class="burger">
+          <div class="line1"></div>
+          <div class="line2"></div>
+          <div class="line3"></div>
+        </div>
+      </nav>
+    </section>
+
+    <section id="main">
+      <!-- name -->
+      <div class="intro">
+        <p>Hello</p>
+        <h1>I'm James Young</h1>
+        <p class="details">
+          Welcome to my personal website. You can find my projects, resume, and other information about me here.
+        </p>
+      </div>
+      <!--social---------------->
+      <div class="social">
+        <a href="https://github.com/jamesyoung-15" target="_blank"
+          ><i class="fab fa-github"></i
+        ></a>
+        <a href="https://www.facebook.com/jamesyangyoung/" target="_blank"
+          ><i class="fab fa-facebook-f"></i
+        ></a>
+        <a href="https://twitter.com/jamesyoung01010" target="_blank"
+          ><i class="fab fa-twitter"></i
+        ></a>
+        <a href="https://www.instagram.com/jyy_unlimited/" target="_blank"
+          ><i class="fab fa-instagram"></i
+        ></a>
+        <a
+          href="https://www.youtube.com/channel/UC2CGHZmSJvxKX-ZuiN4egzA?"
+          target="_blank"
+          ><i class="fab fa-youtube"></i
+        ></a>
+        <a class="mailtoui" href="mailto:jamesyoung3931@gmail.com" target="_blank"><i class="fa fa-envelope"></i></a>
+      </div>
+    </section>
+    <!-- About Me Homepage -->
+    <section id="about-me">
+      <div class="about-text">
+        <h1>About Me</h1>
+        <p>
+          Hi! I'm James Young, a first-year undergraduate student studying at The Hong Kong University of Science and Technology where I plan on majoring in computer science.
+        </p>
+        <div class="about-me_buttons">
+        <a href="detailedbio.html" target="_blank">
+          <button onclick="location.href = 'aboutme.html'" >More About Me</button>
+        </a>
+                <a href="resume.html" target="_blank">
+                  <button onclick="location.href = 'resume.html'">Resume</button>
+                </a>
+                </div>
+      </div>
+      <div class="about-model">
+        <img alt="model" src="../Images/nobackgroundme.png" />
+      </div>
+    </section>
+    <!-- Projects Info Homepage -->
+    <section id="project-background">
+    <section id="projects">
+      <div class="s-heading">
+        <h1>Featured Projects</h1>
+      </div>
+      <!-- Project 1 -->>
+      <div class="b-container">
+        <!-- Image -->
+        <div class="s-box">
+          <div class="s-b-img">
+            <a href="#" target="_blank">
+            <img src="../Images/webdevpic2.png" />
+            </a>
+          </div>
+        </div>
+        <!-- Description -->
+        <div class="p-description">
+          <h4 class="p-title">#1</h4>
+          <h5 class="p-title2">Personal Website</h5>
+          <div class="p-text1">
+            <p>Using HTML, CSS, and Javascript, I designed and built this responsive portfolio website. I also rendered some 3D models and animation I built with Blender to my website using Three.js. This was a great experience in front-end web development.
+            </p>
+        </div>
+                    <div class="p-links"><a href="#"><i class="fab fa-github"></i> Code</a>
+                      <a href="webdev.html" target="_blank"><i class="fa fa-external-link"></i> More Details</a></div>
+                    </div>
+        </div>
+      <!-- Project 2 -->
+          <div class="b-container">
+            <!-- Image -->
+            <div class="s-box-1">
+              <a href="./passwarden.html" target="_blank">
+              <div class="s-b-img">
+                <img src="../Images/webdevpic2.png" />
+              </div>
+              </a>
+            </div>
+            <!-- Description -->
+            <div class="p-description-1">
+              <h4 class="p-title">#2</h4>
+              <h5 class="p-title2">Password Warden</h5>
+              <div class="p-text1">
+                <p>A simple chrome extension that lets a users check their password strength and also lets users create randomly generated passwords that are customizable. Created using mainly using Javascript and HTML with a bit of CSS.
+                </p>
+              </div>
+              <div class="p-links-1"><a href="#"><i class="fab fa-github"></i> Code</a>
+                <a href="passwarden.html" target="_blank"><i class="fa fa-external-link"></i> More Details</a></div>
+            </div>
+          </div>
+          <!-- Project 3 -->
+          <div class="b-container">
+            <div class="s-box">
+              <div class="s-b-img">
+                <a href="GameDev.html" target="_blank">
+                <img src="../Images/webdevpic2.png" />
+              </div>
+            </a>
+            </div>
+        <div class="p-description">
+          <h4 class="p-title">#3</h4>
+          <h5 class="p-title2">Atomic Conquest</h5>
+          <div class="p-text1">
+            <p>A 2D topdown rogue-lite shooting game made using Unity Engine and C#. The game uses procedural generation to create non-repetitive game levels and incorporates the A* pathfinding alogrithm to create a smarter enemy AI.
+            </p>
+          </div>
+          <div class="p-links"><a href="#"><i class="fab fa-github"></i> Code</a>
+            <a href="GameDev.html" target="_blank"><i class="fa fa-external-link"></i> More Details</a></div>
+        </div>
+        </div>
+    </section>
+    
+    </section>
+    <!--Other Projects------------------->
+    <section id="portfolio">
+      <!--heading----------->
+      <h1 class="p-heading">Other Side Projects
+      <p>Click the project to view.</p>
+      </h1>
+      <!--portfolio-container------------>
+      <div class="p-container">
+        <!--portfolio-box-1-------->
+        <div class="p-box">
+          <a href="" target="_blank">
+          <!--text--------->
+          <div class="overlay-text">
+            <h1>Photoshop</h1>
+            <p>Edits using Adobe Photoshop</p>
+          </div>
+          <!--bg-img------------->
+          <img src="">
+          </a>
+        </div>
+        <!--portfolio-box-2-------->
+        <div class="p-box">
+          <a href="blender.html" target="_blank">
+          <!--text--------->
+          <div class="overlay-text">
+            <h1>Blender</h1>
+            <p>Some 3D projects I made.</p>
+          </div>
+          <!--bg-img------------->
+          <img src="../Images/cool.png">
+          </a>
+        </div>
+        <!-- Portfolio-box-3 -->
+        <div class="p-box">
+          <a href="">
+            <!--text--------->
+            <div class="overlay-text">
+              <h1>More to Come</h1>
+              <p>More Projects/Details</p>
+            </div>
+            <!--bg-img------------->
+            <img src="">
+          </a>
+        </div>
+        <!-- portfolio box 4 -->
+      <div class="p-box">
+        <a href="" target="_blank">
+          <!--text--------->
+          <div class="overlay-text">
+            <h1>More to Come</h1>
+            <p>More Projects/Details</p>
+          </div>
+          <!--bg-img------------->
+          <img src="">
+        </a>
+      </div>
+      <!-- portfolio box 5 -->
+        <div class="p-box">
+          <a href="" target="_blank">
+            <!--text--------->
+            <div class="overlay-text">
+              <h1>More to Come</h1>
+              <p>More Projects/Details</p>
+            </div>
+            <!--bg-img------------->
+            <img src="">
+          </a>
+        </div>
+        <!-- portfolio box 6 -->
+          <div class="p-box">
+            <a href="" target="_blank">
+              <!--text--------->
+              <div class="overlay-text">
+                <h1>More to Come</h1>
+                <p>More Projects/Details</p>
+              </div>
+              <!--bg-img------------->
+              <img src="">
+            </a>
+          </div>
+      </section>
+
+      <!-- bottom page stuff -->
+      <footer class="site-footer">
+          <!--social-->
+      <div class="social-icons">
+        <a href="https://github.com/jamesyoung-15" target="_blank"><i class="fab fa-github"></i></a>
+        <a href="https://www.facebook.com/jamesyangyoung/" target="_blank"><i class="fab fa-facebook-f"></i></a>
+        <a href="https://twitter.com/jamesyoung01010" target="_blank"><i class="fab fa-twitter"></i></a>
+        <a href="https://www.instagram.com/jyy_unlimited/" target="_blank"><i class="fab fa-instagram"></i></a>
+        <a href="https://www.youtube.com/channel/UC2CGHZmSJvxKX-ZuiN4egzA?" target="_blank"><i class="fab fa-youtube"></i></a>
+        <a class="mailtoui" href="mailto:jamesyoung3931@gmail.com" target="_blank"><i class="fa fa-envelope"></i></a>
+      </div>
+          <div class="copyright">© James Young. 2020</div>
+
+          <section id="contact-form-bottom">
+            <form>
+              <!--left---->
+              <div class="contact-left">
+                <h1 class="c-l-heading">
+                  Leave a Message
+                </h1>
+                <!--name-------->
+                <div class="f-name">
+                  Name
+                  <input type="text" placeholder="Name/Company" required />
+                </div>
+                <!--email-->
+                <div class="f-email">
+                  Email
+                  <input type="email" placeholder="Example@gmail.com" required />
+                </div>
+              </div>
+              <!--right--->
+              <div class="contact-right">
+                <!--message-->
+                <div class="message">
+                  Message
+                  <textarea name="message" rows="5" cols="20" placeholder="Write Message..." required></textarea>
+                </div>
+                <!--submit-btn-->
+                <button>Submit</button>
+              </div>
+            </form>
+          </section>
+      </footer>
+      <!-- Back to top button -->
+      <a href="#" class="to-top"><i class="fas fa-chevron-up"></i></a>
+
+    <script src="../js/app.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/mailtoui@1.0.3/dist/mailtoui-min.js"></script>
+  </body>
+</html>
+
+<!-- https://www.facebook.com/jamesyangyoung/ -->
+<!-- https://github.com/jamesyoung-15 -->
+<!-- https://www.instagram.com/jyy_unlimited/ -->
+<!-- mailto:jamesyoung3931@gmail.com -->
+
+
+        <!-- box-2
+        <div class="s-box">
+          img
+          <div class="s-b-img">
+            <div class="s-type">Chrome Extension</div>
+            <img src="" />
+          </div>
+          text
+          <div class="s-b-text">
+            <a href="#">Created a chrome extension called PasswardWarden where users can store passwords, check their password strength, and generate customizable passwords.      Languages: HTML, Javascript, CSS</a>
+          </div> 
+        </div>
+        box-3
+        <div class="s-box">
+          img
+          <div class="s-b-img">
+            type w/ text
+             <div class="s-type">Solo Game Dev</div> 
+            <img src="" />
+          </div>
+           <div class="s-b-text">
+            <a href="#">Created a 2D top-down shooter using Unity Engine that uses pathfinding and procedural generation algorithms.     Languages: C# </a> 
+          </div> -->

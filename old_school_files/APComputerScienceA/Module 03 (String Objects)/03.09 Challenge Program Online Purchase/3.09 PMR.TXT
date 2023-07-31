@@ -1,0 +1,16 @@
+PROJECT TITLE: 3.09 Online Purchase (Challenge Program)
+PURPOSE OF PROJECT: Write a program to simulate an online purchase by asking the user 
+for input and displaying a receipt.
+DATE: July 14, 2019 
+AUTHOR: James Young
+
+
+------------------------------------------------------------------------
+PMR:
+Overall, I found this assignment not too hard as it was a review of the topics I learned in module 3
+which I have been practicing a lot recently. I think I did this assignment a lot quicker than previous ones
+since I wrote a good pseudocode which made it easier for me as I wrote the statements down. 
+------------------------------------------------------------------------
+In the Future:
+One concept I am still unsure about is parseint() and parsedouble() as I haven't really practiced
+using these statements. I should go back to 3.08 and try to learn how to use them.

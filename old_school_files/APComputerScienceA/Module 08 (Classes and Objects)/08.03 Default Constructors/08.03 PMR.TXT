@@ -1,0 +1,12 @@
+Title: RunnerV3
+Purpose: Define an implementation class for an object of your choice.
+Author: James Young
+Date: September 27, 2019
+------------------------------------------------------------------------
+PMR:
+I am starting to understand what constructors are and how to use them. 
+I still struggle with knowing how to use the parameters and what variables to put
+in them.
+------------------------------------------------------------------------
+In the Future:
+Keep practicing and reviewing.

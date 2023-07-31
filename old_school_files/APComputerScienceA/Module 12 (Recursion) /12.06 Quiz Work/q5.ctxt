@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=q5
+comment0.text=\nQuestion\ 5\:\n\nFor\ the\ recursive\ method\ below,\ list\ the\ base\ case\ and\ the\ recursive\ statement,\ \nthen\ show\ your\ work\ for\ solving\ a\ call\ to\ the\ recur()\ method\ using\ any\ parameter\ value\ 10\ or\ greater.\ (10\ points)\n\npublic\ static\ int\ recur(int\ n)\n{\n\ \ \ \ \ if(n\ <\ 3)\n\ \ \ \ \ {\n\ \ \ \ \ \ \ \ \ \ return\ 2;\n\ \ \ \ \ }\n\ \ \ \ \ else\n\ \ \ \ \ {\n\ \ \ \ \ \ \ \ \ \ return\ recur(n\ /\ 3)\ +\ 1;\n\ \ \ \ \ }\n}\n\n
+comment1.params=n
+comment1.target=int\ recur(int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

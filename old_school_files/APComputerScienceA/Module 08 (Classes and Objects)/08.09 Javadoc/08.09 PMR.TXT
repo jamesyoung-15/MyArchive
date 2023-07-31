@@ -1,0 +1,11 @@
+Title: 8.09 Assignment
+Author: James Young
+Date: October 23, 2019
+Purpose: Using a program that calculates the amount of carbon dioxide emitted for each gallon of gas consumed by a car, insert Javadoc comments where appropriate
+
+PMR:
+I found this assignment helpful in understanding object-oriented programming and what
+different sections of methods and programs do.
+
+In the Future:
+Continue practicing.

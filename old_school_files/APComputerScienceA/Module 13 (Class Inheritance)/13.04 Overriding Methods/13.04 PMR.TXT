@@ -1,0 +1,12 @@
+PROJECT TITLE: 13.04 Overriding Methods
+PURPOSE OF PROJECT: Modify the shape classes override the toString and equals methods.
+VERSION or DATE: Dec 29, 2019
+AUTHORS: James Young
+
+--------------------------------------------------------------------------------
+PMR:
+I now know how to override classes. One thing I could do better is add more comments
+to keep track of my code.
+--------------------------------------------------------------------------------
+In the Future:
+Practise

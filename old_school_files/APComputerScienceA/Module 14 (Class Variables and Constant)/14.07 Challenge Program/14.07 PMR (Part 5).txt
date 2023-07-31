@@ -1,0 +1,26 @@
+PROJECT TITLE: 14.07 Frequency Analysis (Challenge Program)
+PURPOSE OF PROJECT:  Write a program to perform a frequency analysis of the letters in a message and use the results to decipher a secret message.
+VERSION or DATE: Jan 12, 2020
+AUTHORS: James Young
+
+------------------------------------------------------------------------
+PMR (evaluating the process):
+1. What difficulties did you run into writing the frequency analysis program? How did you resolve these problems?
+
+I struggled to remember how to scan text files as they were concepts I haven't used in a few months. It took me a while to review and
+remember the concepts but eventually I got it. My program for some reason only works with subset.txt and ciphertext.txt but not plaintext
+and I can't figure out why and I don't want to spend extra hours figuring this out.
+
+2. How closely did the frequencies of letters in the plaintext and the ciphertext correspond? 
+   What could be done to improve the accuracy of the correspondence?
+
+It was not really close, but I believe it is because of my program as it is not accurate for plaintext for some reason.
+   
+3. This assignment involved writing a program and then interpreting the results the old fashioned way. 
+   Propose an extension to this project that would allow the computer to do all the work so that you only have to evaluate whether the decoded message makes senses. 
+   You don’t need to actually write another program to do this, just consider how it could be done and clearly describe your solution in a well-written paragraph.
+   
+First, I would use the frequency analysis to see the most common letters used. Then, I would create a program that
+uses most common letters in the coded message and match it up with the most commonly used letters in the english language. Finally,
+I would manually check if it makes sense and if it doesn't I would see which letters don't make sense make adjustments to the replacements as needed.
+------------------------------------------------------------------------

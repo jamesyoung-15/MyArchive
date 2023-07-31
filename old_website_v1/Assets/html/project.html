@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Projects</title>
+    <link rel="stylesheet" href="../css/style.css" />
+    <link rel="shortcut icon" href="../Images/logo3.png" />
+    <script
+      src="https://kit.fontawesome.com/c8e4d183c2.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <!-- Navigation -->
+    <section>
+      <nav>
+        <div class="logo">
+          <a href="index.html"><h4>JYY</h4></a>
+        </div>
+        <!-- Menu bar -->
+        <ul class="nav-link">
+          <li class="menu-item"><a href="index.html">Home</a></li>
+          <li class="menu-item">
+            <a href="project.html">Projects</a>
+            <!-- <a class="has-sub-menu" href="#"> ▼</a> -->
+            <!-- Project Dropdown -->
+            <ul class="sub-menu">
+              <li><a href="passwarden.html">Chrome Extension</a></li>
+              <li><a href="GameDev.html">Game Dev</a></li>
+              <li><a href="webdev.html">Front End Web Dev</a></li>
+              <li><a href="blender.html">Blender</a></li>
+              <li><a href="project.html">View All</a></li>
+            </ul>
+          </li>
+          <li class="menu-item">
+            <a href="aboutme.html">About Me</a>
+            <!-- <a href="#" class="has-sub-menu"> ▼</a> -->
+            <!-- About Me dropdown -->
+            <ul class="sub-menu">
+              <li><a href="aboutme.html">Bio/Info</a></li>
+              <li>
+                <a href="#">Resume</a>
+              </li>
+            </ul>
+          </li>
+          <li class="menu-item"><a href="contact.html">Contact</a></li>
+        </ul>
+        <!-- Burger (for mobile) -->
+        <div class="burger">
+          <div class="line1"></div>
+          <div class="line2"></div>
+          <div class="line3"></div>
+        </div>
+      </nav>
+    </section>
+
+    <!-- Project Main Page Section -->
+    <div>
+    <section class="project-main">
+        <div class="project-main-container">
+      <div class="title-heading">
+        <h2>Highlighted Projects</h2>
+      </div>
+      <div class="project-item">
+        <div class="project-img has-margin-right">
+          <img src="" />
+        </div>
+        <div class="project-description">
+          <h2>Personal Website</h2>
+          <p>
+            My first experience with front-end web development where I created this responsive website using HTML, CSS, and JS. Added 3D rendering with Three.js.
+          </p>
+          <p>HTML CSS Javascript Three.js/WebGl</p>
+          <a href="#" class="project-link" target="_blank"
+            ><i class="fa fa-github" aria-hidden="true"> View Code</i></a
+          ><a href="webdev.html" class="project-link" target="_blank"><i class="fa fa-external-link" aria-hidden="true"> More Details</i></a>
+        </div>
+      </div>
+
+      <div class="project-item">
+        <div class="project-description has-margin-right">
+          <h2>Solo Game Dev</h2>
+          <p>
+            A 2D rogue-lite game created using the Unity Engine. The game uses procedural generation to create unique levels and uses the A* pathfinding algorithm to create intelligent AI enemies.
+          </p>
+          <p>C# UnityEngine</p>
+          <a href="#" class="project-link" target="_blank"
+            ><i class="fa fa-github" aria-hidden="true"> View Code</i></a
+          >
+        <a href="GameDev.html" class="project-link" target="_blank"><i class="fa fa-external-link" aria-hidden="true"> More Details</i></a>
+        </div>
+        <div class="project-img">
+          <img src="" />
+        </div>
+      </div>
+
+      <div class="project-item">
+        <div class="project-img has-margin-right">
+          <img src="" />
+        </div>
+        <div class="project-description">
+          <h2>Passward Warden</h2>
+          <p>
+            A simple chrome extension made in high school that checks the strength of a user's password and also can generate customizable passwords for users.
+          </p>
+          <p>HTML CSS Javascript</p>
+          <a href="#" class="project-link" target="_blank"
+            ><i class="fa fa-github" aria-hidden="true"> View Code</i></a
+          ><a href="passwarden.html" class="project-link" target="_blank"><i class="fa fa-external-link" aria-hidden="true"> More Details</i></a>
+        </div>
+      </div>
+      </div>
+    </section>
+    <a href="#" class="to-top"><i class="fas fa-chevron-up"></i></a>
+
+    <script src="../js/app.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/mailtoui@1.0.3/dist/mailtoui-min.js"></script>
+  </body>
+</html>

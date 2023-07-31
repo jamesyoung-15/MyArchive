@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=q3
+comment0.text=\nQuestion\ 3\:\n\nConsider\ the\ following\ method.\ What\ is\ the\ value\ of\ mystery(2)?\ (5\ points)\n\npublic\ static\ void\ mystery(int\ n)\n{\n\ \ \ \ \ if(n\ >\=\ 10)\n\ \ \ \ \ {\n\ \ \ \ \ \ \ \ \ \ System.out.print(n\ +\ "\ ");\n\ \ \ \ \ }\n\ \ \ \ \ else\n\ \ \ \ \ {\n\ \ \ \ \ \ \ \ \ \ mystery(n\ +\ 2);\n\ \ \ \ \ }\n}\n
+comment1.params=n
+comment1.target=void\ mystery(int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

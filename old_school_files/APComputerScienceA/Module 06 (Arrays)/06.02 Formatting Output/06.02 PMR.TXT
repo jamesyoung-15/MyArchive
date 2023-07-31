@@ -1,0 +1,14 @@
+Title: 6.02 Weather Data
+Author: James Young
+Date: July 30, 2019
+Purpose: Modify the AnnualWeatherV1 class to display weather data as 
+Fahrenheit or Celsius and inches or centimeters per the user's request.
+
+------------------------------------------------------------------------------
+PMR:
+I feel more confident now using arrays after doing this assignment. This assignment
+wasn't too hard but I did struggle with formatting when trying to print the results.
+------------------------------------------------------------------------------
+In the Future: 
+I'll practice more with printf statements as it can be helpful in the future as it can
+save me time and make my program come out nicer. 

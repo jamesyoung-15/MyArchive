@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ShapesV7
+comment0.text=\n\ This\ class\ calculates\ information\ about\ geometric\ shapes.\n\n\ @author\ Alan\ Kay\n\ @version\ 06/08/17\n
+comment1.params=s1\ s2
+comment1.target=ShapesV7(int,\ int)
+comment2.params=
+comment2.target=double\ calcTriArea()
+comment3.params=
+comment3.target=double\ calcHypotenuse()
+numComments=4

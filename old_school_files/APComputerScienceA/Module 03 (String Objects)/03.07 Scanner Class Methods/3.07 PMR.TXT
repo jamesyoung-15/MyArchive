@@ -1,0 +1,17 @@
+PROJECT TITLE: 03.07 Scanner Class Methods (GradesV3)
+PURPOSE OF PROJECT: 
+DATE: July 14, 2019
+AUTHORS: James Young
+
+
+------------------------------------------------------------------------
+PMR:
+Since I did most of the hard work on the previous assignment in module 2 (GradesV2),
+I found this assignment not too hard as I just had to add the scanner classes to input
+the test grades and name of student. One issue that I did come up though was that
+I forgot to use nextLine() so when I tested the program I could not enter more than
+one word for the name and subject.
+------------------------------------------------------------------------
+In the Future:
+I will continue working with scanner classes especially with 
+nextLine() as I forgot to use this the first time running the program.

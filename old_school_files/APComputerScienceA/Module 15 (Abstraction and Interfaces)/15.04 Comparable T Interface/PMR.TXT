@@ -1,0 +1,12 @@
+PROJECT TITLE: 15.03 Interfaces
+PURPOSE OF PROJECT: Create an interface and then implement it appropriately in the Homework class.
+DATE: Jan 26, 2020
+Author: James Young
+
+------------------------------------------------------------------------
+PMR:
+I did a good job documenting the sections I added and adding comments to remind myself what I am changing and what I kept.
+One improvement is printing the comparison of pages to read for all subjects as I was lazy and didn't bother doing it for all subjects.s
+------------------------------------------------------------------------
+In the Future:
+Keep practicing.

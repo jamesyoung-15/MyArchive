@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=TestContact
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=c
+comment2.target=void\ printContacts(Contact[])
+comment3.params=c
+comment3.target=Contact[]\ sortNames(Contact[])
+comment4.params=r\ toFind
+comment4.target=int\ findByName(Contact[],\ java.lang.String)
+comment5.params=r\ toFind
+comment5.target=void\ findByRelation(Contact[],\ java.lang.String)
+comment6.params=r\ toFind
+comment6.target=void\ findByBMonth(Contact[],\ java.lang.String)
+comment7.params=r\ toFind
+comment7.target=void\ findByPhone(Contact[],\ java.lang.String)
+comment8.params=c
+comment8.target=Contact[]\ sortEmail(Contact[])
+comment9.params=r\ toFind
+comment9.target=int\ findByEmail(Contact[],\ java.lang.String)
+numComments=10

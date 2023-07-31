@@ -1,0 +1,21 @@
+PROJECT TITLE: 5.06 Animal Population
+
+PURPOSE OF PROJECT: Write a program that uses the Monte Carlo sampling method to 
+estimate the average number of animals observed before 
+spotting one you are tracking within a particular ecosystem.
+
+DATE: July 24, 2019
+
+
+AUTHOR: James Young
+
+------------------------------------------------------------------------
+PMR:
+While writing this program, I ran into a couple of problems and mistakes. For example,
+I forgot to put in.close(); at the end of my program and I also forgot about the IOException
+at the beginning. It took a lot of testing for me to fix the mistakes in my program, but 
+I eventually edited and made my program run as I intended it to.
+------------------------------------------------------------------------
+In the Future:
+A lot of the mistakes I made could've been avoided if I had written a more detailed pseudocode
+so this is something I will try to fix next time.

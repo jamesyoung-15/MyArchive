@@ -1,0 +1,16 @@
+PROJECT TITLE: 16.05 Student Quiz Scores (Challenge Program)
+
+PURPOSE OF PROJECT: 
+You will be making a grade book program similar to one an instructor might use. The grade book will include students and their grades. The program will traverse, replace, insert, and delete items within the grade book.
+
+DATE: Feb 23, 2020
+
+AUTHORS: James Young
+
+PMR:
++ printed table of results neatly and clearly
+
+- could add more comments
+
+In the Future:
+Keep practicing.

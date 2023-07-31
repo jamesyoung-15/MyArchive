@@ -1,0 +1,12 @@
+PROJECT TITLE: 17.02 Movie Assignment
+PURPOSE OF PROJECT: Using a list of movies you own or wish to see, sort them based on title, year created, or movie studio. Use the insertion sort algorithm to reorder the collection as requested in ascending or descending order.
+VERSION or DATE: March 9, 2020
+AUTHORS: James Young
+
+
+PMR:
++ Works and is organised
+- Add more comments
+
+In the future: 
+Keep practicing

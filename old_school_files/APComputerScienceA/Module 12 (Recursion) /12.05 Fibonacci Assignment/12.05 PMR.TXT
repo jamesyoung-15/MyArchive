@@ -1,0 +1,13 @@
+PROJECT TITLE: 12.05 Fibonacci
+PURPOSE OF PROJECT: Write a program to recursively calculate the nth Fibonacci number.
+DATE: Nov 12, 2019
+AUTHORS: James Young
+
+
+------------------------------------------------------------------------
+PMR:
++ I was able to understand how to write recursions better
+- I should use better variable names so I won't get confused  
+------------------------------------------------------------------------
+In the future:
+Keep practicing.

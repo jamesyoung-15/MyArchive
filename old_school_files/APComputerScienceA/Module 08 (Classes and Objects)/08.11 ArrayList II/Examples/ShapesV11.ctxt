@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=ShapesV11
+comment0.text=\n\ This\ class\ instantiates\ shapes\ objects\ with\ four\ private\ instance\ variables.\n\ It\ contains\ mutator\ methods\ to\ calculate\ the\ area\ of\ a\ triangle\ and\ the\n\ hypotenuse\ of\ a\ triangle.\ There\ are\ getter\ methods\ for\ each\ private\ instance\n\ variable.\n\n\ @author\ Alan\ Kay\n\ @version\ 06/08/17\n
+comment1.params=s1\ s2
+comment1.target=ShapesV11(int,\ int)
+comment2.params=
+comment2.target=double\ calcTriArea()
+comment3.params=
+comment3.target=double\ getTriArea()
+comment4.params=
+comment4.target=void\ calcHypotenuse()
+comment5.params=
+comment5.target=double\ getHypotenuse()
+comment6.params=
+comment6.target=int\ getSide1()
+comment7.params=
+comment7.target=int\ getSide2()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

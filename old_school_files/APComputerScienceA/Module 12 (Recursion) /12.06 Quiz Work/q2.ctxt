@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=q2
+comment0.text=\nQuestion\ 2\:\n\nConsider\ the\ following\ method.\ What\ is\ the\ value\ of\ recur("mouse",\ 3)?\ (5\ points)\n\npublic\ static\ String\ recur(String\ str,\ int\ n)\n{\n\ \ \ \ \ if(n\ >\=\ str.length())\n\ \ \ \ \ {\n\ \ \ \ \ \ \ \ \ \ return\ str;\n\ \ \ \ \ }\n\n\ \ \ \ \ return\ str\ +\ recur(str.substring(n),\ n);\n}\n
+comment1.params=str\ n
+comment1.target=java.lang.String\ recur(java.lang.String,\ int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

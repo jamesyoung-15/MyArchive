@@ -1,0 +1,17 @@
+PROJECT TITLE: 02.08 Currency Conversion
+
+PURPOSE OF PROJECT: Write a program to convert currencies using current exchange rates.
+Find the amount spent by a traveler in each country and the dollar amount remaining upon her return. 
+Also, calculate the quantity of souvenirs that can be purchased based on a particular budget.
+
+DATE: July 12, 2019
+
+AUTHOR: James Young
+
+------------------------------------------------------------------------
+PMR:
+I found the currency conversion part relatively easy as I followed the example given and was able to learn off of it really quick.
+However, I struggled most with the souvenir portion as using casting, division, and modulus makes it much harder.
+------------------------------------------------------------------------
+In the Future:
+I should continue practicing casting and modulus so that I will eventually be familiar with it and won't struggle with it anymore.

@@ -1,0 +1,15 @@
+Title: RunnverV8Tester
+Author: James Young
+Date: October 4, 2019
+Purpose: Expand your V7 object implementation class and client class to manage an array of data. 
+Find the minimum, maximum, and averages of values.
+ 
+
+
+------------------------------------------------------------------------
+PMR:
+This project was fun but challenging at the same time. I struggled a bit with understanding
+getter methods. Also, I still don't really know what a mutator is or does.
+------------------------------------------------------------------------
+In the Future:
+Practice more and remember how to find min and max from an array.

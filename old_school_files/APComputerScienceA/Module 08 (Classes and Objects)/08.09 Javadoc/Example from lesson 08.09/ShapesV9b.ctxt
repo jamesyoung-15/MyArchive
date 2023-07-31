@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ShapesV9b
+comment0.text=\n\ This\ class\ instantiates\ Shapes\ objects\ with\ a\ default\ constructor.\n\ It\ contains\ methods\ to\ calculate\ and\ return\ the\ area\ of\ a\ triangle\ and\ the\n\ hypotenuse\ of\ a\ triangle.\n\n\ @author\ Alan\ Kay\n\ @version\ 06/08/17\n
+comment1.params=
+comment1.target=ShapesV9b()
+comment1.text=\n\ Default\ constructor\ for\ objects\ of\ type\ ShapesV9\n
+comment2.params=s1\ s2
+comment2.target=double\ calcTriArea(int,\ int)
+comment2.text=\n\ Accessor\ method\ to\ calculate\ and\ return\ the\ area\ of\ a\ triangle.\n\ @param\ s1\ side\ 1\ of\ a\ triangle.\n\ @param\ s2\ side\ 2\ of\ a\ triangle,\n\ @return\ the\ area\ of\ a\ triangle.\n\ Precondition\:\ s1\ and\ s2\ are\ positive\ values\n
+comment3.params=s1\ s2
+comment3.target=double\ calcHypotenuse(int,\ int)
+comment3.text=\n\ Accessor\ method\ to\ calculate\ and\ return\ the\ hypotenuse\ of\ a\ triangle.\n\ @param\ s1\ side\ 1\ of\ a\ triangle.\n\ @param\ s2\ side\ 2\ of\ a\ triangle,\n\ @return\ the\ hypotenuse\ of\ a\ triangle.\n\ Precondition\:\ s1\ and\ s2\ are\ positive\ values\n
+numComments=4

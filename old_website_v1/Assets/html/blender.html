@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>James Young, Personal Website</title>
+    <link rel="stylesheet" href="../css/style.css" />
+    <link rel="shortcut icon" href="../Images/logo3.png" />
+    <script
+      src="https://kit.fontawesome.com/c8e4d183c2.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+
+  <body>
+    <!-- Navigation -->
+    <section>
+      <nav>
+        <div class="logo">
+          <h4>JYY</h4>
+        </div>
+        <!-- Menu bar -->
+        <ul class="nav-link">
+          <li class="menu-item"><a href="index.html">Home</a></li>
+          <li class="menu-item">
+            <a href="project.html">Projects</a>
+            <!-- <a class="has-sub-menu" href="#"> ▼</a> -->
+            <!-- Project Dropdown -->
+            <ul class="sub-menu">
+              <li><a href="passwarden.html">Chrome Extension</a></li>
+              <li><a href="GameDev.html">Game Dev</a></li>
+              <li><a href="webdev.html">Front End Web Dev</a></li>
+              <li><a href="blender.html">Blender</a></li>
+              <li><a href="project.html">View All</a></li>
+            </ul>
+          </li>
+          <li class="menu-item">
+            <a href="aboutme.html">About Me</a>
+            <!-- <a href="#" class="has-sub-menu"> ▼</a> -->
+            <!-- About Me dropdown -->
+            <ul class="sub-menu">
+              <li><a href="aboutme.html">Bio/Info</a></li>
+              <li>
+                <a href="#">Resume</a>
+              </li>
+            </ul>
+          </li>
+          <li class="menu-item"><a href="contact.html">Contact</a></li>
+        </ul>
+        <!-- Burger (for mobile) -->
+        <div class="burger">
+          <div class="line1"></div>
+          <div class="line2"></div>
+          <div class="line3"></div>
+        </div>
+      </nav>
+    </section>
+
+    <!-- 3d background -->
+    <div class="blender-container">
+      <div class="blender-header">
+        <h2>A PC Setup</h2>
+        <h3>By James Young</h3>
+        <h4>Made In Blender</h4>
+      </div>
+      <div class="comp-background"></div>
+    </div>
+
+    <!-- Back to top button -->
+    <a href="#" class="to-top"><i class="fas fa-chevron-up"></i></a>
+    <script type="module" src="../js/main.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/mailtoui@1.0.3/dist/mailtoui-min.js"></script>
+  </body>
+</html>

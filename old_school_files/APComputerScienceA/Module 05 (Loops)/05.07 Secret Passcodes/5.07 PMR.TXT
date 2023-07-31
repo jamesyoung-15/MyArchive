@@ -1,0 +1,20 @@
+PROJECT TITLE: 5.07 Secret Passcodes
+
+PURPOSE OF PROJECT: Write a program to generate random passwords; the user should 
+be able to select the character set and the length.
+
+Date: July 25,2019
+
+AUTHORS: James Young
+
+
+------------------------------------------------------------------------
+PMR:
+At first, I started off writing this code well as I had written a decent pseudocode beforehand.
+However, when creating my fourth option on the menu, I struggled to make it only numbers and letters
+as I'm not sure how to exclude some of the brackets and other symbols (ASCII 91-96 and 58-64) and it took me a long 
+time to figure it out.
+------------------------------------------------------------------------
+In the Future:
+I should continue practicing loops and ASCII programs as I still feel a bit uncomfortable using them.
+Also, looking back I should've also put a maximum on the password length to make this more realistic.

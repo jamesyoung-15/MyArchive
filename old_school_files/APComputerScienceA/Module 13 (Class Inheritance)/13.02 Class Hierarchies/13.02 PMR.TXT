@@ -1,0 +1,12 @@
+PROJECT TITLE: 13.02 Class Hierarchies (Terrain)
+PURPOSE OF PROJECT: Create a class hierarchy of simple terrains that might be used in a graphical video game.
+VERSION or DATE: Dec 24, 2019
+AUTHORS: James Young
+
+
+------------------------------------------------------------------------
+PMR:
+I understand class inheritance better and how to use them in my programs
+------------------------------------------------------------------------
+In the future: 
+Practice

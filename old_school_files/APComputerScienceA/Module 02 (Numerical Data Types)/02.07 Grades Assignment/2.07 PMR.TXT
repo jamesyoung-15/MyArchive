@@ -1,0 +1,15 @@
+PROJECT TITLE: 02.07 Grades
+PURPOSE OF PROJECT: Write a program that will calculate the total points and average grade each time a new score is added to the total.
+VERSION or DATE: June 20, 2019
+AUTHOR: James Young
+
+____________________________________________________________________________________________________________________________
+PMR:
+Overall, I struggled quite a lot with this assignment as I find it difficult to understand
+the different operations and still need to review more about casting and other short cut operations.
+One issue that took a while for me was that I forgot that my average should be a double
+rather than an int and I almost forgot about that.
+____________________________________________________________________________________________________________________________
+In the Future: 
+I will continue working on learning operations and using shortcut operations and using
+doubles and ints more so that I can be more familiar with this concept.

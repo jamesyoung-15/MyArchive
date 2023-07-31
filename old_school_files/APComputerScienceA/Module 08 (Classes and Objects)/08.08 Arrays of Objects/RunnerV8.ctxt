@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=RunnerV8
+comment0.text=\n\ Title\:\ RunnerV8\n\ Author\:\ James\ Young\n\ Date\:\ October\ 4,\ 2019\n\ Purpose\:\ Expand\ your\ V7\ object\ implementation\ class\ and\ client\ class\ to\ manage\ an\ array\ of\ data.\ \n\ Find\ the\ minimum,\ maximum,\ and\ averages\ of\ values.\n
+comment1.params=runnerTimeSec\ runnerTimeMin
+comment1.target=RunnerV8(double,\ double)
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=void\ combineTime()
+comment3.params=
+comment3.target=double\ getcombineTime()
+comment4.params=
+comment4.target=void\ speedRunner()
+comment5.params=
+comment5.target=double\ getSpeedRunner()
+comment6.params=
+comment6.target=double\ getRunMin()
+comment7.params=
+comment7.target=double\ getRunSec()
+comment8.params=runnerTimeMin
+comment8.target=void\ setRunMin(double)
+comment9.params=runnerTimeSec
+comment9.target=void\ setRunSec(double)
+numComments=11

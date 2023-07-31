@@ -1,0 +1,12 @@
+PROJECT TITLE: 19.02 Student Data Challenge Program 
+PURPOSE OF PROJECT:  For this assignment, you will utilize assertions and then throw the proper exceptions. You will need to correctly perform the tests and then appropriately handle errors, if they occur. The scenario is student data in which their first and last names must be provided along with valid assignment scores.
+VERSION or DATE: April 6, 2020
+AUTHORS: James Young
+
+
+------------------------------------------------------------------------
+PMR:
+My program works fine and completes the assignment. One improvement could be to make the print output look nicer by making it into a table.
+------------------------------------------------------------------------
+In the future:
+Study more.

@@ -1,0 +1,12 @@
+PROJECT TITLE: 7.05 EstimatePi
+PURPOSE OF PROJECT: Write a program to calculate the value of pi by simulating throwing darts at a dart board.
+DATE: September 27, 2019
+AUTHORS: James Young
+
+------------------------------------------------------------------------
+PMR:
+I now understand how to use mathrandom and the pi function better. 
+However, I struggled with knowing what variables to put in the parameters.
+------------------------------------------------------------------------
+In the Future:
+Keep practicing static methods and continue using comments for each section.

@@ -1,0 +1,16 @@
+Title: 05.03 Family Composition
+Author: James Young
+Date: July 20, 2019
+Purpose: Write a program to calculate the probability that a 
+family with two children will consist of two boys, a boy and a girl, or two girls.
+
+
+---------------------------------------------------------------------------------
+PMR:
+This was a challenging but fun program to write. One issue I had was that I forgot
+initialize all my variables. For example, I forgot to initialize my variable "token"
+so whenever I tried to compile my program it kept saying variable not found which 
+made me frustrated until I realized the issue.
+---------------------------------------------------------------------------------
+In the future:
+I need to be more vigilant and spend extra time writing my pseudocode to avoid these errors.

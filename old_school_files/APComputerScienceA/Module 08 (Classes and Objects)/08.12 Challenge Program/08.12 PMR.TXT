@@ -1,0 +1,12 @@
+PROJECT TITLE: 8.12 Challenge Program
+PURPOSE OF PROJECT: Write a program that models a real-world scenario.
+DATE: October 25, 2019
+AUTHORS: James Young
+
+--------------------------------------------------------------------------
+PMR:
+This program was quite challenging as it took me a while to remember how to use a toString
+and I also made a few mistakes that I could've avoided with better planning along the way.
+--------------------------------------------------------------------------
+In the Future:
+Keep practicing and make sure I plan better next time.

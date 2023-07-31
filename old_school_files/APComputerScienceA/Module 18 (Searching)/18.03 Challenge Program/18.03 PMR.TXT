@@ -1,0 +1,12 @@
+PROJECT TITLE: 18.03 Contacts Challenge Program
+PURPOSE OF PROJECT: Implement the sequential and binary search algorithms on a collection of contacts
+VERSION or DATE: March 22, 2020
+AUTHORS: James Young
+
+
+PMR:
++ The program works and does what the assignment asked
+- Could make the printed output more neat
+
+In the Future:
+Spend more time preparing

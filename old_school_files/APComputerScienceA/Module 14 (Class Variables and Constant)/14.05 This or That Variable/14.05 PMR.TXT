@@ -1,0 +1,11 @@
+PROJECT TITLE: 14.05 This or That Variable
+PURPOSE OF PROJECT: Use the keyword this to distinguish between instance variables and local variables.
+VERSION or DATE: Jan 11, 2020
+AUTHORS: James Young
+
+------------------------------------------------------------------------
+PMR:
+I now understand how to use this to distinguish local and instance variables
+------------------------------------------------------------------------
+In the Future:
+Practise

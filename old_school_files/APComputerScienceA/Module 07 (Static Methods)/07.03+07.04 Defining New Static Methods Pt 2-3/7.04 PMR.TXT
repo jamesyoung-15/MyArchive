@@ -1,0 +1,16 @@
+PROJECT TITLE: 7.04 PlanetWeight
+Author: James Young
+Purpose: Write a program that calculates your weight on each planet in the solar system.
+Date: September 27, 2019
+
+---------------------------------------------------------
+PMR:
+This program was really challenging as it took me a long time to get conversions right 
+as I didn't really understand how to convert user weights to weights on other planets.
+I did a good job understanding how to use static methods and using comments so that
+I wouldn't get confused. 
+---------------------------------------------------------
+In the Future:
+Keep practicing and review.
+
+

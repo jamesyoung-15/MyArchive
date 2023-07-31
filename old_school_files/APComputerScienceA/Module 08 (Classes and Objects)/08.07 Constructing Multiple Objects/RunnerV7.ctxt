@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=RunnerV7
+comment0.text=\n\ Title\:\ RunnerV7\n\ Purpose\:\ Convert\ your\ V3\ object\ class\ to\ V7\ implementation\ and\ \n\ client\ classes\ and\ instantiate\ multiple\ objects.\n\ Author\:\ James\ Young\n\ Date\:\ Oct\ 2\ 2019\n
+comment1.params=mRn\ goalKm
+comment1.target=RunnerV7(double,\ double)
+comment2.params=
+comment2.target=double\ calckm()
+comment3.params=
+comment3.target=double\ goalLeft()
+numComments=4

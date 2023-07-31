@@ -1,0 +1,16 @@
+PROJECT TITLE: 3.04 Escape Sequences (ArtWork)
+PURPOSE OF PROJECT: Use the keyboard characters to create a simple ASCII art of your own.
+DATE: July 13, 2019
+AUTHORS: James Young
+
+
+------------------------------------------------------------------------
+PMR:
+I found this assignment fun and really enjoyable as I could try out different characters
+and try to make something creative. After a bit of practice, I feel comfortable using the 
+escape sequences.
+------------------------------------------------------------------------
+In the Future:
+Before starting this assignment, I forgot to write a pseudocode/plan and went straight
+into creating the artwork which is something I shouldn't do in the future. Instead, I
+should set a good habit by always writing a plan.

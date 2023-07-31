@@ -1,0 +1,18 @@
+PROJECT TITLE: 8.11 Assignment CO2FromWaste
+
+PURPOSE OF PROJECT: Write a program that calculates the amount of carbon dioxide produced in a year from waste by a household and 
+compare how recycling can reduce the CO2 footprint.
+
+Date: October 23, 2019
+
+AUTHORS: James Young
+
+
+------------------------------------------------------------------------
+PMR:
+I thought I did a good job of remembering to add javadoc comments so that I wouldn't be confused. 
+However, I think I can improve on naming my variable names better as I got confused a lot of times so I should
+either name it more distinctly or write it down on a piece of paper so I wont get confused.
+------------------------------------------------------------------------
+In the Future:
+Continue Practicing

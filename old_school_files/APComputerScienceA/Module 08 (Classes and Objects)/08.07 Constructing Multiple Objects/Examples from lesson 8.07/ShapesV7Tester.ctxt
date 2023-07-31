@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ShapesV7Tester
+comment0.text=\n\ This\ program\ demonstrates\ the\ creation\ of\ two\ objects,\ each\ containing\n\ its\ own\ private\ instance\ data.\n\n\ @author\ Alan\ Kay\n\ @version\ 06/08/17\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

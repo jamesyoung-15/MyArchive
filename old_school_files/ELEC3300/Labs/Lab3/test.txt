@@ -1,0 +1,13 @@
+K2 -> GPIO P13
+
+Draw Dot Question:
+- column max is 240, so no issues here
+- page max is 320, so if page is greater than 255, 8 bit value cannot be represented so we need to set the first write data to 1 then subtract 256 from it or get the first 8 bits (starting from LSB)
+- eg. if page = 320, then writedata for last command is 64 or hex it is page = 0x140 so write data is 0x40
+
+Ellipse Question:
+- https://stackoverflow.com/questions/60900000/how-to-draw-an-ellipse-using-the-ellipse-equation
+
+Character Question:
+- dotmatrixtool.com to generate matrix,  using 24x24 pixels, row major, little endian
+- data array has 72 8 bit hex values, each bit in the value represents a pixel, 3 values represents a row

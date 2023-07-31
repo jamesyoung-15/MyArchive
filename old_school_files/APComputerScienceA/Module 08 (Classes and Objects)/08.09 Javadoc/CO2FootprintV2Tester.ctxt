@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CO2FootprintV2Tester
+comment0.text=\n\ @purpose\:\ This\ class\ calculates\ the\ CO2\ output\ by\ the\ amount\ of\ gas\ used.\n\ \n\ Author\:\ James\ Young\n\ Date\:\ October\ 23,\ 2019\n\ \n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
