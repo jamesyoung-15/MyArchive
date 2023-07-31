@@ -1,0 +1,10 @@
+In a shallow copy, object B points to object A's location in memory. Same memory location
+This works well if none of the variables of the object are defined in the heap section of memory.
+Since both objects will reference to the same memory location, then change made by one will reflect those change in another object as well. 
+Creates dangling pointer (pointers that do not point to a valid object)
+
+In deep copy, all things in object A's memory location get copied to object B's memory location.
+DeepCopy' points to a different location in memory, but the contents are the same.
+
+
+Since we are using dynamic memory allocation, deep copy is needed.

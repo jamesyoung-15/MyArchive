@@ -1,0 +1,90 @@
+Configured board size: 3
+Input the score for each cell, row by row: 
+Select a task number from 1 to 4.
+Testing task 1: Board class
+Select a test case number.
+Test case 6: A full game
+Score grid:
+=============
+| 10 | 20 | 10 |
+=============
+| -10 | -20 | -10 |
+=============
+| 10 | 20 | 10 |
+=============
+=============
+|   |   |   |
+=============
+|   |   |   |
+=============
+|   |   |   |
+=============
+Score: 0
+ID: 0
+Select a row from 0 to 2 (top to bottom).
+Select a column from 0 to 2 (left to right).
+=============
+|   |   |   |
+=============
+|   | X |   |
+=============
+|   |   |   |
+=============
+Score: -80
+ID: 81
+Select a row from 0 to 2 (top to bottom).
+Select a column from 0 to 2 (left to right).
+=============
+|   | O |   |
+=============
+|   | X |   |
+=============
+|   |   |   |
+=============
+Score: -180
+ID: 87
+Select a row from 0 to 2 (top to bottom).
+Select a column from 0 to 2 (left to right).
+=============
+|   | O |   |
+=============
+| X | X |   |
+=============
+|   |   |   |
+=============
+Score: -220
+ID: 114
+Select a row from 0 to 2 (top to bottom).
+Select a column from 0 to 2 (left to right).
+=============
+|   | O |   |
+=============
+| X | X |   |
+=============
+|   |   |   |
+=============
+Score: -220
+ID: 114
+Select a row from 0 to 2 (top to bottom).
+Select a column from 0 to 2 (left to right).
+=============
+|   | O |   |
+=============
+| X | X |   |
+=============
+|   | O |   |
+=============
+Score: -320
+ID: 4488
+Select a row from 0 to 2 (top to bottom).
+Select a column from 0 to 2 (left to right).
+=============
+|   | O |   |
+=============
+| X | X | X |
+=============
+|   | O |   |
+=============
+Score: 10000
+ID: 4731
+Player X won!

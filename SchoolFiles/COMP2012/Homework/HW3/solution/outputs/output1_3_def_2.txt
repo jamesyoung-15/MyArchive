@@ -1,0 +1,111 @@
+Configured board size: 3
+Select a task number from 1 to 4.
+Testing task 1: Board class
+Select a test case number.
+Test case 6: A full game
+Score grid:
+=============
+| 4 | 3 | 8 |
+=============
+| 9 | 5 | 1 |
+=============
+| 2 | 7 | 6 |
+=============
+=============
+|   |   |   |
+=============
+|   |   |   |
+=============
+|   |   |   |
+=============
+Score: 0
+ID: 0
+Select a row from 0 to 2 (top to bottom).
+Select a column from 0 to 2 (left to right).
+=============
+|   |   |   |
+=============
+|   | X |   |
+=============
+|   |   |   |
+=============
+Score: 20
+ID: 81
+Select a row from 0 to 2 (top to bottom).
+Select a column from 0 to 2 (left to right).
+=============
+|   | O |   |
+=============
+|   | X |   |
+=============
+|   |   |   |
+=============
+Score: 5
+ID: 87
+Select a row from 0 to 2 (top to bottom).
+Select a column from 0 to 2 (left to right).
+=============
+|   | O |   |
+=============
+| X | X |   |
+=============
+|   |   |   |
+=============
+Score: 41
+ID: 114
+Select a row from 0 to 2 (top to bottom).
+Select a column from 0 to 2 (left to right).
+=============
+|   | O |   |
+=============
+| X | X | O |
+=============
+|   |   |   |
+=============
+Score: 36
+ID: 600
+Select a row from 0 to 2 (top to bottom).
+Select a column from 0 to 2 (left to right).
+=============
+|   | O |   |
+=============
+| X | X | O |
+=============
+| X |   |   |
+=============
+Score: 44
+ID: 1329
+Select a row from 0 to 2 (top to bottom).
+Select a column from 0 to 2 (left to right).
+=============
+|   | O | O |
+=============
+| X | X | O |
+=============
+| X |   |   |
+=============
+Score: 4
+ID: 1347
+Select a row from 0 to 2 (top to bottom).
+Select a column from 0 to 2 (left to right).
+=============
+|   | O | O |
+=============
+| X | X | O |
+=============
+| X |   | X |
+=============
+Score: 28
+ID: 7908
+Select a row from 0 to 2 (top to bottom).
+Select a column from 0 to 2 (left to right).
+=============
+| O | O | O |
+=============
+| X | X | O |
+=============
+| X |   | X |
+=============
+Score: -10000
+ID: 7910
+Player O won!

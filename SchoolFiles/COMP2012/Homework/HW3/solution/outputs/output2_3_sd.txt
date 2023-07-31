@@ -1,0 +1,133 @@
+Configured board size: 3
+Input the score for each cell, row by row: 
+Select a task number from 1 to 4.
+Testing task 2: BoardTree class
+Select a test case number.
+Test case 8: A full game
+Score grid:
+=============
+| 10 | -3 | 15 |
+=============
+| -8 | 0 | -6 |
+=============
+| 9 | -2 | 7 |
+=============
+Search depth: 7
+=============
+|   |   |   |
+=============
+|   |   |   |
+=============
+|   |   |   |
+=============
+Score: 0
+ID: 0
+Estimated best score: 133
+Row: 2
+Col: 0
+=============
+|   |   |   |
+=============
+|   |   |   |
+=============
+| X |   |   |
+=============
+Score: 36
+ID: 729
+Estimated best score: 82
+Row: 1
+Col: 1
+=============
+|   |   |   |
+=============
+|   | O |   |
+=============
+| X |   |   |
+=============
+Score: 36
+ID: 891
+Estimated best score: 70
+Row: 0
+Col: 2
+=============
+|   |   | X |
+=============
+|   | O |   |
+=============
+| X |   |   |
+=============
+Score: 96
+ID: 900
+Estimated best score: 70
+Row: 1
+Col: 2
+=============
+|   |   | X |
+=============
+|   | O | O |
+=============
+| X |   |   |
+=============
+Score: 126
+ID: 1386
+Estimated best score: 70
+Row: 1
+Col: 0
+=============
+|   |   | X |
+=============
+| X | O | O |
+=============
+| X |   |   |
+=============
+Score: 94
+ID: 1413
+Estimated best score: 70
+Row: 0
+Col: 0
+=============
+| O |   | X |
+=============
+| X | O | O |
+=============
+| X |   |   |
+=============
+Score: 44
+ID: 1415
+Estimated best score: 70
+Row: 2
+Col: 2
+=============
+| O |   | X |
+=============
+| X | O | O |
+=============
+| X |   | X |
+=============
+Score: 72
+ID: 7976
+Estimated best score: 70
+Row: 2
+Col: 1
+=============
+| O |   | X |
+=============
+| X | O | O |
+=============
+| X | O | X |
+=============
+Score: 82
+ID: 12350
+Estimated best score: 70
+Row: 0
+Col: 1
+=============
+| O | X | X |
+=============
+| X | O | O |
+=============
+| X | O | X |
+=============
+Score: 70
+ID: 12353
+Player X won!

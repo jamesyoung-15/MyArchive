@@ -1,0 +1,59 @@
+Please input number of players: 
+Please input each players' names followed by their ELO rating.
+Please input number of rounds: 
+===================================
+ROUND 0/4 ENDED.
+David (2500): 0
+Carol (2000): 0
+Bob (1500): 0
+Ethan (1200): 0
+Alice (1000): 0
+===================================
+David (2500) vs. Bob (1500)
+David (2500) defeated Bob (1500)
+Carol (2000) vs. Ethan (1200)
+Ethan (1200) defeated Carol (2000)
+===================================
+ROUND 1/4 ENDED.
+David (2500): 2
+Ethan (1200): 2
+Alice (1000): 2
+Carol (2000): 0
+Bob (1500): 0
+===================================
+David (2500) vs. Ethan (1200)
+David (2500) and Ethan (1200) drew
+Alice (1000) vs. Carol (2000)
+Carol (2000) defeated Alice (1000)
+===================================
+ROUND 2/4 ENDED.
+David (2500): 3
+Ethan (1200): 3
+Carol (2000): 2
+Bob (1500): 2
+Alice (1000): 2
+===================================
+David (2500) vs. Ethan (1200)
+David (2500) defeated Ethan (1200)
+Carol (2000) vs. Bob (1500)
+Carol (2000) defeated Bob (1500)
+===================================
+ROUND 3/4 ENDED.
+David (2500): 5
+Carol (2000): 4
+Alice (1000): 4
+Ethan (1200): 3
+Bob (1500): 2
+===================================
+David (2500) vs. Carol (2000)
+David (2500) and Carol (2000) drew
+Alice (1000) vs. Ethan (1200)
+Alice (1000) defeated Ethan (1200)
+===================================
+ROUND 4/4 ENDED.
+David (2500): 6
+Alice (1000): 6
+Carol (2000): 5
+Bob (1500): 4
+Ethan (1200): 3
+===================================

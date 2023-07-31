@@ -1,0 +1,552 @@
+Testing task 5: Swiss::play()
+Please input number of players: 
+Please input each players' names followed by their ELO rating.
+Please input number of rounds: 
+===================================
+ROUND 0/10 ENDED.
+Magnus (2900): 0
+Xavier (2740): 0
+Simon (2600): 0
+Gary (2500): 0
+Kelly (2450): 0
+Patrick (2340): 0
+Iris (2200): 0
+Lawrence (2100): 0
+Terence (2050): 0
+Wally (2023): 0
+Carol (2000): 0
+Quentin (1930): 0
+Zack (1890): 0
+Harry (1850): 0
+David (1750): 0
+Jackson (1660): 0
+Vincent (1610): 0
+Oswald (1540): 0
+Bob (1500): 0
+Fred (1450): 0
+Ursula (1360): 0
+Ray (1220): 0
+Ethan (1200): 0
+Nemo (1140): 0
+Alice (1000): 0
+===================================
+Magnus (2900) vs. Zack (1890)
+Magnus (2900) defeated Zack (1890)
+Xavier (2740) vs. Harry (1850)
+Xavier (2740) and Harry (1850) drew
+Simon (2600) vs. David (1750)
+Simon (2600) defeated David (1750)
+Gary (2500) vs. Jackson (1660)
+Gary (2500) and Jackson (1660) drew
+Kelly (2450) vs. Vincent (1610)
+Kelly (2450) defeated Vincent (1610)
+Patrick (2340) vs. Oswald (1540)
+Patrick (2340) and Oswald (1540) drew
+Iris (2200) vs. Bob (1500)
+Iris (2200) and Bob (1500) drew
+Lawrence (2100) vs. Fred (1450)
+Fred (1450) defeated Lawrence (2100)
+Terence (2050) vs. Ursula (1360)
+Terence (2050) defeated Ursula (1360)
+Wally (2023) vs. Ray (1220)
+Ray (1220) defeated Wally (2023)
+Carol (2000) vs. Ethan (1200)
+Carol (2000) and Ethan (1200) drew
+Quentin (1930) vs. Nemo (1140)
+Quentin (1930) defeated Nemo (1140)
+===================================
+ROUND 1/10 ENDED.
+Magnus (2900): 2
+Simon (2600): 2
+Kelly (2450): 2
+Terence (2050): 2
+Quentin (1930): 2
+Fred (1450): 2
+Ray (1220): 2
+Alice (1000): 2
+Xavier (2740): 1
+Gary (2500): 1
+Patrick (2340): 1
+Iris (2200): 1
+Carol (2000): 1
+Harry (1850): 1
+Jackson (1660): 1
+Oswald (1540): 1
+Bob (1500): 1
+Ethan (1200): 1
+Lawrence (2100): 0
+Wally (2023): 0
+Zack (1890): 0
+David (1750): 0
+Vincent (1610): 0
+Ursula (1360): 0
+Nemo (1140): 0
+===================================
+Magnus (2900) vs. Quentin (1930)
+Magnus (2900) defeated Quentin (1930)
+Simon (2600) vs. Fred (1450)
+Simon (2600) defeated Fred (1450)
+Kelly (2450) vs. Ray (1220)
+Kelly (2450) defeated Ray (1220)
+Terence (2050) vs. Alice (1000)
+Terence (2050) defeated Alice (1000)
+Xavier (2740) vs. Harry (1850)
+Harry (1850) defeated Xavier (2740)
+Gary (2500) vs. Jackson (1660)
+Jackson (1660) defeated Gary (2500)
+Patrick (2340) vs. Oswald (1540)
+Oswald (1540) defeated Patrick (2340)
+Iris (2200) vs. Bob (1500)
+Bob (1500) defeated Iris (2200)
+Carol (2000) vs. Ethan (1200)
+Ethan (1200) defeated Carol (2000)
+Lawrence (2100) vs. David (1750)
+Lawrence (2100) and David (1750) drew
+Wally (2023) vs. Vincent (1610)
+Wally (2023) and Vincent (1610) drew
+Zack (1890) vs. Ursula (1360)
+Zack (1890) and Ursula (1360) drew
+===================================
+ROUND 2/10 ENDED.
+Magnus (2900): 4
+Simon (2600): 4
+Kelly (2450): 4
+Terence (2050): 4
+Harry (1850): 3
+Jackson (1660): 3
+Oswald (1540): 3
+Bob (1500): 3
+Ethan (1200): 3
+Quentin (1930): 2
+Fred (1450): 2
+Ray (1220): 2
+Nemo (1140): 2
+Alice (1000): 2
+Xavier (2740): 1
+Gary (2500): 1
+Patrick (2340): 1
+Iris (2200): 1
+Lawrence (2100): 1
+Wally (2023): 1
+Carol (2000): 1
+Zack (1890): 1
+David (1750): 1
+Vincent (1610): 1
+Ursula (1360): 1
+===================================
+Magnus (2900) vs. Kelly (2450)
+Kelly (2450) defeated Magnus (2900)
+Simon (2600) vs. Terence (2050)
+Simon (2600) and Terence (2050) drew
+Harry (1850) vs. Oswald (1540)
+Oswald (1540) defeated Harry (1850)
+Jackson (1660) vs. Bob (1500)
+Bob (1500) defeated Jackson (1660)
+Ethan (1200) vs. Ray (1220)
+Ethan (1200) and Ray (1220) drew
+Quentin (1930) vs. Nemo (1140)
+Quentin (1930) defeated Nemo (1140)
+Fred (1450) vs. Alice (1000)
+Fred (1450) defeated Alice (1000)
+Xavier (2740) vs. Wally (2023)
+Xavier (2740) defeated Wally (2023)
+Gary (2500) vs. Carol (2000)
+Gary (2500) and Carol (2000) drew
+Patrick (2340) vs. Zack (1890)
+Zack (1890) defeated Patrick (2340)
+Iris (2200) vs. David (1750)
+Iris (2200) defeated David (1750)
+Lawrence (2100) vs. Vincent (1610)
+Vincent (1610) defeated Lawrence (2100)
+===================================
+ROUND 3/10 ENDED.
+Kelly (2450): 6
+Simon (2600): 5
+Terence (2050): 5
+Oswald (1540): 5
+Bob (1500): 5
+Magnus (2900): 4
+Quentin (1930): 4
+Fred (1450): 4
+Ethan (1200): 4
+Xavier (2740): 3
+Iris (2200): 3
+Zack (1890): 3
+Harry (1850): 3
+Jackson (1660): 3
+Vincent (1610): 3
+Ursula (1360): 3
+Ray (1220): 3
+Gary (2500): 2
+Carol (2000): 2
+Nemo (1140): 2
+Alice (1000): 2
+Patrick (2340): 1
+Lawrence (2100): 1
+Wally (2023): 1
+David (1750): 1
+===================================
+Kelly (2450) vs. Terence (2050)
+Terence (2050) defeated Kelly (2450)
+Simon (2600) vs. Oswald (1540)
+Simon (2600) defeated Oswald (1540)
+Bob (1500) vs. Quentin (1930)
+Bob (1500) and Quentin (1930) drew
+Magnus (2900) vs. Fred (1450)
+Magnus (2900) defeated Fred (1450)
+Ethan (1200) vs. Harry (1850)
+Ethan (1200) and Harry (1850) drew
+Xavier (2740) vs. Jackson (1660)
+Xavier (2740) and Jackson (1660) drew
+Iris (2200) vs. Vincent (1610)
+Vincent (1610) defeated Iris (2200)
+Zack (1890) vs. Ursula (1360)
+Ursula (1360) defeated Zack (1890)
+Ray (1220) vs. Carol (2000)
+Ray (1220) defeated Carol (2000)
+Gary (2500) vs. Nemo (1140)
+Gary (2500) and Nemo (1140) drew
+Alice (1000) vs. Lawrence (2100)
+Alice (1000) defeated Lawrence (2100)
+Patrick (2340) vs. Wally (2023)
+Wally (2023) defeated Patrick (2340)
+===================================
+ROUND 4/10 ENDED.
+Simon (2600): 7
+Terence (2050): 7
+Magnus (2900): 6
+Kelly (2450): 6
+Bob (1500): 6
+Quentin (1930): 5
+Vincent (1610): 5
+Oswald (1540): 5
+Ursula (1360): 5
+Ray (1220): 5
+Ethan (1200): 5
+Xavier (2740): 4
+Harry (1850): 4
+Jackson (1660): 4
+Fred (1450): 4
+Alice (1000): 4
+Gary (2500): 3
+Iris (2200): 3
+Wally (2023): 3
+Zack (1890): 3
+David (1750): 3
+Nemo (1140): 3
+Carol (2000): 2
+Patrick (2340): 1
+Lawrence (2100): 1
+===================================
+Simon (2600) vs. Terence (2050)
+Simon (2600) and Terence (2050) drew
+Magnus (2900) vs. Kelly (2450)
+Magnus (2900) and Kelly (2450) drew
+Bob (1500) vs. Oswald (1540)
+Oswald (1540) defeated Bob (1500)
+Quentin (1930) vs. Ursula (1360)
+Quentin (1930) and Ursula (1360) drew
+Vincent (1610) vs. Ray (1220)
+Vincent (1610) defeated Ray (1220)
+Ethan (1200) vs. Jackson (1660)
+Jackson (1660) defeated Ethan (1200)
+Xavier (2740) vs. Fred (1450)
+Fred (1450) defeated Xavier (2740)
+Harry (1850) vs. Alice (1000)
+Alice (1000) defeated Harry (1850)
+Gary (2500) vs. Zack (1890)
+Zack (1890) defeated Gary (2500)
+Iris (2200) vs. David (1750)
+Iris (2200) defeated David (1750)
+Wally (2023) vs. Nemo (1140)
+Wally (2023) and Nemo (1140) drew
+Carol (2000) vs. Patrick (2340)
+Carol (2000) defeated Patrick (2340)
+===================================
+ROUND 5/10 ENDED.
+Simon (2600): 8
+Terence (2050): 8
+Magnus (2900): 7
+Kelly (2450): 7
+Vincent (1610): 7
+Oswald (1540): 7
+Quentin (1930): 6
+Jackson (1660): 6
+Bob (1500): 6
+Fred (1450): 6
+Ursula (1360): 6
+Alice (1000): 6
+Iris (2200): 5
+Zack (1890): 5
+Ray (1220): 5
+Ethan (1200): 5
+Xavier (2740): 4
+Wally (2023): 4
+Carol (2000): 4
+Harry (1850): 4
+Nemo (1140): 4
+Gary (2500): 3
+Lawrence (2100): 3
+David (1750): 3
+Patrick (2340): 1
+===================================
+Simon (2600) vs. Terence (2050)
+Simon (2600) and Terence (2050) drew
+Magnus (2900) vs. Vincent (1610)
+Magnus (2900) defeated Vincent (1610)
+Kelly (2450) vs. Oswald (1540)
+Oswald (1540) defeated Kelly (2450)
+Quentin (1930) vs. Fred (1450)
+Quentin (1930) and Fred (1450) drew
+Jackson (1660) vs. Ursula (1360)
+Jackson (1660) and Ursula (1360) drew
+Bob (1500) vs. Alice (1000)
+Alice (1000) defeated Bob (1500)
+Iris (2200) vs. Ray (1220)
+Iris (2200) and Ray (1220) drew
+Zack (1890) vs. Ethan (1200)
+Ethan (1200) defeated Zack (1890)
+Xavier (2740) vs. Carol (2000)
+Xavier (2740) and Carol (2000) drew
+Wally (2023) vs. Harry (1850)
+Wally (2023) and Harry (1850) drew
+Nemo (1140) vs. Lawrence (2100)
+Nemo (1140) defeated Lawrence (2100)
+Gary (2500) vs. David (1750)
+Gary (2500) defeated David (1750)
+===================================
+ROUND 6/10 ENDED.
+Magnus (2900): 9
+Simon (2600): 9
+Terence (2050): 9
+Oswald (1540): 9
+Alice (1000): 8
+Kelly (2450): 7
+Quentin (1930): 7
+Jackson (1660): 7
+Vincent (1610): 7
+Fred (1450): 7
+Ursula (1360): 7
+Ethan (1200): 7
+Iris (2200): 6
+Bob (1500): 6
+Ray (1220): 6
+Nemo (1140): 6
+Xavier (2740): 5
+Gary (2500): 5
+Wally (2023): 5
+Carol (2000): 5
+Zack (1890): 5
+Harry (1850): 5
+Patrick (2340): 3
+Lawrence (2100): 3
+David (1750): 3
+===================================
+Magnus (2900) vs. Terence (2050)
+Terence (2050) defeated Magnus (2900)
+Simon (2600) vs. Oswald (1540)
+Simon (2600) and Oswald (1540) drew
+Alice (1000) vs. Vincent (1610)
+Vincent (1610) defeated Alice (1000)
+Kelly (2450) vs. Fred (1450)
+Kelly (2450) defeated Fred (1450)
+Quentin (1930) vs. Ursula (1360)
+Quentin (1930) defeated Ursula (1360)
+Jackson (1660) vs. Ethan (1200)
+Ethan (1200) defeated Jackson (1660)
+Iris (2200) vs. Ray (1220)
+Ray (1220) defeated Iris (2200)
+Bob (1500) vs. Nemo (1140)
+Nemo (1140) defeated Bob (1500)
+Xavier (2740) vs. Carol (2000)
+Xavier (2740) and Carol (2000) drew
+Gary (2500) vs. Zack (1890)
+Gary (2500) and Zack (1890) drew
+Wally (2023) vs. Harry (1850)
+Harry (1850) defeated Wally (2023)
+Patrick (2340) vs. Lawrence (2100)
+Patrick (2340) and Lawrence (2100) drew
+===================================
+ROUND 7/10 ENDED.
+Terence (2050): 11
+Simon (2600): 10
+Oswald (1540): 10
+Magnus (2900): 9
+Kelly (2450): 9
+Quentin (1930): 9
+Vincent (1610): 9
+Ethan (1200): 9
+Ray (1220): 8
+Nemo (1140): 8
+Alice (1000): 8
+Harry (1850): 7
+Jackson (1660): 7
+Fred (1450): 7
+Ursula (1360): 7
+Xavier (2740): 6
+Gary (2500): 6
+Iris (2200): 6
+Carol (2000): 6
+Zack (1890): 6
+Bob (1500): 6
+Wally (2023): 5
+David (1750): 5
+Patrick (2340): 4
+Lawrence (2100): 4
+===================================
+Terence (2050) vs. Simon (2600)
+Terence (2050) defeated Simon (2600)
+Oswald (1540) vs. Quentin (1930)
+Oswald (1540) defeated Quentin (1930)
+Magnus (2900) vs. Vincent (1610)
+Magnus (2900) defeated Vincent (1610)
+Kelly (2450) vs. Ethan (1200)
+Kelly (2450) and Ethan (1200) drew
+Ray (1220) vs. Nemo (1140)
+Ray (1220) defeated Nemo (1140)
+Alice (1000) vs. Jackson (1660)
+Jackson (1660) defeated Alice (1000)
+Harry (1850) vs. Fred (1450)
+Harry (1850) defeated Fred (1450)
+Ursula (1360) vs. Iris (2200)
+Ursula (1360) and Iris (2200) drew
+Xavier (2740) vs. Carol (2000)
+Xavier (2740) and Carol (2000) drew
+Gary (2500) vs. Zack (1890)
+Gary (2500) defeated Zack (1890)
+Bob (1500) vs. Wally (2023)
+Wally (2023) defeated Bob (1500)
+David (1750) vs. Patrick (2340)
+David (1750) defeated Patrick (2340)
+===================================
+ROUND 8/10 ENDED.
+Terence (2050): 13
+Oswald (1540): 12
+Magnus (2900): 11
+Simon (2600): 10
+Kelly (2450): 10
+Ray (1220): 10
+Ethan (1200): 10
+Quentin (1930): 9
+Harry (1850): 9
+Jackson (1660): 9
+Vincent (1610): 9
+Gary (2500): 8
+Ursula (1360): 8
+Nemo (1140): 8
+Alice (1000): 8
+Xavier (2740): 7
+Iris (2200): 7
+Wally (2023): 7
+Carol (2000): 7
+David (1750): 7
+Fred (1450): 7
+Lawrence (2100): 6
+Zack (1890): 6
+Bob (1500): 6
+Patrick (2340): 4
+===================================
+Terence (2050) vs. Oswald (1540)
+Terence (2050) defeated Oswald (1540)
+Magnus (2900) vs. Kelly (2450)
+Magnus (2900) and Kelly (2450) drew
+Simon (2600) vs. Ray (1220)
+Simon (2600) and Ray (1220) drew
+Ethan (1200) vs. Harry (1850)
+Ethan (1200) and Harry (1850) drew
+Quentin (1930) vs. Jackson (1660)
+Quentin (1930) and Jackson (1660) drew
+Vincent (1610) vs. Ursula (1360)
+Vincent (1610) and Ursula (1360) drew
+Gary (2500) vs. Nemo (1140)
+Gary (2500) defeated Nemo (1140)
+Alice (1000) vs. Wally (2023)
+Alice (1000) defeated Wally (2023)
+Xavier (2740) vs. Carol (2000)
+Carol (2000) defeated Xavier (2740)
+Iris (2200) vs. David (1750)
+Iris (2200) and David (1750) drew
+Fred (1450) vs. Zack (1890)
+Zack (1890) defeated Fred (1450)
+Lawrence (2100) vs. Bob (1500)
+Lawrence (2100) and Bob (1500) drew
+===================================
+ROUND 9/10 ENDED.
+Terence (2050): 15
+Magnus (2900): 12
+Oswald (1540): 12
+Simon (2600): 11
+Kelly (2450): 11
+Ray (1220): 11
+Ethan (1200): 11
+Gary (2500): 10
+Quentin (1930): 10
+Harry (1850): 10
+Jackson (1660): 10
+Vincent (1610): 10
+Alice (1000): 10
+Carol (2000): 9
+Ursula (1360): 9
+Iris (2200): 8
+Zack (1890): 8
+David (1750): 8
+Nemo (1140): 8
+Xavier (2740): 7
+Lawrence (2100): 7
+Wally (2023): 7
+Bob (1500): 7
+Fred (1450): 7
+Patrick (2340): 6
+===================================
+Terence (2050) vs. Magnus (2900)
+Magnus (2900) defeated Terence (2050)
+Oswald (1540) vs. Kelly (2450)
+Kelly (2450) defeated Oswald (1540)
+Simon (2600) vs. Ray (1220)
+Ray (1220) defeated Simon (2600)
+Ethan (1200) vs. Harry (1850)
+Ethan (1200) defeated Harry (1850)
+Gary (2500) vs. Jackson (1660)
+Jackson (1660) defeated Gary (2500)
+Quentin (1930) vs. Vincent (1610)
+Quentin (1930) and Vincent (1610) drew
+Alice (1000) vs. Carol (2000)
+Alice (1000) and Carol (2000) drew
+Ursula (1360) vs. Zack (1890)
+Ursula (1360) defeated Zack (1890)
+Iris (2200) vs. David (1750)
+David (1750) defeated Iris (2200)
+Nemo (1140) vs. Wally (2023)
+Nemo (1140) defeated Wally (2023)
+Xavier (2740) vs. Bob (1500)
+Xavier (2740) and Bob (1500) drew
+Lawrence (2100) vs. Fred (1450)
+Lawrence (2100) defeated Fred (1450)
+===================================
+ROUND 10/10 ENDED.
+Terence (2050): 15
+Magnus (2900): 14
+Kelly (2450): 13
+Ray (1220): 13
+Ethan (1200): 13
+Jackson (1660): 12
+Oswald (1540): 12
+Simon (2600): 11
+Quentin (1930): 11
+Vincent (1610): 11
+Ursula (1360): 11
+Alice (1000): 11
+Gary (2500): 10
+Carol (2000): 10
+Harry (1850): 10
+David (1750): 10
+Nemo (1140): 10
+Lawrence (2100): 9
+Xavier (2740): 8
+Patrick (2340): 8
+Iris (2200): 8
+Zack (1890): 8
+Bob (1500): 8
+Wally (2023): 7
+Fred (1450): 7
+===================================

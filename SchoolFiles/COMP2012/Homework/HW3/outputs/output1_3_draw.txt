@@ -1,0 +1,110 @@
+Select a task number from 1 to 4.
+=============
+|   |   |   |
+=============
+|   |   |   |
+=============
+|   |   |   |
+=============
+Score: 0
+ID: 0
+Select a row from 0 to 2 (top to bottom). Type -1 to quit game.
+Select a column from 0 to 2 (left to right). Type -1 to quit game.
+=============
+|   |   |   |
+=============
+|   | X |   |
+=============
+|   |   |   |
+=============
+Score: 20
+ID: 81
+Select a row from 0 to 2 (top to bottom). Type -1 to quit game.
+Select a column from 0 to 2 (left to right). Type -1 to quit game.
+=============
+|   | O |   |
+=============
+|   | X |   |
+=============
+|   |   |   |
+=============
+Score: 5
+ID: 87
+Select a row from 0 to 2 (top to bottom). Type -1 to quit game.
+Select a column from 0 to 2 (left to right). Type -1 to quit game.
+=============
+|   | O |   |
+=============
+| X | X |   |
+=============
+|   |   |   |
+=============
+Score: 41
+ID: 114
+Select a row from 0 to 2 (top to bottom). Type -1 to quit game.
+Select a column from 0 to 2 (left to right). Type -1 to quit game.
+=============
+|   | O |   |
+=============
+| X | X | O |
+=============
+|   |   |   |
+=============
+Score: 36
+ID: 600
+Select a row from 0 to 2 (top to bottom). Type -1 to quit game.
+Select a column from 0 to 2 (left to right). Type -1 to quit game.
+=============
+|   | O |   |
+=============
+| X | X | O |
+=============
+|   |   | X |
+=============
+Score: 60
+ID: 7161
+Select a row from 0 to 2 (top to bottom). Type -1 to quit game.
+Select a column from 0 to 2 (left to right). Type -1 to quit game.
+=============
+| O | O |   |
+=============
+| X | X | O |
+=============
+|   |   | X |
+=============
+Score: 40
+ID: 7163
+Select a row from 0 to 2 (top to bottom). Type -1 to quit game.
+Select a column from 0 to 2 (left to right). Type -1 to quit game.
+=============
+| O | O | X |
+=============
+| X | X | O |
+=============
+|   |   | X |
+=============
+Score: 72
+ID: 7172
+Select a row from 0 to 2 (top to bottom). Type -1 to quit game.
+Select a column from 0 to 2 (left to right). Type -1 to quit game.
+=============
+| O | O | X |
+=============
+| X | X | O |
+=============
+| O |   | X |
+=============
+Score: 62
+ID: 8630
+Select a row from 0 to 2 (top to bottom). Type -1 to quit game.
+Select a column from 0 to 2 (left to right). Type -1 to quit game.
+=============
+| O | O | X |
+=============
+| X | X | O |
+=============
+| O | X | X |
+=============
+Score: 90
+ID: 10817
+Player X won!

@@ -1,0 +1,2906 @@
+Testing task 5: Swiss::play()
+Please input number of players: 
+Please input each players' names followed by their ELO rating.
+Please input number of rounds: 
+===================================
+ROUND 0/14 ENDED.
+Player76 (2975): 0
+Player17 (2968): 0
+Player92 (2943): 0
+Player33 (2936): 0
+Player49 (2904): 0
+Player65 (2872): 0
+Player6 (2865): 0
+Player81 (2840): 0
+Player22 (2833): 0
+Player97 (2808): 0
+Player38 (2801): 0
+Player54 (2769): 0
+Player70 (2737): 0
+Player11 (2730): 0
+Player86 (2705): 0
+Player27 (2698): 0
+Player43 (2666): 0
+Player59 (2634): 0
+Player75 (2602): 0
+Player16 (2595): 0
+Player91 (2570): 0
+Player32 (2563): 0
+Player48 (2531): 0
+Player64 (2499): 0
+Player5 (2492): 0
+Player80 (2467): 0
+Player21 (2460): 0
+Player96 (2435): 0
+Player37 (2428): 0
+Player53 (2396): 0
+Player69 (2364): 0
+Player10 (2357): 0
+Player85 (2332): 0
+Player26 (2325): 0
+Player42 (2293): 0
+Player58 (2261): 0
+Player74 (2229): 0
+Player15 (2222): 0
+Player90 (2197): 0
+Player31 (2190): 0
+Player47 (2158): 0
+Player63 (2126): 0
+Player4 (2119): 0
+Player79 (2094): 0
+Player20 (2087): 0
+Player95 (2062): 0
+Player36 (2055): 0
+Player52 (2023): 0
+Player68 (1991): 0
+Player9 (1984): 0
+Player84 (1959): 0
+Player25 (1952): 0
+Player41 (1920): 0
+Player57 (1888): 0
+Player73 (1856): 0
+Player14 (1849): 0
+Player89 (1824): 0
+Player30 (1817): 0
+Player46 (1785): 0
+Player62 (1753): 0
+Player3 (1746): 0
+Player78 (1721): 0
+Player19 (1714): 0
+Player94 (1689): 0
+Player35 (1682): 0
+Player51 (1650): 0
+Player67 (1618): 0
+Player8 (1611): 0
+Player83 (1586): 0
+Player24 (1579): 0
+Player99 (1554): 0
+Player40 (1547): 0
+Player56 (1515): 0
+Player72 (1483): 0
+Player13 (1476): 0
+Player88 (1451): 0
+Player29 (1444): 0
+Player45 (1412): 0
+Player61 (1380): 0
+Player2 (1373): 0
+Player77 (1348): 0
+Player18 (1341): 0
+Player93 (1316): 0
+Player34 (1309): 0
+Player50 (1277): 0
+Player66 (1245): 0
+Player7 (1238): 0
+Player82 (1213): 0
+Player23 (1206): 0
+Player98 (1181): 0
+Player39 (1174): 0
+Player55 (1142): 0
+Player71 (1110): 0
+Player12 (1103): 0
+Player87 (1078): 0
+Player28 (1071): 0
+Player44 (1039): 0
+Player60 (1007): 0
+Player1 (1000): 0
+===================================
+Player76 (2975) vs. Player9 (1984)
+Player76 (2975) defeated Player9 (1984)
+Player17 (2968) vs. Player84 (1959)
+Player17 (2968) and Player84 (1959) drew
+Player92 (2943) vs. Player25 (1952)
+Player25 (1952) defeated Player92 (2943)
+Player33 (2936) vs. Player41 (1920)
+Player41 (1920) defeated Player33 (2936)
+Player49 (2904) vs. Player57 (1888)
+Player49 (2904) and Player57 (1888) drew
+Player65 (2872) vs. Player73 (1856)
+Player73 (1856) defeated Player65 (2872)
+Player6 (2865) vs. Player14 (1849)
+Player6 (2865) defeated Player14 (1849)
+Player81 (2840) vs. Player89 (1824)
+Player81 (2840) and Player89 (1824) drew
+Player22 (2833) vs. Player30 (1817)
+Player22 (2833) defeated Player30 (1817)
+Player97 (2808) vs. Player46 (1785)
+Player97 (2808) defeated Player46 (1785)
+Player38 (2801) vs. Player62 (1753)
+Player38 (2801) defeated Player62 (1753)
+Player54 (2769) vs. Player3 (1746)
+Player3 (1746) defeated Player54 (2769)
+Player70 (2737) vs. Player78 (1721)
+Player70 (2737) defeated Player78 (1721)
+Player11 (2730) vs. Player19 (1714)
+Player19 (1714) defeated Player11 (2730)
+Player86 (2705) vs. Player94 (1689)
+Player94 (1689) defeated Player86 (2705)
+Player27 (2698) vs. Player35 (1682)
+Player27 (2698) defeated Player35 (1682)
+Player43 (2666) vs. Player51 (1650)
+Player51 (1650) defeated Player43 (2666)
+Player59 (2634) vs. Player67 (1618)
+Player59 (2634) and Player67 (1618) drew
+Player75 (2602) vs. Player8 (1611)
+Player75 (2602) and Player8 (1611) drew
+Player16 (2595) vs. Player83 (1586)
+Player16 (2595) and Player83 (1586) drew
+Player91 (2570) vs. Player24 (1579)
+Player91 (2570) and Player24 (1579) drew
+Player32 (2563) vs. Player99 (1554)
+Player32 (2563) defeated Player99 (1554)
+Player48 (2531) vs. Player40 (1547)
+Player48 (2531) defeated Player40 (1547)
+Player64 (2499) vs. Player56 (1515)
+Player64 (2499) defeated Player56 (1515)
+Player5 (2492) vs. Player72 (1483)
+Player72 (1483) defeated Player5 (2492)
+Player80 (2467) vs. Player13 (1476)
+Player80 (2467) defeated Player13 (1476)
+Player21 (2460) vs. Player88 (1451)
+Player21 (2460) and Player88 (1451) drew
+Player96 (2435) vs. Player29 (1444)
+Player29 (1444) defeated Player96 (2435)
+Player37 (2428) vs. Player45 (1412)
+Player45 (1412) defeated Player37 (2428)
+Player53 (2396) vs. Player61 (1380)
+Player53 (2396) defeated Player61 (1380)
+Player69 (2364) vs. Player2 (1373)
+Player2 (1373) defeated Player69 (2364)
+Player10 (2357) vs. Player77 (1348)
+Player77 (1348) defeated Player10 (2357)
+Player85 (2332) vs. Player18 (1341)
+Player18 (1341) defeated Player85 (2332)
+Player26 (2325) vs. Player93 (1316)
+Player26 (2325) and Player93 (1316) drew
+Player42 (2293) vs. Player34 (1309)
+Player34 (1309) defeated Player42 (2293)
+Player58 (2261) vs. Player50 (1277)
+Player50 (1277) defeated Player58 (2261)
+Player74 (2229) vs. Player66 (1245)
+Player74 (2229) and Player66 (1245) drew
+Player15 (2222) vs. Player7 (1238)
+Player7 (1238) defeated Player15 (2222)
+Player90 (2197) vs. Player82 (1213)
+Player82 (1213) defeated Player90 (2197)
+Player31 (2190) vs. Player23 (1206)
+Player23 (1206) defeated Player31 (2190)
+Player47 (2158) vs. Player98 (1181)
+Player47 (2158) defeated Player98 (1181)
+Player63 (2126) vs. Player39 (1174)
+Player39 (1174) defeated Player63 (2126)
+Player4 (2119) vs. Player55 (1142)
+Player4 (2119) and Player55 (1142) drew
+Player79 (2094) vs. Player71 (1110)
+Player71 (1110) defeated Player79 (2094)
+Player20 (2087) vs. Player12 (1103)
+Player20 (2087) defeated Player12 (1103)
+Player95 (2062) vs. Player87 (1078)
+Player95 (2062) defeated Player87 (1078)
+Player36 (2055) vs. Player28 (1071)
+Player36 (2055) defeated Player28 (1071)
+Player52 (2023) vs. Player44 (1039)
+Player52 (2023) defeated Player44 (1039)
+Player68 (1991) vs. Player60 (1007)
+Player60 (1007) defeated Player68 (1991)
+===================================
+ROUND 1/14 ENDED.
+Player76 (2975): 2
+Player6 (2865): 2
+Player22 (2833): 2
+Player97 (2808): 2
+Player38 (2801): 2
+Player70 (2737): 2
+Player27 (2698): 2
+Player32 (2563): 2
+Player48 (2531): 2
+Player64 (2499): 2
+Player80 (2467): 2
+Player53 (2396): 2
+Player47 (2158): 2
+Player20 (2087): 2
+Player95 (2062): 2
+Player36 (2055): 2
+Player52 (2023): 2
+Player25 (1952): 2
+Player41 (1920): 2
+Player73 (1856): 2
+Player3 (1746): 2
+Player19 (1714): 2
+Player94 (1689): 2
+Player51 (1650): 2
+Player72 (1483): 2
+Player29 (1444): 2
+Player45 (1412): 2
+Player2 (1373): 2
+Player77 (1348): 2
+Player18 (1341): 2
+Player34 (1309): 2
+Player50 (1277): 2
+Player7 (1238): 2
+Player82 (1213): 2
+Player23 (1206): 2
+Player39 (1174): 2
+Player71 (1110): 2
+Player60 (1007): 2
+Player1 (1000): 2
+Player17 (2968): 1
+Player49 (2904): 1
+Player81 (2840): 1
+Player59 (2634): 1
+Player75 (2602): 1
+Player16 (2595): 1
+Player91 (2570): 1
+Player21 (2460): 1
+Player26 (2325): 1
+Player74 (2229): 1
+Player4 (2119): 1
+Player84 (1959): 1
+Player57 (1888): 1
+Player89 (1824): 1
+Player67 (1618): 1
+Player8 (1611): 1
+Player83 (1586): 1
+Player24 (1579): 1
+Player88 (1451): 1
+Player93 (1316): 1
+Player66 (1245): 1
+Player55 (1142): 1
+Player92 (2943): 0
+Player33 (2936): 0
+Player65 (2872): 0
+Player54 (2769): 0
+Player11 (2730): 0
+Player86 (2705): 0
+Player43 (2666): 0
+Player5 (2492): 0
+Player96 (2435): 0
+Player37 (2428): 0
+Player69 (2364): 0
+Player10 (2357): 0
+Player85 (2332): 0
+Player42 (2293): 0
+Player58 (2261): 0
+Player15 (2222): 0
+Player90 (2197): 0
+Player31 (2190): 0
+Player63 (2126): 0
+Player79 (2094): 0
+Player68 (1991): 0
+Player9 (1984): 0
+Player14 (1849): 0
+Player30 (1817): 0
+Player46 (1785): 0
+Player62 (1753): 0
+Player78 (1721): 0
+Player35 (1682): 0
+Player99 (1554): 0
+Player40 (1547): 0
+Player56 (1515): 0
+Player13 (1476): 0
+Player61 (1380): 0
+Player98 (1181): 0
+Player12 (1103): 0
+Player87 (1078): 0
+Player28 (1071): 0
+Player44 (1039): 0
+===================================
+Player76 (2975) vs. Player73 (1856)
+Player76 (2975) and Player73 (1856) drew
+Player6 (2865) vs. Player3 (1746)
+Player6 (2865) defeated Player3 (1746)
+Player22 (2833) vs. Player19 (1714)
+Player19 (1714) defeated Player22 (2833)
+Player97 (2808) vs. Player94 (1689)
+Player97 (2808) defeated Player94 (1689)
+Player38 (2801) vs. Player51 (1650)
+Player51 (1650) defeated Player38 (2801)
+Player70 (2737) vs. Player72 (1483)
+Player70 (2737) and Player72 (1483) drew
+Player27 (2698) vs. Player29 (1444)
+Player27 (2698) and Player29 (1444) drew
+Player32 (2563) vs. Player45 (1412)
+Player32 (2563) defeated Player45 (1412)
+Player48 (2531) vs. Player2 (1373)
+Player48 (2531) and Player2 (1373) drew
+Player64 (2499) vs. Player77 (1348)
+Player64 (2499) and Player77 (1348) drew
+Player80 (2467) vs. Player18 (1341)
+Player80 (2467) defeated Player18 (1341)
+Player53 (2396) vs. Player34 (1309)
+Player53 (2396) defeated Player34 (1309)
+Player47 (2158) vs. Player50 (1277)
+Player47 (2158) and Player50 (1277) drew
+Player20 (2087) vs. Player7 (1238)
+Player20 (2087) and Player7 (1238) drew
+Player95 (2062) vs. Player82 (1213)
+Player82 (1213) defeated Player95 (2062)
+Player36 (2055) vs. Player23 (1206)
+Player23 (1206) defeated Player36 (2055)
+Player52 (2023) vs. Player39 (1174)
+Player52 (2023) defeated Player39 (1174)
+Player25 (1952) vs. Player71 (1110)
+Player25 (1952) defeated Player71 (1110)
+Player41 (1920) vs. Player60 (1007)
+Player41 (1920) and Player60 (1007) drew
+Player1 (1000) vs. Player4 (2119)
+Player4 (2119) defeated Player1 (1000)
+Player17 (2968) vs. Player84 (1959)
+Player84 (1959) defeated Player17 (2968)
+Player49 (2904) vs. Player57 (1888)
+Player49 (2904) and Player57 (1888) drew
+Player81 (2840) vs. Player89 (1824)
+Player89 (1824) defeated Player81 (2840)
+Player59 (2634) vs. Player67 (1618)
+Player59 (2634) defeated Player67 (1618)
+Player75 (2602) vs. Player8 (1611)
+Player8 (1611) defeated Player75 (2602)
+Player16 (2595) vs. Player83 (1586)
+Player16 (2595) and Player83 (1586) drew
+Player91 (2570) vs. Player24 (1579)
+Player91 (2570) and Player24 (1579) drew
+Player21 (2460) vs. Player88 (1451)
+Player21 (2460) and Player88 (1451) drew
+Player26 (2325) vs. Player93 (1316)
+Player26 (2325) defeated Player93 (1316)
+Player74 (2229) vs. Player66 (1245)
+Player66 (1245) defeated Player74 (2229)
+Player55 (1142) vs. Player63 (2126)
+Player55 (1142) and Player63 (2126) drew
+Player92 (2943) vs. Player79 (2094)
+Player92 (2943) and Player79 (2094) drew
+Player33 (2936) vs. Player68 (1991)
+Player33 (2936) and Player68 (1991) drew
+Player65 (2872) vs. Player9 (1984)
+Player65 (2872) and Player9 (1984) drew
+Player54 (2769) vs. Player14 (1849)
+Player54 (2769) defeated Player14 (1849)
+Player11 (2730) vs. Player30 (1817)
+Player30 (1817) defeated Player11 (2730)
+Player86 (2705) vs. Player46 (1785)
+Player86 (2705) and Player46 (1785) drew
+Player43 (2666) vs. Player62 (1753)
+Player62 (1753) defeated Player43 (2666)
+Player5 (2492) vs. Player78 (1721)
+Player5 (2492) and Player78 (1721) drew
+Player96 (2435) vs. Player35 (1682)
+Player96 (2435) defeated Player35 (1682)
+Player37 (2428) vs. Player99 (1554)
+Player37 (2428) defeated Player99 (1554)
+Player69 (2364) vs. Player40 (1547)
+Player40 (1547) defeated Player69 (2364)
+Player10 (2357) vs. Player56 (1515)
+Player10 (2357) defeated Player56 (1515)
+Player85 (2332) vs. Player13 (1476)
+Player13 (1476) defeated Player85 (2332)
+Player42 (2293) vs. Player61 (1380)
+Player42 (2293) defeated Player61 (1380)
+Player58 (2261) vs. Player98 (1181)
+Player98 (1181) defeated Player58 (2261)
+Player15 (2222) vs. Player12 (1103)
+Player12 (1103) defeated Player15 (2222)
+Player90 (2197) vs. Player87 (1078)
+Player90 (2197) and Player87 (1078) drew
+Player31 (2190) vs. Player28 (1071)
+Player31 (2190) and Player28 (1071) drew
+===================================
+ROUND 2/14 ENDED.
+Player6 (2865): 4
+Player97 (2808): 4
+Player32 (2563): 4
+Player80 (2467): 4
+Player53 (2396): 4
+Player52 (2023): 4
+Player25 (1952): 4
+Player19 (1714): 4
+Player51 (1650): 4
+Player82 (1213): 4
+Player23 (1206): 4
+Player76 (2975): 3
+Player70 (2737): 3
+Player27 (2698): 3
+Player59 (2634): 3
+Player48 (2531): 3
+Player64 (2499): 3
+Player26 (2325): 3
+Player47 (2158): 3
+Player4 (2119): 3
+Player20 (2087): 3
+Player84 (1959): 3
+Player41 (1920): 3
+Player73 (1856): 3
+Player89 (1824): 3
+Player8 (1611): 3
+Player72 (1483): 3
+Player29 (1444): 3
+Player2 (1373): 3
+Player77 (1348): 3
+Player50 (1277): 3
+Player66 (1245): 3
+Player7 (1238): 3
+Player60 (1007): 3
+Player49 (2904): 2
+Player22 (2833): 2
+Player38 (2801): 2
+Player54 (2769): 2
+Player16 (2595): 2
+Player91 (2570): 2
+Player21 (2460): 2
+Player96 (2435): 2
+Player37 (2428): 2
+Player10 (2357): 2
+Player42 (2293): 2
+Player95 (2062): 2
+Player36 (2055): 2
+Player57 (1888): 2
+Player30 (1817): 2
+Player62 (1753): 2
+Player3 (1746): 2
+Player94 (1689): 2
+Player83 (1586): 2
+Player24 (1579): 2
+Player40 (1547): 2
+Player13 (1476): 2
+Player88 (1451): 2
+Player45 (1412): 2
+Player18 (1341): 2
+Player34 (1309): 2
+Player98 (1181): 2
+Player39 (1174): 2
+Player55 (1142): 2
+Player71 (1110): 2
+Player12 (1103): 2
+Player44 (1039): 2
+Player1 (1000): 2
+Player17 (2968): 1
+Player92 (2943): 1
+Player33 (2936): 1
+Player65 (2872): 1
+Player81 (2840): 1
+Player86 (2705): 1
+Player75 (2602): 1
+Player5 (2492): 1
+Player74 (2229): 1
+Player90 (2197): 1
+Player31 (2190): 1
+Player63 (2126): 1
+Player79 (2094): 1
+Player68 (1991): 1
+Player9 (1984): 1
+Player46 (1785): 1
+Player78 (1721): 1
+Player67 (1618): 1
+Player93 (1316): 1
+Player87 (1078): 1
+Player28 (1071): 1
+Player11 (2730): 0
+Player43 (2666): 0
+Player69 (2364): 0
+Player85 (2332): 0
+Player58 (2261): 0
+Player15 (2222): 0
+Player14 (1849): 0
+Player35 (1682): 0
+Player99 (1554): 0
+Player56 (1515): 0
+Player61 (1380): 0
+===================================
+Player6 (2865) vs. Player52 (2023)
+Player6 (2865) and Player52 (2023) drew
+Player97 (2808) vs. Player25 (1952)
+Player25 (1952) defeated Player97 (2808)
+Player32 (2563) vs. Player19 (1714)
+Player19 (1714) defeated Player32 (2563)
+Player80 (2467) vs. Player51 (1650)
+Player51 (1650) defeated Player80 (2467)
+Player53 (2396) vs. Player82 (1213)
+Player82 (1213) defeated Player53 (2396)
+Player23 (1206) vs. Player41 (1920)
+Player41 (1920) defeated Player23 (1206)
+Player76 (2975) vs. Player73 (1856)
+Player73 (1856) defeated Player76 (2975)
+Player70 (2737) vs. Player89 (1824)
+Player70 (2737) defeated Player89 (1824)
+Player27 (2698) vs. Player8 (1611)
+Player27 (2698) defeated Player8 (1611)
+Player59 (2634) vs. Player72 (1483)
+Player59 (2634) defeated Player72 (1483)
+Player48 (2531) vs. Player29 (1444)
+Player48 (2531) defeated Player29 (1444)
+Player64 (2499) vs. Player2 (1373)
+Player2 (1373) defeated Player64 (2499)
+Player26 (2325) vs. Player77 (1348)
+Player26 (2325) and Player77 (1348) drew
+Player47 (2158) vs. Player50 (1277)
+Player47 (2158) and Player50 (1277) drew
+Player4 (2119) vs. Player66 (1245)
+Player66 (1245) defeated Player4 (2119)
+Player20 (2087) vs. Player7 (1238)
+Player20 (2087) and Player7 (1238) drew
+Player84 (1959) vs. Player60 (1007)
+Player84 (1959) and Player60 (1007) drew
+Player49 (2904) vs. Player3 (1746)
+Player49 (2904) defeated Player3 (1746)
+Player22 (2833) vs. Player94 (1689)
+Player94 (1689) defeated Player22 (2833)
+Player38 (2801) vs. Player83 (1586)
+Player38 (2801) defeated Player83 (1586)
+Player54 (2769) vs. Player24 (1579)
+Player24 (1579) defeated Player54 (2769)
+Player16 (2595) vs. Player40 (1547)
+Player16 (2595) and Player40 (1547) drew
+Player91 (2570) vs. Player13 (1476)
+Player91 (2570) and Player13 (1476) drew
+Player21 (2460) vs. Player88 (1451)
+Player21 (2460) defeated Player88 (1451)
+Player96 (2435) vs. Player45 (1412)
+Player45 (1412) defeated Player96 (2435)
+Player37 (2428) vs. Player18 (1341)
+Player37 (2428) and Player18 (1341) drew
+Player10 (2357) vs. Player34 (1309)
+Player10 (2357) defeated Player34 (1309)
+Player42 (2293) vs. Player98 (1181)
+Player98 (1181) defeated Player42 (2293)
+Player95 (2062) vs. Player39 (1174)
+Player95 (2062) and Player39 (1174) drew
+Player36 (2055) vs. Player55 (1142)
+Player55 (1142) defeated Player36 (2055)
+Player57 (1888) vs. Player71 (1110)
+Player57 (1888) defeated Player71 (1110)
+Player30 (1817) vs. Player12 (1103)
+Player12 (1103) defeated Player30 (1817)
+Player62 (1753) vs. Player44 (1039)
+Player62 (1753) and Player44 (1039) drew
+Player1 (1000) vs. Player31 (2190)
+Player1 (1000) defeated Player31 (2190)
+Player17 (2968) vs. Player63 (2126)
+Player17 (2968) defeated Player63 (2126)
+Player92 (2943) vs. Player79 (2094)
+Player92 (2943) defeated Player79 (2094)
+Player33 (2936) vs. Player68 (1991)
+Player33 (2936) and Player68 (1991) drew
+Player65 (2872) vs. Player9 (1984)
+Player65 (2872) and Player9 (1984) drew
+Player81 (2840) vs. Player46 (1785)
+Player81 (2840) and Player46 (1785) drew
+Player86 (2705) vs. Player78 (1721)
+Player86 (2705) defeated Player78 (1721)
+Player75 (2602) vs. Player67 (1618)
+Player67 (1618) defeated Player75 (2602)
+Player5 (2492) vs. Player93 (1316)
+Player5 (2492) defeated Player93 (1316)
+Player74 (2229) vs. Player87 (1078)
+Player74 (2229) and Player87 (1078) drew
+Player90 (2197) vs. Player28 (1071)
+Player90 (2197) and Player28 (1071) drew
+Player11 (2730) vs. Player15 (2222)
+Player15 (2222) defeated Player11 (2730)
+Player43 (2666) vs. Player14 (1849)
+Player14 (1849) defeated Player43 (2666)
+Player69 (2364) vs. Player35 (1682)
+Player35 (1682) defeated Player69 (2364)
+Player85 (2332) vs. Player99 (1554)
+Player85 (2332) and Player99 (1554) drew
+Player58 (2261) vs. Player56 (1515)
+Player56 (1515) defeated Player58 (2261)
+===================================
+ROUND 3/14 ENDED.
+Player25 (1952): 6
+Player19 (1714): 6
+Player51 (1650): 6
+Player82 (1213): 6
+Player6 (2865): 5
+Player70 (2737): 5
+Player27 (2698): 5
+Player59 (2634): 5
+Player48 (2531): 5
+Player52 (2023): 5
+Player41 (1920): 5
+Player73 (1856): 5
+Player2 (1373): 5
+Player66 (1245): 5
+Player49 (2904): 4
+Player97 (2808): 4
+Player38 (2801): 4
+Player32 (2563): 4
+Player80 (2467): 4
+Player21 (2460): 4
+Player53 (2396): 4
+Player10 (2357): 4
+Player26 (2325): 4
+Player47 (2158): 4
+Player20 (2087): 4
+Player84 (1959): 4
+Player57 (1888): 4
+Player94 (1689): 4
+Player24 (1579): 4
+Player45 (1412): 4
+Player77 (1348): 4
+Player50 (1277): 4
+Player7 (1238): 4
+Player23 (1206): 4
+Player98 (1181): 4
+Player55 (1142): 4
+Player12 (1103): 4
+Player60 (1007): 4
+Player1 (1000): 4
+Player76 (2975): 3
+Player17 (2968): 3
+Player92 (2943): 3
+Player86 (2705): 3
+Player16 (2595): 3
+Player91 (2570): 3
+Player64 (2499): 3
+Player5 (2492): 3
+Player37 (2428): 3
+Player4 (2119): 3
+Player95 (2062): 3
+Player89 (1824): 3
+Player62 (1753): 3
+Player67 (1618): 3
+Player8 (1611): 3
+Player40 (1547): 3
+Player72 (1483): 3
+Player13 (1476): 3
+Player29 (1444): 3
+Player18 (1341): 3
+Player39 (1174): 3
+Player44 (1039): 3
+Player33 (2936): 2
+Player65 (2872): 2
+Player81 (2840): 2
+Player22 (2833): 2
+Player54 (2769): 2
+Player96 (2435): 2
+Player42 (2293): 2
+Player74 (2229): 2
+Player15 (2222): 2
+Player90 (2197): 2
+Player36 (2055): 2
+Player68 (1991): 2
+Player9 (1984): 2
+Player14 (1849): 2
+Player30 (1817): 2
+Player46 (1785): 2
+Player3 (1746): 2
+Player35 (1682): 2
+Player83 (1586): 2
+Player56 (1515): 2
+Player88 (1451): 2
+Player61 (1380): 2
+Player34 (1309): 2
+Player71 (1110): 2
+Player87 (1078): 2
+Player28 (1071): 2
+Player75 (2602): 1
+Player85 (2332): 1
+Player31 (2190): 1
+Player63 (2126): 1
+Player79 (2094): 1
+Player78 (1721): 1
+Player99 (1554): 1
+Player93 (1316): 1
+Player11 (2730): 0
+Player43 (2666): 0
+Player69 (2364): 0
+Player58 (2261): 0
+===================================
+Player25 (1952) vs. Player51 (1650)
+Player25 (1952) defeated Player51 (1650)
+Player19 (1714) vs. Player82 (1213)
+Player19 (1714) and Player82 (1213) drew
+Player6 (2865) vs. Player52 (2023)
+Player52 (2023) defeated Player6 (2865)
+Player70 (2737) vs. Player41 (1920)
+Player70 (2737) and Player41 (1920) drew
+Player27 (2698) vs. Player73 (1856)
+Player27 (2698) defeated Player73 (1856)
+Player59 (2634) vs. Player2 (1373)
+Player59 (2634) and Player2 (1373) drew
+Player48 (2531) vs. Player66 (1245)
+Player48 (2531) defeated Player66 (1245)
+Player49 (2904) vs. Player57 (1888)
+Player49 (2904) and Player57 (1888) drew
+Player97 (2808) vs. Player94 (1689)
+Player97 (2808) and Player94 (1689) drew
+Player38 (2801) vs. Player24 (1579)
+Player24 (1579) defeated Player38 (2801)
+Player32 (2563) vs. Player45 (1412)
+Player45 (1412) defeated Player32 (2563)
+Player80 (2467) vs. Player77 (1348)
+Player80 (2467) and Player77 (1348) drew
+Player21 (2460) vs. Player50 (1277)
+Player50 (1277) defeated Player21 (2460)
+Player53 (2396) vs. Player7 (1238)
+Player53 (2396) defeated Player7 (1238)
+Player10 (2357) vs. Player23 (1206)
+Player23 (1206) defeated Player10 (2357)
+Player26 (2325) vs. Player98 (1181)
+Player98 (1181) defeated Player26 (2325)
+Player47 (2158) vs. Player55 (1142)
+Player55 (1142) defeated Player47 (2158)
+Player20 (2087) vs. Player12 (1103)
+Player12 (1103) defeated Player20 (2087)
+Player84 (1959) vs. Player60 (1007)
+Player60 (1007) defeated Player84 (1959)
+Player1 (1000) vs. Player95 (2062)
+Player1 (1000) and Player95 (2062) drew
+Player76 (2975) vs. Player89 (1824)
+Player89 (1824) defeated Player76 (2975)
+Player17 (2968) vs. Player62 (1753)
+Player17 (2968) and Player62 (1753) drew
+Player92 (2943) vs. Player67 (1618)
+Player67 (1618) defeated Player92 (2943)
+Player86 (2705) vs. Player8 (1611)
+Player8 (1611) defeated Player86 (2705)
+Player16 (2595) vs. Player40 (1547)
+Player16 (2595) defeated Player40 (1547)
+Player91 (2570) vs. Player72 (1483)
+Player72 (1483) defeated Player91 (2570)
+Player64 (2499) vs. Player13 (1476)
+Player64 (2499) and Player13 (1476) drew
+Player5 (2492) vs. Player29 (1444)
+Player29 (1444) defeated Player5 (2492)
+Player37 (2428) vs. Player18 (1341)
+Player37 (2428) and Player18 (1341) drew
+Player4 (2119) vs. Player39 (1174)
+Player4 (2119) defeated Player39 (1174)
+Player44 (1039) vs. Player9 (1984)
+Player9 (1984) defeated Player44 (1039)
+Player33 (2936) vs. Player14 (1849)
+Player33 (2936) defeated Player14 (1849)
+Player65 (2872) vs. Player30 (1817)
+Player30 (1817) defeated Player65 (2872)
+Player81 (2840) vs. Player46 (1785)
+Player81 (2840) defeated Player46 (1785)
+Player22 (2833) vs. Player3 (1746)
+Player22 (2833) and Player3 (1746) drew
+Player54 (2769) vs. Player35 (1682)
+Player54 (2769) defeated Player35 (1682)
+Player96 (2435) vs. Player83 (1586)
+Player96 (2435) defeated Player83 (1586)
+Player42 (2293) vs. Player56 (1515)
+Player42 (2293) and Player56 (1515) drew
+Player74 (2229) vs. Player88 (1451)
+Player74 (2229) defeated Player88 (1451)
+Player15 (2222) vs. Player61 (1380)
+Player61 (1380) defeated Player15 (2222)
+Player90 (2197) vs. Player34 (1309)
+Player90 (2197) and Player34 (1309) drew
+Player36 (2055) vs. Player71 (1110)
+Player71 (1110) defeated Player36 (2055)
+Player68 (1991) vs. Player87 (1078)
+Player68 (1991) and Player87 (1078) drew
+Player28 (1071) vs. Player63 (2126)
+Player28 (1071) defeated Player63 (2126)
+Player75 (2602) vs. Player79 (2094)
+Player75 (2602) and Player79 (2094) drew
+Player85 (2332) vs. Player78 (1721)
+Player85 (2332) defeated Player78 (1721)
+Player31 (2190) vs. Player99 (1554)
+Player31 (2190) defeated Player99 (1554)
+Player93 (1316) vs. Player43 (2666)
+Player93 (1316) defeated Player43 (2666)
+Player11 (2730) vs. Player69 (2364)
+Player69 (2364) defeated Player11 (2730)
+===================================
+ROUND 4/14 ENDED.
+Player25 (1952): 8
+Player27 (2698): 7
+Player48 (2531): 7
+Player52 (2023): 7
+Player19 (1714): 7
+Player82 (1213): 7
+Player70 (2737): 6
+Player59 (2634): 6
+Player53 (2396): 6
+Player41 (1920): 6
+Player51 (1650): 6
+Player24 (1579): 6
+Player45 (1412): 6
+Player2 (1373): 6
+Player50 (1277): 6
+Player23 (1206): 6
+Player98 (1181): 6
+Player55 (1142): 6
+Player12 (1103): 6
+Player60 (1007): 6
+Player49 (2904): 5
+Player6 (2865): 5
+Player97 (2808): 5
+Player16 (2595): 5
+Player80 (2467): 5
+Player4 (2119): 5
+Player57 (1888): 5
+Player73 (1856): 5
+Player89 (1824): 5
+Player94 (1689): 5
+Player67 (1618): 5
+Player8 (1611): 5
+Player72 (1483): 5
+Player29 (1444): 5
+Player77 (1348): 5
+Player66 (1245): 5
+Player1 (1000): 5
+Player17 (2968): 4
+Player33 (2936): 4
+Player81 (2840): 4
+Player38 (2801): 4
+Player54 (2769): 4
+Player32 (2563): 4
+Player64 (2499): 4
+Player21 (2460): 4
+Player96 (2435): 4
+Player37 (2428): 4
+Player10 (2357): 4
+Player26 (2325): 4
+Player74 (2229): 4
+Player47 (2158): 4
+Player20 (2087): 4
+Player95 (2062): 4
+Player9 (1984): 4
+Player84 (1959): 4
+Player30 (1817): 4
+Player62 (1753): 4
+Player13 (1476): 4
+Player61 (1380): 4
+Player18 (1341): 4
+Player7 (1238): 4
+Player71 (1110): 4
+Player28 (1071): 4
+Player76 (2975): 3
+Player92 (2943): 3
+Player22 (2833): 3
+Player86 (2705): 3
+Player91 (2570): 3
+Player5 (2492): 3
+Player85 (2332): 3
+Player42 (2293): 3
+Player90 (2197): 3
+Player31 (2190): 3
+Player68 (1991): 3
+Player3 (1746): 3
+Player40 (1547): 3
+Player56 (1515): 3
+Player93 (1316): 3
+Player34 (1309): 3
+Player39 (1174): 3
+Player87 (1078): 3
+Player44 (1039): 3
+Player65 (2872): 2
+Player75 (2602): 2
+Player69 (2364): 2
+Player58 (2261): 2
+Player15 (2222): 2
+Player79 (2094): 2
+Player36 (2055): 2
+Player14 (1849): 2
+Player46 (1785): 2
+Player35 (1682): 2
+Player83 (1586): 2
+Player88 (1451): 2
+Player63 (2126): 1
+Player78 (1721): 1
+Player99 (1554): 1
+Player11 (2730): 0
+Player43 (2666): 0
+===================================
+Player25 (1952) vs. Player52 (2023)
+Player25 (1952) defeated Player52 (2023)
+Player27 (2698) vs. Player19 (1714)
+Player19 (1714) defeated Player27 (2698)
+Player48 (2531) vs. Player82 (1213)
+Player48 (2531) and Player82 (1213) drew
+Player70 (2737) vs. Player2 (1373)
+Player70 (2737) and Player2 (1373) drew
+Player59 (2634) vs. Player50 (1277)
+Player59 (2634) defeated Player50 (1277)
+Player53 (2396) vs. Player23 (1206)
+Player23 (1206) defeated Player53 (2396)
+Player41 (1920) vs. Player98 (1181)
+Player41 (1920) and Player98 (1181) drew
+Player51 (1650) vs. Player55 (1142)
+Player55 (1142) defeated Player51 (1650)
+Player24 (1579) vs. Player12 (1103)
+Player24 (1579) defeated Player12 (1103)
+Player45 (1412) vs. Player60 (1007)
+Player45 (1412) defeated Player60 (1007)
+Player49 (2904) vs. Player89 (1824)
+Player49 (2904) and Player89 (1824) drew
+Player6 (2865) vs. Player94 (1689)
+Player6 (2865) defeated Player94 (1689)
+Player97 (2808) vs. Player67 (1618)
+Player67 (1618) defeated Player97 (2808)
+Player16 (2595) vs. Player8 (1611)
+Player8 (1611) defeated Player16 (2595)
+Player80 (2467) vs. Player72 (1483)
+Player80 (2467) defeated Player72 (1483)
+Player4 (2119) vs. Player29 (1444)
+Player4 (2119) and Player29 (1444) drew
+Player57 (1888) vs. Player77 (1348)
+Player57 (1888) defeated Player77 (1348)
+Player73 (1856) vs. Player66 (1245)
+Player66 (1245) defeated Player73 (1856)
+Player1 (1000) vs. Player74 (2229)
+Player1 (1000) and Player74 (2229) drew
+Player17 (2968) vs. Player47 (2158)
+Player47 (2158) defeated Player17 (2968)
+Player33 (2936) vs. Player20 (2087)
+Player33 (2936) and Player20 (2087) drew
+Player81 (2840) vs. Player95 (2062)
+Player95 (2062) defeated Player81 (2840)
+Player38 (2801) vs. Player9 (1984)
+Player38 (2801) and Player9 (1984) drew
+Player54 (2769) vs. Player84 (1959)
+Player54 (2769) defeated Player84 (1959)
+Player32 (2563) vs. Player30 (1817)
+Player32 (2563) and Player30 (1817) drew
+Player64 (2499) vs. Player62 (1753)
+Player64 (2499) defeated Player62 (1753)
+Player21 (2460) vs. Player13 (1476)
+Player13 (1476) defeated Player21 (2460)
+Player96 (2435) vs. Player61 (1380)
+Player96 (2435) defeated Player61 (1380)
+Player37 (2428) vs. Player18 (1341)
+Player37 (2428) defeated Player18 (1341)
+Player10 (2357) vs. Player7 (1238)
+Player7 (1238) defeated Player10 (2357)
+Player26 (2325) vs. Player71 (1110)
+Player71 (1110) defeated Player26 (2325)
+Player28 (1071) vs. Player31 (2190)
+Player31 (2190) defeated Player28 (1071)
+Player76 (2975) vs. Player68 (1991)
+Player68 (1991) defeated Player76 (2975)
+Player92 (2943) vs. Player3 (1746)
+Player92 (2943) and Player3 (1746) drew
+Player22 (2833) vs. Player40 (1547)
+Player22 (2833) defeated Player40 (1547)
+Player86 (2705) vs. Player56 (1515)
+Player56 (1515) defeated Player86 (2705)
+Player91 (2570) vs. Player93 (1316)
+Player91 (2570) defeated Player93 (1316)
+Player5 (2492) vs. Player34 (1309)
+Player5 (2492) and Player34 (1309) drew
+Player85 (2332) vs. Player39 (1174)
+Player85 (2332) and Player39 (1174) drew
+Player42 (2293) vs. Player87 (1078)
+Player42 (2293) defeated Player87 (1078)
+Player90 (2197) vs. Player44 (1039)
+Player90 (2197) defeated Player44 (1039)
+Player65 (2872) vs. Player36 (2055)
+Player36 (2055) defeated Player65 (2872)
+Player75 (2602) vs. Player14 (1849)
+Player14 (1849) defeated Player75 (2602)
+Player69 (2364) vs. Player46 (1785)
+Player46 (1785) defeated Player69 (2364)
+Player58 (2261) vs. Player35 (1682)
+Player58 (2261) defeated Player35 (1682)
+Player15 (2222) vs. Player83 (1586)
+Player15 (2222) and Player83 (1586) drew
+Player79 (2094) vs. Player88 (1451)
+Player79 (2094) defeated Player88 (1451)
+Player63 (2126) vs. Player78 (1721)
+Player78 (1721) defeated Player63 (2126)
+Player99 (1554) vs. Player11 (2730)
+Player99 (1554) and Player11 (2730) drew
+===================================
+ROUND 5/14 ENDED.
+Player25 (1952): 10
+Player19 (1714): 9
+Player59 (2634): 8
+Player48 (2531): 8
+Player24 (1579): 8
+Player45 (1412): 8
+Player82 (1213): 8
+Player23 (1206): 8
+Player55 (1142): 8
+Player6 (2865): 7
+Player70 (2737): 7
+Player27 (2698): 7
+Player80 (2467): 7
+Player52 (2023): 7
+Player41 (1920): 7
+Player57 (1888): 7
+Player67 (1618): 7
+Player8 (1611): 7
+Player2 (1373): 7
+Player66 (1245): 7
+Player98 (1181): 7
+Player49 (2904): 6
+Player54 (2769): 6
+Player64 (2499): 6
+Player96 (2435): 6
+Player37 (2428): 6
+Player53 (2396): 6
+Player47 (2158): 6
+Player4 (2119): 6
+Player95 (2062): 6
+Player89 (1824): 6
+Player51 (1650): 6
+Player13 (1476): 6
+Player29 (1444): 6
+Player50 (1277): 6
+Player7 (1238): 6
+Player71 (1110): 6
+Player12 (1103): 6
+Player60 (1007): 6
+Player1 (1000): 6
+Player33 (2936): 5
+Player22 (2833): 5
+Player97 (2808): 5
+Player38 (2801): 5
+Player16 (2595): 5
+Player91 (2570): 5
+Player32 (2563): 5
+Player42 (2293): 5
+Player74 (2229): 5
+Player90 (2197): 5
+Player31 (2190): 5
+Player20 (2087): 5
+Player68 (1991): 5
+Player9 (1984): 5
+Player73 (1856): 5
+Player30 (1817): 5
+Player94 (1689): 5
+Player56 (1515): 5
+Player72 (1483): 5
+Player77 (1348): 5
+Player17 (2968): 4
+Player92 (2943): 4
+Player81 (2840): 4
+Player5 (2492): 4
+Player21 (2460): 4
+Player10 (2357): 4
+Player85 (2332): 4
+Player26 (2325): 4
+Player58 (2261): 4
+Player79 (2094): 4
+Player36 (2055): 4
+Player84 (1959): 4
+Player14 (1849): 4
+Player46 (1785): 4
+Player62 (1753): 4
+Player3 (1746): 4
+Player61 (1380): 4
+Player18 (1341): 4
+Player34 (1309): 4
+Player39 (1174): 4
+Player28 (1071): 4
+Player76 (2975): 3
+Player86 (2705): 3
+Player15 (2222): 3
+Player78 (1721): 3
+Player83 (1586): 3
+Player40 (1547): 3
+Player93 (1316): 3
+Player87 (1078): 3
+Player44 (1039): 3
+Player65 (2872): 2
+Player43 (2666): 2
+Player75 (2602): 2
+Player69 (2364): 2
+Player35 (1682): 2
+Player99 (1554): 2
+Player88 (1451): 2
+Player11 (2730): 1
+Player63 (2126): 1
+===================================
+Player25 (1952) vs. Player19 (1714)
+Player25 (1952) defeated Player19 (1714)
+Player59 (2634) vs. Player45 (1412)
+Player45 (1412) defeated Player59 (2634)
+Player48 (2531) vs. Player82 (1213)
+Player48 (2531) defeated Player82 (1213)
+Player24 (1579) vs. Player23 (1206)
+Player23 (1206) defeated Player24 (1579)
+Player55 (1142) vs. Player41 (1920)
+Player55 (1142) and Player41 (1920) drew
+Player6 (2865) vs. Player57 (1888)
+Player6 (2865) and Player57 (1888) drew
+Player70 (2737) vs. Player67 (1618)
+Player70 (2737) and Player67 (1618) drew
+Player27 (2698) vs. Player8 (1611)
+Player8 (1611) defeated Player27 (2698)
+Player80 (2467) vs. Player2 (1373)
+Player80 (2467) defeated Player2 (1373)
+Player52 (2023) vs. Player66 (1245)
+Player52 (2023) defeated Player66 (1245)
+Player98 (1181) vs. Player89 (1824)
+Player98 (1181) and Player89 (1824) drew
+Player49 (2904) vs. Player51 (1650)
+Player49 (2904) defeated Player51 (1650)
+Player54 (2769) vs. Player13 (1476)
+Player54 (2769) and Player13 (1476) drew
+Player64 (2499) vs. Player29 (1444)
+Player64 (2499) and Player29 (1444) drew
+Player96 (2435) vs. Player50 (1277)
+Player96 (2435) defeated Player50 (1277)
+Player37 (2428) vs. Player7 (1238)
+Player37 (2428) and Player7 (1238) drew
+Player53 (2396) vs. Player71 (1110)
+Player53 (2396) and Player71 (1110) drew
+Player47 (2158) vs. Player12 (1103)
+Player12 (1103) defeated Player47 (2158)
+Player4 (2119) vs. Player60 (1007)
+Player4 (2119) defeated Player60 (1007)
+Player95 (2062) vs. Player1 (1000)
+Player1 (1000) defeated Player95 (2062)
+Player33 (2936) vs. Player31 (2190)
+Player31 (2190) defeated Player33 (2936)
+Player22 (2833) vs. Player20 (2087)
+Player22 (2833) and Player20 (2087) drew
+Player97 (2808) vs. Player68 (1991)
+Player97 (2808) and Player68 (1991) drew
+Player38 (2801) vs. Player9 (1984)
+Player38 (2801) and Player9 (1984) drew
+Player16 (2595) vs. Player73 (1856)
+Player16 (2595) defeated Player73 (1856)
+Player91 (2570) vs. Player30 (1817)
+Player91 (2570) and Player30 (1817) drew
+Player32 (2563) vs. Player94 (1689)
+Player94 (1689) defeated Player32 (2563)
+Player42 (2293) vs. Player56 (1515)
+Player42 (2293) defeated Player56 (1515)
+Player74 (2229) vs. Player72 (1483)
+Player74 (2229) and Player72 (1483) drew
+Player90 (2197) vs. Player77 (1348)
+Player90 (2197) and Player77 (1348) drew
+Player17 (2968) vs. Player36 (2055)
+Player36 (2055) defeated Player17 (2968)
+Player92 (2943) vs. Player84 (1959)
+Player84 (1959) defeated Player92 (2943)
+Player81 (2840) vs. Player14 (1849)
+Player14 (1849) defeated Player81 (2840)
+Player5 (2492) vs. Player46 (1785)
+Player5 (2492) defeated Player46 (1785)
+Player21 (2460) vs. Player62 (1753)
+Player62 (1753) defeated Player21 (2460)
+Player10 (2357) vs. Player3 (1746)
+Player10 (2357) and Player3 (1746) drew
+Player85 (2332) vs. Player61 (1380)
+Player85 (2332) defeated Player61 (1380)
+Player26 (2325) vs. Player18 (1341)
+Player26 (2325) and Player18 (1341) drew
+Player58 (2261) vs. Player34 (1309)
+Player58 (2261) and Player34 (1309) drew
+Player79 (2094) vs. Player39 (1174)
+Player39 (1174) defeated Player79 (2094)
+Player28 (1071) vs. Player83 (1586)
+Player83 (1586) defeated Player28 (1071)
+Player76 (2975) vs. Player40 (1547)
+Player40 (1547) defeated Player76 (2975)
+Player86 (2705) vs. Player93 (1316)
+Player86 (2705) defeated Player93 (1316)
+Player15 (2222) vs. Player87 (1078)
+Player15 (2222) and Player87 (1078) drew
+Player78 (1721) vs. Player44 (1039)
+Player44 (1039) defeated Player78 (1721)
+Player65 (2872) vs. Player69 (2364)
+Player69 (2364) defeated Player65 (2872)
+Player43 (2666) vs. Player35 (1682)
+Player35 (1682) defeated Player43 (2666)
+Player75 (2602) vs. Player99 (1554)
+Player99 (1554) defeated Player75 (2602)
+Player88 (1451) vs. Player11 (2730)
+Player11 (2730) defeated Player88 (1451)
+===================================
+ROUND 6/14 ENDED.
+Player25 (1952): 12
+Player48 (2531): 10
+Player45 (1412): 10
+Player23 (1206): 10
+Player80 (2467): 9
+Player52 (2023): 9
+Player19 (1714): 9
+Player8 (1611): 9
+Player55 (1142): 9
+Player49 (2904): 8
+Player6 (2865): 8
+Player70 (2737): 8
+Player59 (2634): 8
+Player96 (2435): 8
+Player4 (2119): 8
+Player41 (1920): 8
+Player57 (1888): 8
+Player67 (1618): 8
+Player24 (1579): 8
+Player82 (1213): 8
+Player98 (1181): 8
+Player12 (1103): 8
+Player1 (1000): 8
+Player54 (2769): 7
+Player27 (2698): 7
+Player16 (2595): 7
+Player64 (2499): 7
+Player37 (2428): 7
+Player53 (2396): 7
+Player42 (2293): 7
+Player31 (2190): 7
+Player89 (1824): 7
+Player94 (1689): 7
+Player13 (1476): 7
+Player29 (1444): 7
+Player2 (1373): 7
+Player66 (1245): 7
+Player7 (1238): 7
+Player71 (1110): 7
+Player22 (2833): 6
+Player97 (2808): 6
+Player38 (2801): 6
+Player91 (2570): 6
+Player5 (2492): 6
+Player85 (2332): 6
+Player74 (2229): 6
+Player90 (2197): 6
+Player47 (2158): 6
+Player20 (2087): 6
+Player95 (2062): 6
+Player36 (2055): 6
+Player68 (1991): 6
+Player9 (1984): 6
+Player84 (1959): 6
+Player14 (1849): 6
+Player30 (1817): 6
+Player62 (1753): 6
+Player51 (1650): 6
+Player72 (1483): 6
+Player77 (1348): 6
+Player50 (1277): 6
+Player39 (1174): 6
+Player60 (1007): 6
+Player33 (2936): 5
+Player86 (2705): 5
+Player32 (2563): 5
+Player10 (2357): 5
+Player26 (2325): 5
+Player58 (2261): 5
+Player73 (1856): 5
+Player3 (1746): 5
+Player83 (1586): 5
+Player40 (1547): 5
+Player56 (1515): 5
+Player18 (1341): 5
+Player34 (1309): 5
+Player44 (1039): 5
+Player17 (2968): 4
+Player92 (2943): 4
+Player81 (2840): 4
+Player21 (2460): 4
+Player69 (2364): 4
+Player15 (2222): 4
+Player79 (2094): 4
+Player46 (1785): 4
+Player35 (1682): 4
+Player99 (1554): 4
+Player61 (1380): 4
+Player87 (1078): 4
+Player28 (1071): 4
+Player76 (2975): 3
+Player11 (2730): 3
+Player63 (2126): 3
+Player78 (1721): 3
+Player93 (1316): 3
+Player65 (2872): 2
+Player43 (2666): 2
+Player75 (2602): 2
+Player88 (1451): 2
+===================================
+Player25 (1952) vs. Player45 (1412)
+Player25 (1952) and Player45 (1412) drew
+Player48 (2531) vs. Player23 (1206)
+Player48 (2531) defeated Player23 (1206)
+Player80 (2467) vs. Player19 (1714)
+Player80 (2467) defeated Player19 (1714)
+Player52 (2023) vs. Player8 (1611)
+Player52 (2023) defeated Player8 (1611)
+Player55 (1142) vs. Player41 (1920)
+Player41 (1920) defeated Player55 (1142)
+Player49 (2904) vs. Player57 (1888)
+Player49 (2904) defeated Player57 (1888)
+Player6 (2865) vs. Player67 (1618)
+Player6 (2865) defeated Player67 (1618)
+Player70 (2737) vs. Player24 (1579)
+Player70 (2737) defeated Player24 (1579)
+Player59 (2634) vs. Player82 (1213)
+Player59 (2634) and Player82 (1213) drew
+Player96 (2435) vs. Player98 (1181)
+Player96 (2435) and Player98 (1181) drew
+Player4 (2119) vs. Player12 (1103)
+Player4 (2119) and Player12 (1103) drew
+Player1 (1000) vs. Player31 (2190)
+Player1 (1000) and Player31 (2190) drew
+Player54 (2769) vs. Player89 (1824)
+Player54 (2769) and Player89 (1824) drew
+Player27 (2698) vs. Player94 (1689)
+Player27 (2698) and Player94 (1689) drew
+Player16 (2595) vs. Player13 (1476)
+Player16 (2595) and Player13 (1476) drew
+Player64 (2499) vs. Player29 (1444)
+Player64 (2499) and Player29 (1444) drew
+Player37 (2428) vs. Player2 (1373)
+Player37 (2428) defeated Player2 (1373)
+Player53 (2396) vs. Player66 (1245)
+Player53 (2396) and Player66 (1245) drew
+Player42 (2293) vs. Player7 (1238)
+Player42 (2293) defeated Player7 (1238)
+Player71 (1110) vs. Player36 (2055)
+Player71 (1110) and Player36 (2055) drew
+Player22 (2833) vs. Player68 (1991)
+Player22 (2833) and Player68 (1991) drew
+Player97 (2808) vs. Player9 (1984)
+Player97 (2808) defeated Player9 (1984)
+Player38 (2801) vs. Player84 (1959)
+Player38 (2801) defeated Player84 (1959)
+Player91 (2570) vs. Player14 (1849)
+Player91 (2570) and Player14 (1849) drew
+Player5 (2492) vs. Player30 (1817)
+Player5 (2492) and Player30 (1817) drew
+Player85 (2332) vs. Player62 (1753)
+Player85 (2332) defeated Player62 (1753)
+Player74 (2229) vs. Player51 (1650)
+Player51 (1650) defeated Player74 (2229)
+Player90 (2197) vs. Player72 (1483)
+Player72 (1483) defeated Player90 (2197)
+Player47 (2158) vs. Player77 (1348)
+Player77 (1348) defeated Player47 (2158)
+Player20 (2087) vs. Player50 (1277)
+Player50 (1277) defeated Player20 (2087)
+Player95 (2062) vs. Player39 (1174)
+Player95 (2062) and Player39 (1174) drew
+Player60 (1007) vs. Player73 (1856)
+Player60 (1007) defeated Player73 (1856)
+Player33 (2936) vs. Player3 (1746)
+Player33 (2936) and Player3 (1746) drew
+Player86 (2705) vs. Player83 (1586)
+Player83 (1586) defeated Player86 (2705)
+Player32 (2563) vs. Player40 (1547)
+Player40 (1547) defeated Player32 (2563)
+Player10 (2357) vs. Player56 (1515)
+Player56 (1515) defeated Player10 (2357)
+Player26 (2325) vs. Player18 (1341)
+Player18 (1341) defeated Player26 (2325)
+Player58 (2261) vs. Player34 (1309)
+Player34 (1309) defeated Player58 (2261)
+Player44 (1039) vs. Player79 (2094)
+Player79 (2094) defeated Player44 (1039)
+Player17 (2968) vs. Player46 (1785)
+Player17 (2968) defeated Player46 (1785)
+Player92 (2943) vs. Player35 (1682)
+Player92 (2943) and Player35 (1682) drew
+Player81 (2840) vs. Player99 (1554)
+Player81 (2840) and Player99 (1554) drew
+Player21 (2460) vs. Player61 (1380)
+Player61 (1380) defeated Player21 (2460)
+Player69 (2364) vs. Player87 (1078)
+Player69 (2364) and Player87 (1078) drew
+Player15 (2222) vs. Player28 (1071)
+Player28 (1071) defeated Player15 (2222)
+Player76 (2975) vs. Player63 (2126)
+Player63 (2126) defeated Player76 (2975)
+Player11 (2730) vs. Player78 (1721)
+Player11 (2730) and Player78 (1721) drew
+Player93 (1316) vs. Player43 (2666)
+Player93 (1316) and Player43 (2666) drew
+Player65 (2872) vs. Player75 (2602)
+Player65 (2872) defeated Player75 (2602)
+===================================
+ROUND 7/14 ENDED.
+Player25 (1952): 13
+Player48 (2531): 12
+Player80 (2467): 11
+Player52 (2023): 11
+Player45 (1412): 11
+Player49 (2904): 10
+Player6 (2865): 10
+Player70 (2737): 10
+Player41 (1920): 10
+Player23 (1206): 10
+Player59 (2634): 9
+Player96 (2435): 9
+Player37 (2428): 9
+Player42 (2293): 9
+Player4 (2119): 9
+Player19 (1714): 9
+Player8 (1611): 9
+Player82 (1213): 9
+Player98 (1181): 9
+Player55 (1142): 9
+Player12 (1103): 9
+Player1 (1000): 9
+Player97 (2808): 8
+Player38 (2801): 8
+Player54 (2769): 8
+Player27 (2698): 8
+Player16 (2595): 8
+Player64 (2499): 8
+Player53 (2396): 8
+Player85 (2332): 8
+Player31 (2190): 8
+Player57 (1888): 8
+Player89 (1824): 8
+Player94 (1689): 8
+Player51 (1650): 8
+Player67 (1618): 8
+Player24 (1579): 8
+Player72 (1483): 8
+Player13 (1476): 8
+Player29 (1444): 8
+Player77 (1348): 8
+Player50 (1277): 8
+Player66 (1245): 8
+Player71 (1110): 8
+Player60 (1007): 8
+Player22 (2833): 7
+Player91 (2570): 7
+Player5 (2492): 7
+Player95 (2062): 7
+Player36 (2055): 7
+Player68 (1991): 7
+Player14 (1849): 7
+Player30 (1817): 7
+Player83 (1586): 7
+Player40 (1547): 7
+Player56 (1515): 7
+Player2 (1373): 7
+Player18 (1341): 7
+Player34 (1309): 7
+Player7 (1238): 7
+Player39 (1174): 7
+Player17 (2968): 6
+Player33 (2936): 6
+Player74 (2229): 6
+Player90 (2197): 6
+Player47 (2158): 6
+Player79 (2094): 6
+Player20 (2087): 6
+Player9 (1984): 6
+Player84 (1959): 6
+Player62 (1753): 6
+Player3 (1746): 6
+Player61 (1380): 6
+Player28 (1071): 6
+Player92 (2943): 5
+Player81 (2840): 5
+Player86 (2705): 5
+Player32 (2563): 5
+Player69 (2364): 5
+Player10 (2357): 5
+Player26 (2325): 5
+Player58 (2261): 5
+Player63 (2126): 5
+Player73 (1856): 5
+Player35 (1682): 5
+Player99 (1554): 5
+Player87 (1078): 5
+Player44 (1039): 5
+Player65 (2872): 4
+Player11 (2730): 4
+Player21 (2460): 4
+Player15 (2222): 4
+Player46 (1785): 4
+Player78 (1721): 4
+Player88 (1451): 4
+Player93 (1316): 4
+Player76 (2975): 3
+Player43 (2666): 3
+Player75 (2602): 2
+===================================
+Player25 (1952) vs. Player48 (2531)
+Player48 (2531) defeated Player25 (1952)
+Player80 (2467) vs. Player52 (2023)
+Player80 (2467) and Player52 (2023) drew
+Player45 (1412) vs. Player70 (2737)
+Player70 (2737) defeated Player45 (1412)
+Player49 (2904) vs. Player41 (1920)
+Player41 (1920) defeated Player49 (2904)
+Player6 (2865) vs. Player23 (1206)
+Player6 (2865) defeated Player23 (1206)
+Player59 (2634) vs. Player8 (1611)
+Player59 (2634) defeated Player8 (1611)
+Player96 (2435) vs. Player82 (1213)
+Player96 (2435) and Player82 (1213) drew
+Player37 (2428) vs. Player98 (1181)
+Player37 (2428) defeated Player98 (1181)
+Player42 (2293) vs. Player55 (1142)
+Player55 (1142) defeated Player42 (2293)
+Player4 (2119) vs. Player12 (1103)
+Player12 (1103) defeated Player4 (2119)
+Player19 (1714) vs. Player1 (1000)
+Player1 (1000) defeated Player19 (1714)
+Player97 (2808) vs. Player94 (1689)
+Player94 (1689) defeated Player97 (2808)
+Player38 (2801) vs. Player51 (1650)
+Player38 (2801) defeated Player51 (1650)
+Player54 (2769) vs. Player67 (1618)
+Player54 (2769) defeated Player67 (1618)
+Player27 (2698) vs. Player24 (1579)
+Player24 (1579) defeated Player27 (2698)
+Player16 (2595) vs. Player72 (1483)
+Player72 (1483) defeated Player16 (2595)
+Player64 (2499) vs. Player13 (1476)
+Player64 (2499) and Player13 (1476) drew
+Player53 (2396) vs. Player29 (1444)
+Player29 (1444) defeated Player53 (2396)
+Player85 (2332) vs. Player77 (1348)
+Player85 (2332) and Player77 (1348) drew
+Player31 (2190) vs. Player50 (1277)
+Player31 (2190) and Player50 (1277) drew
+Player57 (1888) vs. Player66 (1245)
+Player57 (1888) defeated Player66 (1245)
+Player89 (1824) vs. Player71 (1110)
+Player89 (1824) defeated Player71 (1110)
+Player60 (1007) vs. Player30 (1817)
+Player60 (1007) defeated Player30 (1817)
+Player22 (2833) vs. Player83 (1586)
+Player22 (2833) defeated Player83 (1586)
+Player91 (2570) vs. Player40 (1547)
+Player91 (2570) and Player40 (1547) drew
+Player5 (2492) vs. Player56 (1515)
+Player5 (2492) and Player56 (1515) drew
+Player95 (2062) vs. Player2 (1373)
+Player95 (2062) defeated Player2 (1373)
+Player36 (2055) vs. Player18 (1341)
+Player18 (1341) defeated Player36 (2055)
+Player68 (1991) vs. Player34 (1309)
+Player34 (1309) defeated Player68 (1991)
+Player14 (1849) vs. Player7 (1238)
+Player14 (1849) defeated Player7 (1238)
+Player39 (1174) vs. Player20 (2087)
+Player39 (1174) defeated Player20 (2087)
+Player17 (2968) vs. Player9 (1984)
+Player9 (1984) defeated Player17 (2968)
+Player33 (2936) vs. Player84 (1959)
+Player84 (1959) defeated Player33 (2936)
+Player74 (2229) vs. Player62 (1753)
+Player74 (2229) and Player62 (1753) drew
+Player90 (2197) vs. Player3 (1746)
+Player90 (2197) defeated Player3 (1746)
+Player47 (2158) vs. Player61 (1380)
+Player61 (1380) defeated Player47 (2158)
+Player79 (2094) vs. Player28 (1071)
+Player79 (2094) and Player28 (1071) drew
+Player92 (2943) vs. Player58 (2261)
+Player58 (2261) defeated Player92 (2943)
+Player81 (2840) vs. Player63 (2126)
+Player63 (2126) defeated Player81 (2840)
+Player86 (2705) vs. Player73 (1856)
+Player86 (2705) defeated Player73 (1856)
+Player32 (2563) vs. Player35 (1682)
+Player35 (1682) defeated Player32 (2563)
+Player69 (2364) vs. Player99 (1554)
+Player69 (2364) defeated Player99 (1554)
+Player10 (2357) vs. Player87 (1078)
+Player10 (2357) and Player87 (1078) drew
+Player26 (2325) vs. Player44 (1039)
+Player26 (2325) and Player44 (1039) drew
+Player65 (2872) vs. Player46 (1785)
+Player65 (2872) and Player46 (1785) drew
+Player11 (2730) vs. Player78 (1721)
+Player11 (2730) and Player78 (1721) drew
+Player21 (2460) vs. Player88 (1451)
+Player21 (2460) defeated Player88 (1451)
+Player15 (2222) vs. Player93 (1316)
+Player15 (2222) defeated Player93 (1316)
+Player76 (2975) vs. Player43 (2666)
+Player43 (2666) defeated Player76 (2975)
+===================================
+ROUND 8/14 ENDED.
+Player48 (2531): 14
+Player25 (1952): 13
+Player6 (2865): 12
+Player70 (2737): 12
+Player80 (2467): 12
+Player52 (2023): 12
+Player41 (1920): 12
+Player59 (2634): 11
+Player37 (2428): 11
+Player45 (1412): 11
+Player55 (1142): 11
+Player12 (1103): 11
+Player1 (1000): 11
+Player49 (2904): 10
+Player38 (2801): 10
+Player54 (2769): 10
+Player96 (2435): 10
+Player57 (1888): 10
+Player89 (1824): 10
+Player94 (1689): 10
+Player24 (1579): 10
+Player72 (1483): 10
+Player29 (1444): 10
+Player82 (1213): 10
+Player23 (1206): 10
+Player60 (1007): 10
+Player22 (2833): 9
+Player64 (2499): 9
+Player85 (2332): 9
+Player42 (2293): 9
+Player31 (2190): 9
+Player4 (2119): 9
+Player95 (2062): 9
+Player14 (1849): 9
+Player19 (1714): 9
+Player8 (1611): 9
+Player13 (1476): 9
+Player77 (1348): 9
+Player18 (1341): 9
+Player34 (1309): 9
+Player50 (1277): 9
+Player98 (1181): 9
+Player39 (1174): 9
+Player97 (2808): 8
+Player27 (2698): 8
+Player16 (2595): 8
+Player91 (2570): 8
+Player5 (2492): 8
+Player53 (2396): 8
+Player90 (2197): 8
+Player9 (1984): 8
+Player84 (1959): 8
+Player51 (1650): 8
+Player67 (1618): 8
+Player40 (1547): 8
+Player56 (1515): 8
+Player61 (1380): 8
+Player66 (1245): 8
+Player71 (1110): 8
+Player86 (2705): 7
+Player69 (2364): 7
+Player58 (2261): 7
+Player74 (2229): 7
+Player63 (2126): 7
+Player79 (2094): 7
+Player36 (2055): 7
+Player68 (1991): 7
+Player30 (1817): 7
+Player62 (1753): 7
+Player35 (1682): 7
+Player83 (1586): 7
+Player2 (1373): 7
+Player7 (1238): 7
+Player28 (1071): 7
+Player17 (2968): 6
+Player33 (2936): 6
+Player21 (2460): 6
+Player10 (2357): 6
+Player26 (2325): 6
+Player15 (2222): 6
+Player47 (2158): 6
+Player20 (2087): 6
+Player3 (1746): 6
+Player87 (1078): 6
+Player44 (1039): 6
+Player92 (2943): 5
+Player65 (2872): 5
+Player81 (2840): 5
+Player11 (2730): 5
+Player43 (2666): 5
+Player32 (2563): 5
+Player73 (1856): 5
+Player46 (1785): 5
+Player78 (1721): 5
+Player99 (1554): 5
+Player75 (2602): 4
+Player88 (1451): 4
+Player93 (1316): 4
+Player76 (2975): 3
+===================================
+Player48 (2531) vs. Player25 (1952)
+Player25 (1952) defeated Player48 (2531)
+Player6 (2865) vs. Player80 (2467)
+Player6 (2865) and Player80 (2467) drew
+Player70 (2737) vs. Player52 (2023)
+Player70 (2737) and Player52 (2023) drew
+Player41 (1920) vs. Player45 (1412)
+Player41 (1920) defeated Player45 (1412)
+Player59 (2634) vs. Player55 (1142)
+Player59 (2634) and Player55 (1142) drew
+Player37 (2428) vs. Player12 (1103)
+Player37 (2428) defeated Player12 (1103)
+Player1 (1000) vs. Player94 (1689)
+Player1 (1000) and Player94 (1689) drew
+Player49 (2904) vs. Player24 (1579)
+Player24 (1579) defeated Player49 (2904)
+Player38 (2801) vs. Player72 (1483)
+Player38 (2801) defeated Player72 (1483)
+Player54 (2769) vs. Player29 (1444)
+Player29 (1444) defeated Player54 (2769)
+Player96 (2435) vs. Player82 (1213)
+Player82 (1213) defeated Player96 (2435)
+Player57 (1888) vs. Player23 (1206)
+Player57 (1888) defeated Player23 (1206)
+Player89 (1824) vs. Player60 (1007)
+Player60 (1007) defeated Player89 (1824)
+Player22 (2833) vs. Player19 (1714)
+Player19 (1714) defeated Player22 (2833)
+Player64 (2499) vs. Player8 (1611)
+Player8 (1611) defeated Player64 (2499)
+Player85 (2332) vs. Player13 (1476)
+Player13 (1476) defeated Player85 (2332)
+Player42 (2293) vs. Player77 (1348)
+Player42 (2293) and Player77 (1348) drew
+Player31 (2190) vs. Player18 (1341)
+Player18 (1341) defeated Player31 (2190)
+Player4 (2119) vs. Player34 (1309)
+Player34 (1309) defeated Player4 (2119)
+Player95 (2062) vs. Player50 (1277)
+Player50 (1277) defeated Player95 (2062)
+Player14 (1849) vs. Player98 (1181)
+Player14 (1849) and Player98 (1181) drew
+Player39 (1174) vs. Player9 (1984)
+Player39 (1174) and Player9 (1984) drew
+Player97 (2808) vs. Player84 (1959)
+Player97 (2808) and Player84 (1959) drew
+Player27 (2698) vs. Player51 (1650)
+Player27 (2698) and Player51 (1650) drew
+Player16 (2595) vs. Player67 (1618)
+Player16 (2595) defeated Player67 (1618)
+Player91 (2570) vs. Player40 (1547)
+Player40 (1547) defeated Player91 (2570)
+Player5 (2492) vs. Player56 (1515)
+Player56 (1515) defeated Player5 (2492)
+Player53 (2396) vs. Player61 (1380)
+Player53 (2396) defeated Player61 (1380)
+Player90 (2197) vs. Player66 (1245)
+Player66 (1245) defeated Player90 (2197)
+Player71 (1110) vs. Player68 (1991)
+Player71 (1110) and Player68 (1991) drew
+Player86 (2705) vs. Player30 (1817)
+Player30 (1817) defeated Player86 (2705)
+Player69 (2364) vs. Player62 (1753)
+Player69 (2364) defeated Player62 (1753)
+Player58 (2261) vs. Player35 (1682)
+Player58 (2261) defeated Player35 (1682)
+Player74 (2229) vs. Player83 (1586)
+Player74 (2229) and Player83 (1586) drew
+Player63 (2126) vs. Player2 (1373)
+Player63 (2126) defeated Player2 (1373)
+Player79 (2094) vs. Player7 (1238)
+Player79 (2094) defeated Player7 (1238)
+Player36 (2055) vs. Player28 (1071)
+Player36 (2055) defeated Player28 (1071)
+Player17 (2968) vs. Player15 (2222)
+Player17 (2968) defeated Player15 (2222)
+Player33 (2936) vs. Player47 (2158)
+Player33 (2936) and Player47 (2158) drew
+Player21 (2460) vs. Player20 (2087)
+Player21 (2460) and Player20 (2087) drew
+Player10 (2357) vs. Player3 (1746)
+Player10 (2357) defeated Player3 (1746)
+Player26 (2325) vs. Player87 (1078)
+Player26 (2325) and Player87 (1078) drew
+Player44 (1039) vs. Player43 (2666)
+Player44 (1039) and Player43 (2666) drew
+Player92 (2943) vs. Player32 (2563)
+Player92 (2943) and Player32 (2563) drew
+Player65 (2872) vs. Player73 (1856)
+Player65 (2872) defeated Player73 (1856)
+Player81 (2840) vs. Player46 (1785)
+Player46 (1785) defeated Player81 (2840)
+Player11 (2730) vs. Player78 (1721)
+Player11 (2730) defeated Player78 (1721)
+Player99 (1554) vs. Player88 (1451)
+Player99 (1554) defeated Player88 (1451)
+Player75 (2602) vs. Player93 (1316)
+Player93 (1316) defeated Player75 (2602)
+===================================
+ROUND 9/14 ENDED.
+Player25 (1952): 15
+Player48 (2531): 14
+Player41 (1920): 14
+Player6 (2865): 13
+Player70 (2737): 13
+Player80 (2467): 13
+Player37 (2428): 13
+Player52 (2023): 13
+Player38 (2801): 12
+Player59 (2634): 12
+Player57 (1888): 12
+Player24 (1579): 12
+Player29 (1444): 12
+Player82 (1213): 12
+Player55 (1142): 12
+Player60 (1007): 12
+Player1 (1000): 12
+Player19 (1714): 11
+Player94 (1689): 11
+Player8 (1611): 11
+Player13 (1476): 11
+Player45 (1412): 11
+Player18 (1341): 11
+Player34 (1309): 11
+Player50 (1277): 11
+Player12 (1103): 11
+Player49 (2904): 10
+Player54 (2769): 10
+Player16 (2595): 10
+Player96 (2435): 10
+Player53 (2396): 10
+Player42 (2293): 10
+Player14 (1849): 10
+Player89 (1824): 10
+Player40 (1547): 10
+Player56 (1515): 10
+Player72 (1483): 10
+Player77 (1348): 10
+Player66 (1245): 10
+Player23 (1206): 10
+Player98 (1181): 10
+Player39 (1174): 10
+Player22 (2833): 9
+Player97 (2808): 9
+Player27 (2698): 9
+Player64 (2499): 9
+Player69 (2364): 9
+Player85 (2332): 9
+Player58 (2261): 9
+Player31 (2190): 9
+Player63 (2126): 9
+Player4 (2119): 9
+Player79 (2094): 9
+Player95 (2062): 9
+Player36 (2055): 9
+Player9 (1984): 9
+Player84 (1959): 9
+Player30 (1817): 9
+Player51 (1650): 9
+Player71 (1110): 9
+Player17 (2968): 8
+Player91 (2570): 8
+Player5 (2492): 8
+Player10 (2357): 8
+Player74 (2229): 8
+Player90 (2197): 8
+Player68 (1991): 8
+Player67 (1618): 8
+Player83 (1586): 8
+Player61 (1380): 8
+Player33 (2936): 7
+Player65 (2872): 7
+Player11 (2730): 7
+Player86 (2705): 7
+Player21 (2460): 7
+Player26 (2325): 7
+Player47 (2158): 7
+Player20 (2087): 7
+Player46 (1785): 7
+Player62 (1753): 7
+Player35 (1682): 7
+Player99 (1554): 7
+Player2 (1373): 7
+Player7 (1238): 7
+Player87 (1078): 7
+Player28 (1071): 7
+Player44 (1039): 7
+Player92 (2943): 6
+Player43 (2666): 6
+Player32 (2563): 6
+Player15 (2222): 6
+Player3 (1746): 6
+Player93 (1316): 6
+Player76 (2975): 5
+Player81 (2840): 5
+Player73 (1856): 5
+Player78 (1721): 5
+Player75 (2602): 4
+Player88 (1451): 4
+===================================
+Player25 (1952) vs. Player48 (2531)
+Player25 (1952) defeated Player48 (2531)
+Player41 (1920) vs. Player80 (2467)
+Player41 (1920) defeated Player80 (2467)
+Player6 (2865) vs. Player37 (2428)
+Player37 (2428) defeated Player6 (2865)
+Player70 (2737) vs. Player52 (2023)
+Player70 (2737) defeated Player52 (2023)
+Player38 (2801) vs. Player29 (1444)
+Player38 (2801) and Player29 (1444) drew
+Player59 (2634) vs. Player82 (1213)
+Player59 (2634) and Player82 (1213) drew
+Player57 (1888) vs. Player55 (1142)
+Player55 (1142) defeated Player57 (1888)
+Player24 (1579) vs. Player60 (1007)
+Player24 (1579) defeated Player60 (1007)
+Player1 (1000) vs. Player45 (1412)
+Player1 (1000) defeated Player45 (1412)
+Player19 (1714) vs. Player18 (1341)
+Player19 (1714) defeated Player18 (1341)
+Player94 (1689) vs. Player34 (1309)
+Player34 (1309) defeated Player94 (1689)
+Player8 (1611) vs. Player50 (1277)
+Player8 (1611) defeated Player50 (1277)
+Player13 (1476) vs. Player12 (1103)
+Player13 (1476) defeated Player12 (1103)
+Player49 (2904) vs. Player40 (1547)
+Player49 (2904) defeated Player40 (1547)
+Player54 (2769) vs. Player56 (1515)
+Player56 (1515) defeated Player54 (2769)
+Player16 (2595) vs. Player72 (1483)
+Player16 (2595) defeated Player72 (1483)
+Player96 (2435) vs. Player77 (1348)
+Player77 (1348) defeated Player96 (2435)
+Player53 (2396) vs. Player66 (1245)
+Player53 (2396) defeated Player66 (1245)
+Player42 (2293) vs. Player23 (1206)
+Player42 (2293) and Player23 (1206) drew
+Player14 (1849) vs. Player98 (1181)
+Player14 (1849) and Player98 (1181) drew
+Player89 (1824) vs. Player39 (1174)
+Player89 (1824) defeated Player39 (1174)
+Player22 (2833) vs. Player4 (2119)
+Player22 (2833) defeated Player4 (2119)
+Player97 (2808) vs. Player79 (2094)
+Player97 (2808) and Player79 (2094) drew
+Player27 (2698) vs. Player95 (2062)
+Player27 (2698) defeated Player95 (2062)
+Player64 (2499) vs. Player36 (2055)
+Player64 (2499) defeated Player36 (2055)
+Player69 (2364) vs. Player9 (1984)
+Player9 (1984) defeated Player69 (2364)
+Player85 (2332) vs. Player84 (1959)
+Player85 (2332) and Player84 (1959) drew
+Player58 (2261) vs. Player30 (1817)
+Player58 (2261) defeated Player30 (1817)
+Player31 (2190) vs. Player51 (1650)
+Player31 (2190) and Player51 (1650) drew
+Player63 (2126) vs. Player71 (1110)
+Player63 (2126) and Player71 (1110) drew
+Player17 (2968) vs. Player90 (2197)
+Player17 (2968) and Player90 (2197) drew
+Player91 (2570) vs. Player68 (1991)
+Player91 (2570) defeated Player68 (1991)
+Player5 (2492) vs. Player67 (1618)
+Player5 (2492) and Player67 (1618) drew
+Player10 (2357) vs. Player83 (1586)
+Player10 (2357) and Player83 (1586) drew
+Player74 (2229) vs. Player61 (1380)
+Player61 (1380) defeated Player74 (2229)
+Player33 (2936) vs. Player46 (1785)
+Player33 (2936) defeated Player46 (1785)
+Player65 (2872) vs. Player62 (1753)
+Player65 (2872) defeated Player62 (1753)
+Player11 (2730) vs. Player35 (1682)
+Player35 (1682) defeated Player11 (2730)
+Player86 (2705) vs. Player99 (1554)
+Player99 (1554) defeated Player86 (2705)
+Player21 (2460) vs. Player2 (1373)
+Player21 (2460) defeated Player2 (1373)
+Player26 (2325) vs. Player7 (1238)
+Player7 (1238) defeated Player26 (2325)
+Player47 (2158) vs. Player87 (1078)
+Player47 (2158) defeated Player87 (1078)
+Player20 (2087) vs. Player28 (1071)
+Player20 (2087) defeated Player28 (1071)
+Player44 (1039) vs. Player32 (2563)
+Player32 (2563) defeated Player44 (1039)
+Player92 (2943) vs. Player15 (2222)
+Player92 (2943) and Player15 (2222) drew
+Player43 (2666) vs. Player3 (1746)
+Player43 (2666) defeated Player3 (1746)
+Player93 (1316) vs. Player81 (2840)
+Player81 (2840) defeated Player93 (1316)
+Player76 (2975) vs. Player73 (1856)
+Player76 (2975) defeated Player73 (1856)
+Player78 (1721) vs. Player75 (2602)
+Player75 (2602) defeated Player78 (1721)
+===================================
+ROUND 10/14 ENDED.
+Player25 (1952): 17
+Player41 (1920): 16
+Player70 (2737): 15
+Player37 (2428): 15
+Player48 (2531): 14
+Player24 (1579): 14
+Player55 (1142): 14
+Player1 (1000): 14
+Player6 (2865): 13
+Player38 (2801): 13
+Player59 (2634): 13
+Player80 (2467): 13
+Player52 (2023): 13
+Player19 (1714): 13
+Player8 (1611): 13
+Player13 (1476): 13
+Player29 (1444): 13
+Player34 (1309): 13
+Player82 (1213): 13
+Player49 (2904): 12
+Player16 (2595): 12
+Player53 (2396): 12
+Player57 (1888): 12
+Player89 (1824): 12
+Player56 (1515): 12
+Player77 (1348): 12
+Player60 (1007): 12
+Player22 (2833): 11
+Player27 (2698): 11
+Player64 (2499): 11
+Player42 (2293): 11
+Player58 (2261): 11
+Player9 (1984): 11
+Player14 (1849): 11
+Player94 (1689): 11
+Player45 (1412): 11
+Player18 (1341): 11
+Player50 (1277): 11
+Player23 (1206): 11
+Player98 (1181): 11
+Player12 (1103): 11
+Player97 (2808): 10
+Player54 (2769): 10
+Player91 (2570): 10
+Player96 (2435): 10
+Player85 (2332): 10
+Player31 (2190): 10
+Player63 (2126): 10
+Player79 (2094): 10
+Player84 (1959): 10
+Player51 (1650): 10
+Player40 (1547): 10
+Player72 (1483): 10
+Player61 (1380): 10
+Player66 (1245): 10
+Player39 (1174): 10
+Player71 (1110): 10
+Player17 (2968): 9
+Player33 (2936): 9
+Player65 (2872): 9
+Player5 (2492): 9
+Player21 (2460): 9
+Player69 (2364): 9
+Player10 (2357): 9
+Player90 (2197): 9
+Player47 (2158): 9
+Player4 (2119): 9
+Player20 (2087): 9
+Player95 (2062): 9
+Player36 (2055): 9
+Player30 (1817): 9
+Player35 (1682): 9
+Player67 (1618): 9
+Player83 (1586): 9
+Player99 (1554): 9
+Player7 (1238): 9
+Player43 (2666): 8
+Player32 (2563): 8
+Player74 (2229): 8
+Player68 (1991): 8
+Player76 (2975): 7
+Player92 (2943): 7
+Player81 (2840): 7
+Player11 (2730): 7
+Player86 (2705): 7
+Player26 (2325): 7
+Player15 (2222): 7
+Player46 (1785): 7
+Player62 (1753): 7
+Player2 (1373): 7
+Player87 (1078): 7
+Player28 (1071): 7
+Player44 (1039): 7
+Player75 (2602): 6
+Player3 (1746): 6
+Player88 (1451): 6
+Player93 (1316): 6
+Player73 (1856): 5
+Player78 (1721): 5
+===================================
+Player25 (1952) vs. Player41 (1920)
+Player25 (1952) and Player41 (1920) drew
+Player70 (2737) vs. Player37 (2428)
+Player70 (2737) and Player37 (2428) drew
+Player48 (2531) vs. Player55 (1142)
+Player48 (2531) and Player55 (1142) drew
+Player24 (1579) vs. Player1 (1000)
+Player1 (1000) defeated Player24 (1579)
+Player6 (2865) vs. Player19 (1714)
+Player6 (2865) and Player19 (1714) drew
+Player38 (2801) vs. Player8 (1611)
+Player38 (2801) and Player8 (1611) drew
+Player59 (2634) vs. Player13 (1476)
+Player59 (2634) defeated Player13 (1476)
+Player80 (2467) vs. Player29 (1444)
+Player80 (2467) defeated Player29 (1444)
+Player52 (2023) vs. Player34 (1309)
+Player52 (2023) defeated Player34 (1309)
+Player82 (1213) vs. Player57 (1888)
+Player82 (1213) defeated Player57 (1888)
+Player49 (2904) vs. Player89 (1824)
+Player49 (2904) defeated Player89 (1824)
+Player16 (2595) vs. Player56 (1515)
+Player56 (1515) defeated Player16 (2595)
+Player53 (2396) vs. Player77 (1348)
+Player77 (1348) defeated Player53 (2396)
+Player60 (1007) vs. Player14 (1849)
+Player60 (1007) defeated Player14 (1849)
+Player22 (2833) vs. Player94 (1689)
+Player94 (1689) defeated Player22 (2833)
+Player27 (2698) vs. Player45 (1412)
+Player27 (2698) defeated Player45 (1412)
+Player64 (2499) vs. Player18 (1341)
+Player64 (2499) and Player18 (1341) drew
+Player42 (2293) vs. Player50 (1277)
+Player42 (2293) and Player50 (1277) drew
+Player58 (2261) vs. Player23 (1206)
+Player58 (2261) and Player23 (1206) drew
+Player9 (1984) vs. Player98 (1181)
+Player9 (1984) defeated Player98 (1181)
+Player12 (1103) vs. Player79 (2094)
+Player79 (2094) defeated Player12 (1103)
+Player97 (2808) vs. Player84 (1959)
+Player97 (2808) and Player84 (1959) drew
+Player54 (2769) vs. Player51 (1650)
+Player54 (2769) and Player51 (1650) drew
+Player91 (2570) vs. Player40 (1547)
+Player40 (1547) defeated Player91 (2570)
+Player96 (2435) vs. Player72 (1483)
+Player96 (2435) and Player72 (1483) drew
+Player85 (2332) vs. Player61 (1380)
+Player85 (2332) defeated Player61 (1380)
+Player31 (2190) vs. Player66 (1245)
+Player31 (2190) defeated Player66 (1245)
+Player63 (2126) vs. Player39 (1174)
+Player63 (2126) defeated Player39 (1174)
+Player71 (1110) vs. Player4 (2119)
+Player71 (1110) and Player4 (2119) drew
+Player17 (2968) vs. Player20 (2087)
+Player17 (2968) defeated Player20 (2087)
+Player33 (2936) vs. Player95 (2062)
+Player33 (2936) and Player95 (2062) drew
+Player65 (2872) vs. Player36 (2055)
+Player36 (2055) defeated Player65 (2872)
+Player5 (2492) vs. Player30 (1817)
+Player30 (1817) defeated Player5 (2492)
+Player21 (2460) vs. Player35 (1682)
+Player35 (1682) defeated Player21 (2460)
+Player69 (2364) vs. Player67 (1618)
+Player67 (1618) defeated Player69 (2364)
+Player10 (2357) vs. Player83 (1586)
+Player83 (1586) defeated Player10 (2357)
+Player90 (2197) vs. Player99 (1554)
+Player99 (1554) defeated Player90 (2197)
+Player47 (2158) vs. Player7 (1238)
+Player47 (2158) and Player7 (1238) drew
+Player43 (2666) vs. Player74 (2229)
+Player43 (2666) defeated Player74 (2229)
+Player32 (2563) vs. Player68 (1991)
+Player32 (2563) defeated Player68 (1991)
+Player76 (2975) vs. Player15 (2222)
+Player76 (2975) defeated Player15 (2222)
+Player92 (2943) vs. Player46 (1785)
+Player46 (1785) defeated Player92 (2943)
+Player81 (2840) vs. Player62 (1753)
+Player62 (1753) defeated Player81 (2840)
+Player11 (2730) vs. Player2 (1373)
+Player11 (2730) and Player2 (1373) drew
+Player86 (2705) vs. Player87 (1078)
+Player87 (1078) defeated Player86 (2705)
+Player26 (2325) vs. Player28 (1071)
+Player26 (2325) defeated Player28 (1071)
+Player44 (1039) vs. Player3 (1746)
+Player3 (1746) defeated Player44 (1039)
+Player75 (2602) vs. Player88 (1451)
+Player75 (2602) and Player88 (1451) drew
+Player93 (1316) vs. Player73 (1856)
+Player93 (1316) defeated Player73 (1856)
+===================================
+ROUND 11/14 ENDED.
+Player25 (1952): 18
+Player41 (1920): 17
+Player70 (2737): 16
+Player37 (2428): 16
+Player1 (1000): 16
+Player59 (2634): 15
+Player48 (2531): 15
+Player80 (2467): 15
+Player52 (2023): 15
+Player82 (1213): 15
+Player55 (1142): 15
+Player49 (2904): 14
+Player6 (2865): 14
+Player38 (2801): 14
+Player19 (1714): 14
+Player8 (1611): 14
+Player24 (1579): 14
+Player56 (1515): 14
+Player77 (1348): 14
+Player60 (1007): 14
+Player27 (2698): 13
+Player9 (1984): 13
+Player94 (1689): 13
+Player13 (1476): 13
+Player29 (1444): 13
+Player34 (1309): 13
+Player16 (2595): 12
+Player64 (2499): 12
+Player53 (2396): 12
+Player85 (2332): 12
+Player42 (2293): 12
+Player58 (2261): 12
+Player31 (2190): 12
+Player63 (2126): 12
+Player79 (2094): 12
+Player57 (1888): 12
+Player89 (1824): 12
+Player40 (1547): 12
+Player18 (1341): 12
+Player50 (1277): 12
+Player23 (1206): 12
+Player17 (2968): 11
+Player22 (2833): 11
+Player97 (2808): 11
+Player54 (2769): 11
+Player96 (2435): 11
+Player36 (2055): 11
+Player84 (1959): 11
+Player14 (1849): 11
+Player30 (1817): 11
+Player35 (1682): 11
+Player51 (1650): 11
+Player67 (1618): 11
+Player83 (1586): 11
+Player99 (1554): 11
+Player72 (1483): 11
+Player45 (1412): 11
+Player98 (1181): 11
+Player71 (1110): 11
+Player12 (1103): 11
+Player33 (2936): 10
+Player43 (2666): 10
+Player91 (2570): 10
+Player32 (2563): 10
+Player47 (2158): 10
+Player4 (2119): 10
+Player95 (2062): 10
+Player61 (1380): 10
+Player66 (1245): 10
+Player7 (1238): 10
+Player39 (1174): 10
+Player76 (2975): 9
+Player65 (2872): 9
+Player5 (2492): 9
+Player21 (2460): 9
+Player69 (2364): 9
+Player10 (2357): 9
+Player26 (2325): 9
+Player90 (2197): 9
+Player20 (2087): 9
+Player46 (1785): 9
+Player62 (1753): 9
+Player87 (1078): 9
+Player11 (2730): 8
+Player74 (2229): 8
+Player68 (1991): 8
+Player3 (1746): 8
+Player2 (1373): 8
+Player93 (1316): 8
+Player92 (2943): 7
+Player81 (2840): 7
+Player86 (2705): 7
+Player75 (2602): 7
+Player15 (2222): 7
+Player78 (1721): 7
+Player88 (1451): 7
+Player28 (1071): 7
+Player44 (1039): 7
+Player73 (1856): 5
+===================================
+Player25 (1952) vs. Player41 (1920)
+Player41 (1920) defeated Player25 (1952)
+Player70 (2737) vs. Player37 (2428)
+Player70 (2737) defeated Player37 (2428)
+Player1 (1000) vs. Player80 (2467)
+Player80 (2467) defeated Player1 (1000)
+Player59 (2634) vs. Player52 (2023)
+Player52 (2023) defeated Player59 (2634)
+Player48 (2531) vs. Player82 (1213)
+Player48 (2531) and Player82 (1213) drew
+Player55 (1142) vs. Player8 (1611)
+Player55 (1142) defeated Player8 (1611)
+Player49 (2904) vs. Player24 (1579)
+Player49 (2904) defeated Player24 (1579)
+Player6 (2865) vs. Player56 (1515)
+Player6 (2865) defeated Player56 (1515)
+Player38 (2801) vs. Player77 (1348)
+Player38 (2801) and Player77 (1348) drew
+Player19 (1714) vs. Player60 (1007)
+Player19 (1714) defeated Player60 (1007)
+Player27 (2698) vs. Player13 (1476)
+Player13 (1476) defeated Player27 (2698)
+Player9 (1984) vs. Player29 (1444)
+Player29 (1444) defeated Player9 (1984)
+Player94 (1689) vs. Player34 (1309)
+Player94 (1689) and Player34 (1309) drew
+Player16 (2595) vs. Player63 (2126)
+Player16 (2595) defeated Player63 (2126)
+Player64 (2499) vs. Player79 (2094)
+Player79 (2094) defeated Player64 (2499)
+Player53 (2396) vs. Player57 (1888)
+Player53 (2396) and Player57 (1888) drew
+Player85 (2332) vs. Player89 (1824)
+Player85 (2332) and Player89 (1824) drew
+Player42 (2293) vs. Player40 (1547)
+Player40 (1547) defeated Player42 (2293)
+Player58 (2261) vs. Player18 (1341)
+Player58 (2261) defeated Player18 (1341)
+Player31 (2190) vs. Player50 (1277)
+Player50 (1277) defeated Player31 (2190)
+Player23 (1206) vs. Player35 (1682)
+Player35 (1682) defeated Player23 (1206)
+Player17 (2968) vs. Player51 (1650)
+Player17 (2968) defeated Player51 (1650)
+Player22 (2833) vs. Player67 (1618)
+Player67 (1618) defeated Player22 (2833)
+Player97 (2808) vs. Player83 (1586)
+Player97 (2808) and Player83 (1586) drew
+Player54 (2769) vs. Player99 (1554)
+Player99 (1554) defeated Player54 (2769)
+Player96 (2435) vs. Player72 (1483)
+Player96 (2435) defeated Player72 (1483)
+Player36 (2055) vs. Player45 (1412)
+Player36 (2055) defeated Player45 (1412)
+Player84 (1959) vs. Player98 (1181)
+Player84 (1959) and Player98 (1181) drew
+Player14 (1849) vs. Player71 (1110)
+Player14 (1849) and Player71 (1110) drew
+Player30 (1817) vs. Player12 (1103)
+Player12 (1103) defeated Player30 (1817)
+Player33 (2936) vs. Player4 (2119)
+Player33 (2936) defeated Player4 (2119)
+Player43 (2666) vs. Player95 (2062)
+Player95 (2062) defeated Player43 (2666)
+Player91 (2570) vs. Player61 (1380)
+Player61 (1380) defeated Player91 (2570)
+Player32 (2563) vs. Player66 (1245)
+Player32 (2563) defeated Player66 (1245)
+Player47 (2158) vs. Player7 (1238)
+Player47 (2158) defeated Player7 (1238)
+Player39 (1174) vs. Player10 (2357)
+Player39 (1174) defeated Player10 (2357)
+Player76 (2975) vs. Player26 (2325)
+Player76 (2975) and Player26 (2325) drew
+Player65 (2872) vs. Player90 (2197)
+Player65 (2872) and Player90 (2197) drew
+Player5 (2492) vs. Player20 (2087)
+Player5 (2492) and Player20 (2087) drew
+Player21 (2460) vs. Player46 (1785)
+Player46 (1785) defeated Player21 (2460)
+Player69 (2364) vs. Player62 (1753)
+Player69 (2364) defeated Player62 (1753)
+Player87 (1078) vs. Player68 (1991)
+Player87 (1078) defeated Player68 (1991)
+Player11 (2730) vs. Player3 (1746)
+Player11 (2730) defeated Player3 (1746)
+Player74 (2229) vs. Player2 (1373)
+Player74 (2229) defeated Player2 (1373)
+Player93 (1316) vs. Player15 (2222)
+Player15 (2222) defeated Player93 (1316)
+Player92 (2943) vs. Player78 (1721)
+Player92 (2943) and Player78 (1721) drew
+Player81 (2840) vs. Player88 (1451)
+Player81 (2840) and Player88 (1451) drew
+Player86 (2705) vs. Player28 (1071)
+Player86 (2705) defeated Player28 (1071)
+Player75 (2602) vs. Player44 (1039)
+Player75 (2602) and Player44 (1039) drew
+===================================
+ROUND 12/14 ENDED.
+Player41 (1920): 19
+Player70 (2737): 18
+Player25 (1952): 18
+Player80 (2467): 17
+Player52 (2023): 17
+Player55 (1142): 17
+Player49 (2904): 16
+Player6 (2865): 16
+Player48 (2531): 16
+Player37 (2428): 16
+Player19 (1714): 16
+Player82 (1213): 16
+Player1 (1000): 16
+Player38 (2801): 15
+Player59 (2634): 15
+Player13 (1476): 15
+Player29 (1444): 15
+Player77 (1348): 15
+Player16 (2595): 14
+Player58 (2261): 14
+Player79 (2094): 14
+Player94 (1689): 14
+Player8 (1611): 14
+Player24 (1579): 14
+Player40 (1547): 14
+Player56 (1515): 14
+Player34 (1309): 14
+Player50 (1277): 14
+Player60 (1007): 14
+Player17 (2968): 13
+Player27 (2698): 13
+Player96 (2435): 13
+Player53 (2396): 13
+Player85 (2332): 13
+Player36 (2055): 13
+Player9 (1984): 13
+Player57 (1888): 13
+Player89 (1824): 13
+Player35 (1682): 13
+Player67 (1618): 13
+Player99 (1554): 13
+Player12 (1103): 13
+Player33 (2936): 12
+Player97 (2808): 12
+Player32 (2563): 12
+Player64 (2499): 12
+Player42 (2293): 12
+Player31 (2190): 12
+Player47 (2158): 12
+Player63 (2126): 12
+Player95 (2062): 12
+Player84 (1959): 12
+Player14 (1849): 12
+Player83 (1586): 12
+Player61 (1380): 12
+Player18 (1341): 12
+Player23 (1206): 12
+Player98 (1181): 12
+Player39 (1174): 12
+Player71 (1110): 12
+Player22 (2833): 11
+Player54 (2769): 11
+Player69 (2364): 11
+Player30 (1817): 11
+Player46 (1785): 11
+Player51 (1650): 11
+Player72 (1483): 11
+Player45 (1412): 11
+Player87 (1078): 11
+Player76 (2975): 10
+Player65 (2872): 10
+Player11 (2730): 10
+Player43 (2666): 10
+Player91 (2570): 10
+Player5 (2492): 10
+Player26 (2325): 10
+Player74 (2229): 10
+Player90 (2197): 10
+Player4 (2119): 10
+Player20 (2087): 10
+Player66 (1245): 10
+Player7 (1238): 10
+Player86 (2705): 9
+Player21 (2460): 9
+Player10 (2357): 9
+Player15 (2222): 9
+Player62 (1753): 9
+Player92 (2943): 8
+Player81 (2840): 8
+Player75 (2602): 8
+Player68 (1991): 8
+Player3 (1746): 8
+Player78 (1721): 8
+Player88 (1451): 8
+Player2 (1373): 8
+Player93 (1316): 8
+Player44 (1039): 8
+Player73 (1856): 7
+Player28 (1071): 7
+===================================
+Player41 (1920) vs. Player70 (2737)
+Player41 (1920) defeated Player70 (2737)
+Player25 (1952) vs. Player52 (2023)
+Player25 (1952) and Player52 (2023) drew
+Player80 (2467) vs. Player55 (1142)
+Player55 (1142) defeated Player80 (2467)
+Player49 (2904) vs. Player37 (2428)
+Player49 (2904) defeated Player37 (2428)
+Player6 (2865) vs. Player19 (1714)
+Player19 (1714) defeated Player6 (2865)
+Player48 (2531) vs. Player82 (1213)
+Player48 (2531) and Player82 (1213) drew
+Player1 (1000) vs. Player13 (1476)
+Player13 (1476) defeated Player1 (1000)
+Player38 (2801) vs. Player29 (1444)
+Player38 (2801) and Player29 (1444) drew
+Player59 (2634) vs. Player77 (1348)
+Player59 (2634) defeated Player77 (1348)
+Player16 (2595) vs. Player24 (1579)
+Player16 (2595) and Player24 (1579) drew
+Player58 (2261) vs. Player40 (1547)
+Player58 (2261) defeated Player40 (1547)
+Player79 (2094) vs. Player56 (1515)
+Player56 (1515) defeated Player79 (2094)
+Player94 (1689) vs. Player34 (1309)
+Player94 (1689) and Player34 (1309) drew
+Player8 (1611) vs. Player50 (1277)
+Player8 (1611) and Player50 (1277) drew
+Player60 (1007) vs. Player9 (1984)
+Player60 (1007) and Player9 (1984) drew
+Player17 (2968) vs. Player57 (1888)
+Player57 (1888) defeated Player17 (2968)
+Player27 (2698) vs. Player89 (1824)
+Player27 (2698) and Player89 (1824) drew
+Player96 (2435) vs. Player35 (1682)
+Player96 (2435) and Player35 (1682) drew
+Player53 (2396) vs. Player67 (1618)
+Player67 (1618) defeated Player53 (2396)
+Player85 (2332) vs. Player99 (1554)
+Player99 (1554) defeated Player85 (2332)
+Player36 (2055) vs. Player12 (1103)
+Player36 (2055) defeated Player12 (1103)
+Player33 (2936) vs. Player84 (1959)
+Player33 (2936) defeated Player84 (1959)
+Player97 (2808) vs. Player14 (1849)
+Player97 (2808) and Player14 (1849) drew
+Player32 (2563) vs. Player83 (1586)
+Player83 (1586) defeated Player32 (2563)
+Player64 (2499) vs. Player61 (1380)
+Player64 (2499) and Player61 (1380) drew
+Player42 (2293) vs. Player18 (1341)
+Player42 (2293) defeated Player18 (1341)
+Player31 (2190) vs. Player23 (1206)
+Player31 (2190) defeated Player23 (1206)
+Player47 (2158) vs. Player98 (1181)
+Player98 (1181) defeated Player47 (2158)
+Player63 (2126) vs. Player39 (1174)
+Player63 (2126) and Player39 (1174) drew
+Player95 (2062) vs. Player71 (1110)
+Player95 (2062) and Player71 (1110) drew
+Player22 (2833) vs. Player46 (1785)
+Player46 (1785) defeated Player22 (2833)
+Player54 (2769) vs. Player51 (1650)
+Player51 (1650) defeated Player54 (2769)
+Player69 (2364) vs. Player72 (1483)
+Player72 (1483) defeated Player69 (2364)
+Player30 (1817) vs. Player45 (1412)
+Player30 (1817) and Player45 (1412) drew
+Player87 (1078) vs. Player26 (2325)
+Player87 (1078) defeated Player26 (2325)
+Player76 (2975) vs. Player74 (2229)
+Player76 (2975) and Player74 (2229) drew
+Player65 (2872) vs. Player90 (2197)
+Player65 (2872) and Player90 (2197) drew
+Player11 (2730) vs. Player4 (2119)
+Player11 (2730) and Player4 (2119) drew
+Player43 (2666) vs. Player20 (2087)
+Player43 (2666) defeated Player20 (2087)
+Player91 (2570) vs. Player66 (1245)
+Player66 (1245) defeated Player91 (2570)
+Player5 (2492) vs. Player7 (1238)
+Player5 (2492) defeated Player7 (1238)
+Player86 (2705) vs. Player10 (2357)
+Player86 (2705) and Player10 (2357) drew
+Player21 (2460) vs. Player15 (2222)
+Player21 (2460) defeated Player15 (2222)
+Player62 (1753) vs. Player3 (1746)
+Player3 (1746) defeated Player62 (1753)
+Player92 (2943) vs. Player78 (1721)
+Player92 (2943) defeated Player78 (1721)
+Player81 (2840) vs. Player88 (1451)
+Player81 (2840) defeated Player88 (1451)
+Player75 (2602) vs. Player2 (1373)
+Player75 (2602) and Player2 (1373) drew
+Player68 (1991) vs. Player93 (1316)
+Player68 (1991) and Player93 (1316) drew
+Player44 (1039) vs. Player73 (1856)
+Player73 (1856) defeated Player44 (1039)
+===================================
+ROUND 13/14 ENDED.
+Player41 (1920): 21
+Player25 (1952): 19
+Player55 (1142): 19
+Player49 (2904): 18
+Player70 (2737): 18
+Player52 (2023): 18
+Player19 (1714): 18
+Player59 (2634): 17
+Player48 (2531): 17
+Player80 (2467): 17
+Player13 (1476): 17
+Player82 (1213): 17
+Player6 (2865): 16
+Player38 (2801): 16
+Player37 (2428): 16
+Player58 (2261): 16
+Player56 (1515): 16
+Player29 (1444): 16
+Player1 (1000): 16
+Player16 (2595): 15
+Player36 (2055): 15
+Player57 (1888): 15
+Player94 (1689): 15
+Player67 (1618): 15
+Player8 (1611): 15
+Player24 (1579): 15
+Player99 (1554): 15
+Player77 (1348): 15
+Player34 (1309): 15
+Player50 (1277): 15
+Player60 (1007): 15
+Player33 (2936): 14
+Player27 (2698): 14
+Player96 (2435): 14
+Player42 (2293): 14
+Player31 (2190): 14
+Player79 (2094): 14
+Player9 (1984): 14
+Player89 (1824): 14
+Player35 (1682): 14
+Player83 (1586): 14
+Player40 (1547): 14
+Player98 (1181): 14
+Player17 (2968): 13
+Player97 (2808): 13
+Player64 (2499): 13
+Player53 (2396): 13
+Player85 (2332): 13
+Player63 (2126): 13
+Player95 (2062): 13
+Player14 (1849): 13
+Player46 (1785): 13
+Player51 (1650): 13
+Player72 (1483): 13
+Player61 (1380): 13
+Player39 (1174): 13
+Player71 (1110): 13
+Player12 (1103): 13
+Player87 (1078): 13
+Player43 (2666): 12
+Player32 (2563): 12
+Player5 (2492): 12
+Player47 (2158): 12
+Player84 (1959): 12
+Player30 (1817): 12
+Player45 (1412): 12
+Player18 (1341): 12
+Player66 (1245): 12
+Player23 (1206): 12
+Player76 (2975): 11
+Player65 (2872): 11
+Player22 (2833): 11
+Player54 (2769): 11
+Player11 (2730): 11
+Player21 (2460): 11
+Player69 (2364): 11
+Player74 (2229): 11
+Player90 (2197): 11
+Player4 (2119): 11
+Player92 (2943): 10
+Player81 (2840): 10
+Player86 (2705): 10
+Player91 (2570): 10
+Player10 (2357): 10
+Player26 (2325): 10
+Player20 (2087): 10
+Player3 (1746): 10
+Player7 (1238): 10
+Player75 (2602): 9
+Player15 (2222): 9
+Player68 (1991): 9
+Player73 (1856): 9
+Player62 (1753): 9
+Player2 (1373): 9
+Player93 (1316): 9
+Player28 (1071): 9
+Player78 (1721): 8
+Player88 (1451): 8
+Player44 (1039): 8
+===================================
+Player41 (1920) vs. Player25 (1952)
+Player41 (1920) and Player25 (1952) drew
+Player55 (1142) vs. Player70 (2737)
+Player70 (2737) defeated Player55 (1142)
+Player49 (2904) vs. Player52 (2023)
+Player52 (2023) defeated Player49 (2904)
+Player19 (1714) vs. Player80 (2467)
+Player19 (1714) defeated Player80 (2467)
+Player59 (2634) vs. Player13 (1476)
+Player59 (2634) and Player13 (1476) drew
+Player48 (2531) vs. Player82 (1213)
+Player82 (1213) defeated Player48 (2531)
+Player6 (2865) vs. Player58 (2261)
+Player6 (2865) and Player58 (2261) drew
+Player38 (2801) vs. Player56 (1515)
+Player38 (2801) defeated Player56 (1515)
+Player37 (2428) vs. Player29 (1444)
+Player37 (2428) and Player29 (1444) drew
+Player1 (1000) vs. Player8 (1611)
+Player1 (1000) and Player8 (1611) drew
+Player16 (2595) vs. Player24 (1579)
+Player16 (2595) and Player24 (1579) drew
+Player36 (2055) vs. Player99 (1554)
+Player36 (2055) defeated Player99 (1554)
+Player57 (1888) vs. Player77 (1348)
+Player57 (1888) and Player77 (1348) drew
+Player94 (1689) vs. Player34 (1309)
+Player94 (1689) and Player34 (1309) drew
+Player67 (1618) vs. Player50 (1277)
+Player50 (1277) defeated Player67 (1618)
+Player60 (1007) vs. Player79 (2094)
+Player60 (1007) and Player79 (2094) drew
+Player33 (2936) vs. Player9 (1984)
+Player9 (1984) defeated Player33 (2936)
+Player27 (2698) vs. Player89 (1824)
+Player27 (2698) and Player89 (1824) drew
+Player96 (2435) vs. Player35 (1682)
+Player96 (2435) and Player35 (1682) drew
+Player42 (2293) vs. Player83 (1586)
+Player83 (1586) defeated Player42 (2293)
+Player31 (2190) vs. Player40 (1547)
+Player31 (2190) defeated Player40 (1547)
+Player98 (1181) vs. Player14 (1849)
+Player98 (1181) and Player14 (1849) drew
+Player17 (2968) vs. Player46 (1785)
+Player46 (1785) defeated Player17 (2968)
+Player97 (2808) vs. Player51 (1650)
+Player97 (2808) and Player51 (1650) drew
+Player64 (2499) vs. Player72 (1483)
+Player64 (2499) and Player72 (1483) drew
+Player53 (2396) vs. Player61 (1380)
+Player53 (2396) defeated Player61 (1380)
+Player85 (2332) vs. Player39 (1174)
+Player39 (1174) defeated Player85 (2332)
+Player63 (2126) vs. Player71 (1110)
+Player63 (2126) and Player71 (1110) drew
+Player95 (2062) vs. Player12 (1103)
+Player95 (2062) defeated Player12 (1103)
+Player87 (1078) vs. Player84 (1959)
+Player84 (1959) defeated Player87 (1078)
+Player43 (2666) vs. Player30 (1817)
+Player43 (2666) defeated Player30 (1817)
+Player32 (2563) vs. Player45 (1412)
+Player45 (1412) defeated Player32 (2563)
+Player5 (2492) vs. Player18 (1341)
+Player5 (2492) and Player18 (1341) drew
+Player47 (2158) vs. Player66 (1245)
+Player47 (2158) and Player66 (1245) drew
+Player23 (1206) vs. Player11 (2730)
+Player11 (2730) defeated Player23 (1206)
+Player76 (2975) vs. Player21 (2460)
+Player76 (2975) and Player21 (2460) drew
+Player65 (2872) vs. Player69 (2364)
+Player65 (2872) defeated Player69 (2364)
+Player22 (2833) vs. Player74 (2229)
+Player22 (2833) defeated Player74 (2229)
+Player54 (2769) vs. Player90 (2197)
+Player54 (2769) defeated Player90 (2197)
+Player4 (2119) vs. Player10 (2357)
+Player4 (2119) and Player10 (2357) drew
+Player92 (2943) vs. Player26 (2325)
+Player26 (2325) defeated Player92 (2943)
+Player81 (2840) vs. Player20 (2087)
+Player20 (2087) defeated Player81 (2840)
+Player86 (2705) vs. Player3 (1746)
+Player86 (2705) and Player3 (1746) drew
+Player91 (2570) vs. Player7 (1238)
+Player91 (2570) and Player7 (1238) drew
+Player75 (2602) vs. Player62 (1753)
+Player75 (2602) and Player62 (1753) drew
+Player15 (2222) vs. Player2 (1373)
+Player15 (2222) defeated Player2 (1373)
+Player68 (1991) vs. Player93 (1316)
+Player68 (1991) and Player93 (1316) drew
+Player73 (1856) vs. Player28 (1071)
+Player73 (1856) and Player28 (1071) drew
+Player78 (1721) vs. Player88 (1451)
+Player78 (1721) defeated Player88 (1451)
+===================================
+ROUND 14/14 ENDED.
+Player41 (1920): 22
+Player70 (2737): 20
+Player52 (2023): 20
+Player25 (1952): 20
+Player19 (1714): 20
+Player82 (1213): 19
+Player55 (1142): 19
+Player49 (2904): 18
+Player38 (2801): 18
+Player59 (2634): 18
+Player13 (1476): 18
+Player6 (2865): 17
+Player48 (2531): 17
+Player80 (2467): 17
+Player37 (2428): 17
+Player58 (2261): 17
+Player36 (2055): 17
+Player29 (1444): 17
+Player50 (1277): 17
+Player1 (1000): 17
+Player16 (2595): 16
+Player31 (2190): 16
+Player9 (1984): 16
+Player57 (1888): 16
+Player94 (1689): 16
+Player8 (1611): 16
+Player83 (1586): 16
+Player24 (1579): 16
+Player56 (1515): 16
+Player77 (1348): 16
+Player34 (1309): 16
+Player60 (1007): 16
+Player27 (2698): 15
+Player96 (2435): 15
+Player53 (2396): 15
+Player79 (2094): 15
+Player95 (2062): 15
+Player89 (1824): 15
+Player46 (1785): 15
+Player35 (1682): 15
+Player67 (1618): 15
+Player99 (1554): 15
+Player98 (1181): 15
+Player39 (1174): 15
+Player33 (2936): 14
+Player97 (2808): 14
+Player43 (2666): 14
+Player64 (2499): 14
+Player42 (2293): 14
+Player63 (2126): 14
+Player84 (1959): 14
+Player14 (1849): 14
+Player51 (1650): 14
+Player40 (1547): 14
+Player72 (1483): 14
+Player45 (1412): 14
+Player71 (1110): 14
+Player17 (2968): 13
+Player65 (2872): 13
+Player22 (2833): 13
+Player54 (2769): 13
+Player11 (2730): 13
+Player5 (2492): 13
+Player85 (2332): 13
+Player47 (2158): 13
+Player61 (1380): 13
+Player18 (1341): 13
+Player66 (1245): 13
+Player12 (1103): 13
+Player87 (1078): 13
+Player76 (2975): 12
+Player32 (2563): 12
+Player21 (2460): 12
+Player26 (2325): 12
+Player4 (2119): 12
+Player20 (2087): 12
+Player30 (1817): 12
+Player23 (1206): 12
+Player86 (2705): 11
+Player91 (2570): 11
+Player69 (2364): 11
+Player10 (2357): 11
+Player74 (2229): 11
+Player15 (2222): 11
+Player90 (2197): 11
+Player3 (1746): 11
+Player7 (1238): 11
+Player92 (2943): 10
+Player81 (2840): 10
+Player75 (2602): 10
+Player68 (1991): 10
+Player73 (1856): 10
+Player62 (1753): 10
+Player78 (1721): 10
+Player93 (1316): 10
+Player28 (1071): 10
+Player44 (1039): 10
+Player2 (1373): 9
+Player88 (1451): 8
+===================================

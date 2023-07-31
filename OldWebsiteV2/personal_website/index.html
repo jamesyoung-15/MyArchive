@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset = "UTF-8">
+        <title>James' Portfolio Website</title>
+        <link href="styles/style.css" rel="stylesheet" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet"> 
+        <script src="https://kit.fontawesome.com/2e277278ff.js" crossorigin="anonymous"></script>
+        <!--Temp email was  xikad86693@nubotel.com for font-awesome-->
+    </head>
+    <body>
+        <!--Top Bar-->
+        <div class="topbar">
+            <div class="nav container">
+                <a href="#" class="topbar-title">James</a>
+                    <ul class="navbar">
+                        <li><a href="#" class="nav-link">Home</a></li>
+                        <li><a href="about.html" class="nav-link">About</a></li>
+                        <li><a href="https://jamesyoung-15.github.io/docs/resume_2.pdf" target="_blank" class="nav-link">Resume</a></li>
+                    </ul>
+                    <div class = "menu-icon">
+                        <div class="line1"></div>
+                        <div class="line2"></div>
+                        <div class="line3"></div>
+                    </div>
+            </div>
+        </div>
+        <!--Hello section-->
+        <header>
+            <div class="home-content">
+                <div class="myimage">
+                    <img src="images/myphoto.png" alt="My Pic" width="235" height="235">
+                </div>
+                <div class="home-text">
+                    <h1 class=>Hello!</h1>
+                    <p>Hi! My name is James and I'm currently studying Electronic Engineering at HKUST.</p>
+                    <div class="social">
+                        <a href="https://github.com/jamesyoung-15/" target="_blank"><i class="bx fa-brands fa-github"></i></i></a>
+                        <a href="https://www.linkedin.com/in/jamesyyoung/" target="_blank"><i class="bx fa-brands fa-linkedin"></i></i></a>
+                        <a href="mailto: jyyoungaa@connect.ust.hk" target="_blank"><i class="bx fa-regular fa-envelope"></i></i></a>
+                    </div>
+                </div>
+            </div>  
+        </header>
+        <!--About Me-->
+        <!--Projects-->
+        <section class="projects">
+            <div class="section-title">
+                <h2>My Projects</h2>
+            </div>
+            <div class="project-container">
+                <div class="project-box">
+                    <h2>HTTP Server</h2>
+                    <p>Simple HTTP server from scratch written in C. The server can serve static HTML pages as well as a image files such as png, gifs,etc. Uses concepts of socket programming and HTTP protocol to implement server.</p>
+                    <a href="https://github.com/jamesyoung-15/http-server" target="_blank"><i class="fa-brands fa-github"></i></a>
+                </div>
+                <div class="project-box">
+                    <h2>ESP32 IoT Temperature Monitor</h2>
+                    <p>IoT project that takes the temperature and humidity detected by a KY-015 sensor module and displays it to a HTML webpage via a ESP32 chip. Coded in C and developed with ESP-IDF framework.</p>
+                    <a href="https://github.com/jamesyoung-15/esp32-dht11-server" target="_blank"><i class="fa-brands fa-github"></i></a>
+                </div>
+                <div class="project-box">
+                    <h2>Home Server</h2>
+                    <p>Running a home lab with a Ubuntu bare metal server that hosts applications such as Nextcloud, Jellyfin, Nginx Reverse Proxy Manager, and so on through Docker containers. Learned and applied some basic IT/networking, Linux, and bash.</p>
+                    <a href="https://github.com/jamesyoung-15/homeserver" target="_blank"><i class="fa-brands fa-github"></i></a>
+                </div>
+            </div>
+        </section>
+        
+    </body>
+    <script src="js/app.js"></script>
+</html>

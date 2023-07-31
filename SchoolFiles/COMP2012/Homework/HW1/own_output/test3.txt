@@ -1,0 +1,71 @@
+Please input number of players: 
+Please input each players' names followed by their ELO rating.
+Please input number of rounds: 
+===================================
+ROUND 0/3 ENDED.
+David (2500): 0
+Gary (2200): 0
+Carol (2000): 0
+Harry (1750): 0
+Bob (1500): 0
+Fred (1450): 0
+Ethan (1200): 0
+Alice (1000): 0
+===================================
+David (2500) vs. Bob (1500)
+David (2500) defeated Bob (1500)
+Gary (2200) vs. Fred (1450)
+Fred (1450) defeated Gary (2200)
+Carol (2000) vs. Ethan (1200)
+Carol (2000) defeated Ethan (1200)
+Harry (1750) vs. Alice (1000)
+Harry (1750) and Alice (1000) drew
+===================================
+ROUND 1/3 ENDED.
+David (2500): 2
+Carol (2000): 2
+Fred (1450): 2
+Harry (1750): 1
+Alice (1000): 1
+Gary (2200): 0
+Bob (1500): 0
+Ethan (1200): 0
+===================================
+David (2500) vs. Carol (2000)
+David (2500) and Carol (2000) drew
+Fred (1450) vs. Harry (1750)
+Fred (1450) defeated Harry (1750)
+Alice (1000) vs. Bob (1500)
+Bob (1500) defeated Alice (1000)
+Gary (2200) vs. Ethan (1200)
+Gary (2200) defeated Ethan (1200)
+===================================
+ROUND 2/3 ENDED.
+Fred (1450): 4
+David (2500): 3
+Carol (2000): 3
+Gary (2200): 2
+Bob (1500): 2
+Harry (1750): 1
+Alice (1000): 1
+Ethan (1200): 0
+===================================
+Fred (1450) vs. David (2500)
+David (2500) defeated Fred (1450)
+Carol (2000) vs. Gary (2200)
+Carol (2000) and Gary (2200) drew
+Bob (1500) vs. Harry (1750)
+Bob (1500) defeated Harry (1750)
+Alice (1000) vs. Ethan (1200)
+Alice (1000) defeated Ethan (1200)
+===================================
+ROUND 3/3 ENDED.
+David (2500): 5
+Carol (2000): 4
+Bob (1500): 4
+Fred (1450): 4
+Gary (2200): 3
+Alice (1000): 3
+Harry (1750): 1
+Ethan (1200): 0
+===================================

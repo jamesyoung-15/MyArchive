@@ -1,0 +1,15 @@
+Please input number of players: 
+Please input each players' names followed by their ELO rating.
+Please input number of rounds: 
+===================================
+ROUND 0/1 ENDED.
+Bob (1500): 0
+Alice (1000): 0
+===================================
+Bob (1500) vs. Alice (1000)
+Bob (1500) defeated Alice (1000)
+===================================
+ROUND 1/1 ENDED.
+Bob (1500): 2
+Alice (1000): 0
+===================================
