@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /mnt/vmshare/catkin_elec3210/install/setup.sh

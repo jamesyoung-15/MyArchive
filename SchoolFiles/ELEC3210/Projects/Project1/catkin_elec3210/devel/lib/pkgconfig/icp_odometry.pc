@@ -1,0 +1,8 @@
+prefix=/mnt/vmshare/catkin_elec3210/devel
+
+Name: icp_odometry
+Description: Description of icp_odometry
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

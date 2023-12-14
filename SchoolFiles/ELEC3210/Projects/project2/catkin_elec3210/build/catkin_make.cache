@@ -1,0 +1,2 @@
+ekf_slam
+-DCATKIN_DEVEL_PREFIX=/mnt/ELEC3210-Share/Projects/project2/catkin_elec3210/devel -DCMAKE_INSTALL_PREFIX=/mnt/ELEC3210-Share/Projects/project2/catkin_elec3210/install -G Unix Makefiles

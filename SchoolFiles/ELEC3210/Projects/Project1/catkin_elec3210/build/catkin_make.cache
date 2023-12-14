@@ -1,0 +1,2 @@
+elec3210/icp_odometry
+-DCATKIN_DEVEL_PREFIX=/mnt/vmshare/catkin_elec3210/devel -DCMAKE_INSTALL_PREFIX=/mnt/vmshare/catkin_elec3210/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/mnt/ELEC3210-Share/Projects/project2/catkin_elec3210/devel
+
+Name: ekf_slam
+Description: Description of ekf_slam
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,4 @@
+icp:
+  max_iterations: 100
+  max_distance: 0.5
+  test_part: 2 # 2 for scan-scan, 3 for keyframe, 4 for map

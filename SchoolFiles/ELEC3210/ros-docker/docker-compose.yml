@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  ros:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./workspace:/ros_ws
+    ports:
+      - 6080:80
+      - 5900:5900
+      - 11311:11311
