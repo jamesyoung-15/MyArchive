@@ -1,0 +1,18 @@
+---
+version: "2.1"
+services:
+  calibre:
+    image: lscr.io/linuxserver/calibre:latest
+    container_name: calibre
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Europe/London
+      - PASSWORD= #optional
+      - CLI_ARGS= #optional
+    volumes:
+      - /new-pool/calibre:/config
+    ports:
+      - 8089:8080
+      - 8090:8081
+    restart: unless-stopped

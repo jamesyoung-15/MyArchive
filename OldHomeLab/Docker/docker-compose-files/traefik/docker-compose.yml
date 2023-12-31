@@ -1,0 +1,41 @@
+version: "3.3"
+
+services:
+  traefik:
+    container_name: traefik
+    image: "traefik:latest"
+    restart: unless-stopped
+    security_opt:
+      - no-new-privileges:true
+    ports:
+      - 80:80
+      - 443:443
+    networks:
+      - proxy
+    environment:
+      - CF_API_EMAIL=jamesyoung3931@gmail.com
+      - CF_DNS_API_TOKEN=MyToken
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock:ro
+      - ./traefik-data/letsencrypt/acme.json:/acme.json
+      - ./traefik-data/traefik.yml:/traefik.yml:ro
+      - ./traefik-data/config.yml:/config.yml:ro
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.traefik.entrypoints=http"
+      - "traefik.http.routers.traefik.rule=Host(`traefik.jyypop.xyz`)"
+      - "traefik.http.middlewares.traefik-auth.basicauth.users=USER:BASIC_AUTH_PASSWORD"
+      - "traefik.http.middlewares.traefik-https-redirect.redirectscheme.scheme=https"
+      - "traefik.http.middlewares.sslheader.headers.customrequestheaders.X-Forwarded-Proto=https"
+      - "traefik.http.routers.traefik.middlewares=traefik-https-redirect"
+      - "traefik.http.routers.traefik-secure.entrypoints=https"
+      - "traefik.http.routers.traefik-secure.rule=Host(`traefik.jyypop.xyz`)"
+      - "traefik.http.routers.traefik-secure.middlewares=traefik-auth"
+      - "traefik.http.routers.traefik-secure.tls=true"
+      - "traefik.http.routers.traefik-secure.tls.certresolver=cloudflare"
+      - "traefik.http.routers.traefik-secure.tls.domains[0].main=jyypop.xyz"
+      - "traefik.http.routers.traefik-secure.tls.domains[0].sans=*.jyypop.xyz"
+      - "traefik.http.routers.traefik-secure.service=api@internal"
+networks:
+  proxy:
+    external: true
