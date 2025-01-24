@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Face Blurring</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css"/>
+</head>
+<body>
+    <header class="container" style="margin-bottom: 100px">
+        <h1 style="text-align: center">Serverless Face Blurring</h1>
+    </header>
+    <main class="container">
+        <form action="/upload" method="post" enctype="multipart/form-data">
+            <fieldset class="grid">
+                <input type="file" name="file" required>
+                <input type="submit" value="Upload Image">
+            </fieldset>
+        </form>
+        <section class="container">
+            <button class="secondary" onclick="window.location.href='{{ images_url }}';" style="display: block; margin: auto; margin-top: 300px">View Recently Uploaded Image</button>
+        </section>
+    </main>
+</body>
+</html>

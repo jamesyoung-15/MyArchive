@@ -1,0 +1,5 @@
+opencv-python-headless
+mtcnn-opencv
+numpy
+minio
+Pillow

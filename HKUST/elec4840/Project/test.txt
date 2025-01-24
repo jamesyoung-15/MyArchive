@@ -1,0 +1,21 @@
+### evaluate on test set
+model.eval()
+test_lbl, test_pred = [], []
+for data in loader_test:
+    test_images, test_labels = data
+    test_labels = test_labels.float()
+    if use_cuda:
+        test_images = test_images.cuda()
+        test_labels = test_labels.float().cuda()
+    test_outputs = model(test_images)[:, 0]
+    test_outputs = torch.sigmoid(test_outputs)
+    y_scores = list(test_outputs.detach().cpu().numpy())
+    y_true = list(test_labels.detach().cpu().numpy())
+    test_lbl += y_true
+    test_pred += y_scores
+
+### compute and print the metrics on test set
+test_lbl, test_pred = np.array(test_lbl), np.array(test_pred)
+test_pred_lbl = np.around(test_pred) # pred >= 0.5 pred_lbl = 1 else pred_lbl = 0
+test_auc = roc_auc_score(test_lbl, test_pred)
+test_acc = accuracy_score(test_lbl, test_pred_lbl)

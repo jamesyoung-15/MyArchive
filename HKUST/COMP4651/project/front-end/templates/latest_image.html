@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Your Latest Blurred Image</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css"/>
+</head>
+<body>
+    <header class="container" style="margin-bottom: 50px">
+        <h1 style="text-align: center">Minio Bucket Images</h1>
+    </header>
+    <main class="container">
+        <section class="grid">
+            <div class="container">
+                <h2 style="text-align: center">Latest Unblurred Image</h2>
+                <img src="{{ unblur_image_url }}" alt="Latest Unblurred Image" width="500" height="500" style="margin: auto;display: block;">
+            </div>
+            <div class="container">
+                <h2 style="text-align: center">Latest Blurred Image</h2>
+                <img src="{{ blur_image_url }}" alt="Latest Image" width="500" height="500" style="margin: auto;display: block;">
+            </div>
+        </section>
+        <section class="container">
+            <button onclick="window.location.href='{{ return_url }}';" style="display: block; margin: auto;">Return to Upload Another Image</button>
+        </section>
+    </main>
+</body>
+</html>

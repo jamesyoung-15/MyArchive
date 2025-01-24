@@ -1,0 +1,1 @@
+kubectl apply -f minio-dev.yaml && kubectl get pods -n minio-dev -o wide | awk 'NR>1 {print $6}' > face-blur/function/minio_ip.txt

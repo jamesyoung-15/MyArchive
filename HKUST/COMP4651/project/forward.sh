@@ -1,0 +1,1 @@
+kubectl port-forward -n openfaas svc/gateway 8080:8080 && kubectl port-forward svc/minio -n minio-dev 9090 9000

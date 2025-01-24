@@ -1,0 +1,30 @@
+Error: Could not find or load main class ..Hellojava
+Caused by: java.lang.ClassNotFoundException: //Hellojava
+% time     seconds  usecs/call     calls    errors syscall
+------ ----------- ----------- --------- --------- ----------------
+ 45.64    0.000068           2        34           mmap
+ 17.45    0.000026           2         9           mprotect
+  8.05    0.000012           1         8           openat
+  7.38    0.000011          11         1           clone3
+  5.37    0.000008           1         8           close
+  4.03    0.000006           0         9           read
+  4.03    0.000006           0         8           fstat
+  2.68    0.000004           1         3           rt_sigprocmask
+  2.01    0.000003           0         4           brk
+  1.34    0.000002           2         1           rt_sigaction
+  1.34    0.000002           2         1           futex
+  0.67    0.000001           1         1           getpid
+  0.00    0.000000           0         2           pread64
+  0.00    0.000000           0         2         1 access
+  0.00    0.000000           0         1           execve
+  0.00    0.000000           0         1           readlink
+  0.00    0.000000           0         1           arch_prctl
+  0.00    0.000000           0         1           set_tid_address
+  0.00    0.000000           0         1           newfstatat
+  0.00    0.000000           0         1           readlinkat
+  0.00    0.000000           0         1           set_robust_list
+  0.00    0.000000           0         1           prlimit64
+  0.00    0.000000           0         1           getrandom
+  0.00    0.000000           0         1           rseq
+------ ----------- ----------- --------- --------- ----------------
+100.00    0.000149           1       101         1 total

@@ -1,0 +1,1 @@
+savedcmd_/home/jamesyoung/Documents/cs575/hw/hw3/hello.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o /home/jamesyoung/Documents/cs575/hw/hw3/hello.ko /home/jamesyoung/Documents/cs575/hw/hw3/hello.o /home/jamesyoung/Documents/cs575/hw/hw3/hello.mod.o

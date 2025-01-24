@@ -1,0 +1,8 @@
+ISBI*
+data
+test
+train
+val
+SpleenDataset*
+# runs
+Task09*
